@@ -1,0 +1,4391 @@
+[
+  {
+    "id": "martinez-l-inter-ef8dc5385069",
+    "name": "Martinez L.",
+    "role": "A",
+    "serieATeam": "Inter",
+    "active": true
+  },
+  {
+    "id": "pulisic-milan-455018235063",
+    "name": "Pulisic",
+    "role": "C",
+    "serieATeam": "Milan",
+    "active": true
+  },
+  {
+    "id": "thuram-inter-b416dfbe28e3",
+    "name": "Thuram",
+    "role": "A",
+    "serieATeam": "Inter",
+    "active": true
+  },
+  {
+    "id": "paz-n-como-b990de7ad039",
+    "name": "Paz N.",
+    "role": "C",
+    "serieATeam": "Como",
+    "active": true
+  },
+  {
+    "id": "calhanoglu-inter-1c3e79ac410b",
+    "name": "Calhanoglu",
+    "role": "C",
+    "serieATeam": "Inter",
+    "active": true
+  },
+  {
+    "id": "orsolini-bologna-3236dafcb2ee",
+    "name": "Orsolini",
+    "role": "C",
+    "serieATeam": "Bologna",
+    "active": true
+  },
+  {
+    "id": "hojlund-napoli-1759befa4ff7",
+    "name": "Hojlund",
+    "role": "A",
+    "serieATeam": "Napoli",
+    "active": true
+  },
+  {
+    "id": "mctominay-napoli-b9fd4fe0808d",
+    "name": "McTominay",
+    "role": "C",
+    "serieATeam": "Napoli",
+    "active": true
+  },
+  {
+    "id": "yildiz-juventus-286af40c86d4",
+    "name": "Yildiz",
+    "role": "A",
+    "serieATeam": "Juventus",
+    "active": true
+  },
+  {
+    "id": "leao-milan-2b11acb25be1",
+    "name": "Leao",
+    "role": "A",
+    "serieATeam": "Milan",
+    "active": true
+  },
+  {
+    "id": "soule-roma-2c9ad1713914",
+    "name": "Soulè",
+    "role": "A",
+    "serieATeam": "Roma",
+    "active": true
+  },
+  {
+    "id": "kean-fiorentina-282a50cc9c3f",
+    "name": "Kean",
+    "role": "A",
+    "serieATeam": "Fiorentina",
+    "active": true
+  },
+  {
+    "id": "dimarco-inter-09cdad28526a",
+    "name": "Dimarco",
+    "role": "D",
+    "serieATeam": "Inter",
+    "active": true
+  },
+  {
+    "id": "zaccagni-lazio-92c65bc823bd",
+    "name": "Zaccagni",
+    "role": "C",
+    "serieATeam": "Lazio",
+    "active": true
+  },
+  {
+    "id": "scamacca-atalanta-cf728170548c",
+    "name": "Scamacca",
+    "role": "A",
+    "serieATeam": "Atalanta",
+    "active": true
+  },
+  {
+    "id": "svilar-roma-358e7a8b08fe",
+    "name": "Svilar",
+    "role": "P",
+    "serieATeam": "Roma",
+    "active": true
+  },
+  {
+    "id": "berardi-sassuolo-f65d65e8dc82",
+    "name": "Berardi",
+    "role": "A",
+    "serieATeam": "Sassuolo",
+    "active": true
+  },
+  {
+    "id": "vlasic-torino-af7f32c4a22f",
+    "name": "Vlasic",
+    "role": "C",
+    "serieATeam": "Torino",
+    "active": true
+  },
+  {
+    "id": "de-bruyne-napoli-5eaaaab7c06d",
+    "name": "De Bruyne",
+    "role": "C",
+    "serieATeam": "Napoli",
+    "active": true
+  },
+  {
+    "id": "pellegrino-m-parma-37b0a0a6e944",
+    "name": "Pellegrino M.",
+    "role": "A",
+    "serieATeam": "Parma",
+    "active": true
+  },
+  {
+    "id": "rabiot-milan-eb0ecf0635d2",
+    "name": "Rabiot",
+    "role": "C",
+    "serieATeam": "Milan",
+    "active": true
+  },
+  {
+    "id": "lookman-atalanta-f1eda3d90995",
+    "name": "Lookman",
+    "role": "A",
+    "serieATeam": "Atalanta",
+    "active": true
+  },
+  {
+    "id": "saelemaekers-milan-c97f54c66d86",
+    "name": "Saelemaekers",
+    "role": "C",
+    "serieATeam": "Milan",
+    "active": true
+  },
+  {
+    "id": "maignan-milan-32660929b285",
+    "name": "Maignan",
+    "role": "P",
+    "serieATeam": "Milan",
+    "active": true
+  },
+  {
+    "id": "de-ketelaere-atalanta-9ba534d7acf2",
+    "name": "De Ketelaere",
+    "role": "A",
+    "serieATeam": "Atalanta",
+    "active": true
+  },
+  {
+    "id": "zaniolo-udinese-3745f11cf37a",
+    "name": "Zaniolo",
+    "role": "C",
+    "serieATeam": "Udinese",
+    "active": true
+  },
+  {
+    "id": "modric-milan-c21cf10aff95",
+    "name": "Modric",
+    "role": "C",
+    "serieATeam": "Milan",
+    "active": true
+  },
+  {
+    "id": "simeone-torino-ee3cfb06a1ab",
+    "name": "Simeone",
+    "role": "A",
+    "serieATeam": "Torino",
+    "active": true
+  },
+  {
+    "id": "zambo-anguissa-napoli-ebbcd3391bd1",
+    "name": "Zambo Anguissa",
+    "role": "C",
+    "serieATeam": "Napoli",
+    "active": true
+  },
+  {
+    "id": "davis-k-udinese-b6dd1e1088eb",
+    "name": "Davis K.",
+    "role": "A",
+    "serieATeam": "Udinese",
+    "active": true
+  },
+  {
+    "id": "barella-inter-bd5fcb50e9b1",
+    "name": "Barella",
+    "role": "C",
+    "serieATeam": "Inter",
+    "active": true
+  },
+  {
+    "id": "provedel-lazio-2618f199e411",
+    "name": "Provedel",
+    "role": "P",
+    "serieATeam": "Lazio",
+    "active": true
+  },
+  {
+    "id": "castro-s-bologna-3def933a2d3d",
+    "name": "Castro S.",
+    "role": "A",
+    "serieATeam": "Bologna",
+    "active": true
+  },
+  {
+    "id": "di-gregorio-juventus-2913380e8b8c",
+    "name": "Di Gregorio",
+    "role": "P",
+    "serieATeam": "Juventus",
+    "active": true
+  },
+  {
+    "id": "pinamonti-sassuolo-86d3b8ea89c4",
+    "name": "Pinamonti",
+    "role": "A",
+    "serieATeam": "Sassuolo",
+    "active": true
+  },
+  {
+    "id": "neres-napoli-f1a554b316ee",
+    "name": "Neres",
+    "role": "C",
+    "serieATeam": "Napoli",
+    "active": true
+  },
+  {
+    "id": "castellanos-lazio-e4873250c8ed",
+    "name": "Castellanos",
+    "role": "A",
+    "serieATeam": "Lazio",
+    "active": false
+  },
+  {
+    "id": "thauvin-udinese-e7f591daaf19",
+    "name": "Thauvin",
+    "role": "A",
+    "serieATeam": "Udinese",
+    "active": false
+  },
+  {
+    "id": "vardy-cremonese-7689a530816d",
+    "name": "Vardy",
+    "role": "A",
+    "serieATeam": "Cremonese",
+    "active": true
+  },
+  {
+    "id": "sommer-inter-042918a7ec50",
+    "name": "Sommer",
+    "role": "P",
+    "serieATeam": "Inter",
+    "active": true
+  },
+  {
+    "id": "raspadori-atalanta-c8011cfcf806",
+    "name": "Raspadori",
+    "role": "A",
+    "serieATeam": "Atalanta",
+    "active": true
+  },
+  {
+    "id": "dybala-roma-e432beacf273",
+    "name": "Dybala",
+    "role": "A",
+    "serieATeam": "Roma",
+    "active": true
+  },
+  {
+    "id": "ratkov-lazio-6c38d1ff49b6",
+    "name": "Ratkov",
+    "role": "A",
+    "serieATeam": "Lazio",
+    "active": true
+  },
+  {
+    "id": "vlahovic-juventus-514d4c495f3c",
+    "name": "Vlahovic",
+    "role": "A",
+    "serieATeam": "Juventus",
+    "active": true
+  },
+  {
+    "id": "lukaku-napoli-af91e9aa24a4",
+    "name": "Lukaku",
+    "role": "A",
+    "serieATeam": "Napoli",
+    "active": true
+  },
+  {
+    "id": "ndoye-bologna-9c01bad347f4",
+    "name": "Ndoye",
+    "role": "C",
+    "serieATeam": "Bologna",
+    "active": false
+  },
+  {
+    "id": "wesley-roma-57a489e1bd1f",
+    "name": "Wesley",
+    "role": "D",
+    "serieATeam": "Roma",
+    "active": true
+  },
+  {
+    "id": "bastoni-inter-5e805fe54fd6",
+    "name": "Bastoni",
+    "role": "D",
+    "serieATeam": "Inter",
+    "active": true
+  },
+  {
+    "id": "carnesecchi-atalanta-ec1078b65458",
+    "name": "Carnesecchi",
+    "role": "P",
+    "serieATeam": "Atalanta",
+    "active": true
+  },
+  {
+    "id": "gudmundsson-a-fiorentina-80571493a53b",
+    "name": "Gudmundsson A.",
+    "role": "C",
+    "serieATeam": "Fiorentina",
+    "active": true
+  },
+  {
+    "id": "butez-como-5b9bb3a4cd14",
+    "name": "Butez",
+    "role": "P",
+    "serieATeam": "Como",
+    "active": true
+  },
+  {
+    "id": "kone-m-roma-1980f1cadba0",
+    "name": "Konè M.",
+    "role": "C",
+    "serieATeam": "Roma",
+    "active": true
+  },
+  {
+    "id": "milinkovic-savic-v-napoli-567e2dcc677e",
+    "name": "Milinkovic-Savic V.",
+    "role": "P",
+    "serieATeam": "Napoli",
+    "active": true
+  },
+  {
+    "id": "esposito-se-cagliari-787feb984984",
+    "name": "Esposito Se.",
+    "role": "A",
+    "serieATeam": "Cagliari",
+    "active": true
+  },
+  {
+    "id": "bremer-juventus-831c2f29f58a",
+    "name": "Bremer",
+    "role": "D",
+    "serieATeam": "Juventus",
+    "active": true
+  },
+  {
+    "id": "spinazzola-napoli-e29a04f93057",
+    "name": "Spinazzola",
+    "role": "D",
+    "serieATeam": "Napoli",
+    "active": true
+  },
+  {
+    "id": "di-lorenzo-napoli-bb681b24a1b2",
+    "name": "Di Lorenzo",
+    "role": "D",
+    "serieATeam": "Napoli",
+    "active": true
+  },
+  {
+    "id": "douvikas-como-de389b404d73",
+    "name": "Douvikas",
+    "role": "A",
+    "serieATeam": "Como",
+    "active": true
+  },
+  {
+    "id": "colombo-genoa-82fb23dab17a",
+    "name": "Colombo",
+    "role": "A",
+    "serieATeam": "Genoa",
+    "active": true
+  },
+  {
+    "id": "akanji-inter-02b580e5adbe",
+    "name": "Akanji",
+    "role": "D",
+    "serieATeam": "Inter",
+    "active": true
+  },
+  {
+    "id": "david-juventus-7e1cc629f76e",
+    "name": "David",
+    "role": "A",
+    "serieATeam": "Juventus",
+    "active": true
+  },
+  {
+    "id": "thuram-k-juventus-8415be6daf6c",
+    "name": "Thuram K.",
+    "role": "C",
+    "serieATeam": "Juventus",
+    "active": true
+  },
+  {
+    "id": "mandragora-fiorentina-ec8bd0555286",
+    "name": "Mandragora",
+    "role": "C",
+    "serieATeam": "Fiorentina",
+    "active": true
+  },
+  {
+    "id": "palestra-cagliari-d213d29be9a7",
+    "name": "Palestra",
+    "role": "D",
+    "serieATeam": "Cagliari",
+    "active": true
+  },
+  {
+    "id": "durosinmi-pisa-4af14cd836cd",
+    "name": "Durosinmi",
+    "role": "A",
+    "serieATeam": "Pisa",
+    "active": true
+  },
+  {
+    "id": "malen-roma-5bdce02dd9d4",
+    "name": "Malen",
+    "role": "A",
+    "serieATeam": "Roma",
+    "active": true
+  },
+  {
+    "id": "atta-udinese-5a4b927a26ee",
+    "name": "Atta",
+    "role": "C",
+    "serieATeam": "Udinese",
+    "active": true
+  },
+  {
+    "id": "kalulu-juventus-4a3cbada9da4",
+    "name": "Kalulu",
+    "role": "D",
+    "serieATeam": "Juventus",
+    "active": true
+  },
+  {
+    "id": "taylor-k-lazio-68776d83e7c7",
+    "name": "Taylor K.",
+    "role": "C",
+    "serieATeam": "Lazio",
+    "active": true
+  },
+  {
+    "id": "perrone-como-b4c601c8229b",
+    "name": "Perrone",
+    "role": "C",
+    "serieATeam": "Como",
+    "active": true
+  },
+  {
+    "id": "locatelli-juventus-7ad4f9959036",
+    "name": "Locatelli",
+    "role": "C",
+    "serieATeam": "Juventus",
+    "active": true
+  },
+  {
+    "id": "rrahmani-napoli-0ceab2639402",
+    "name": "Rrahmani",
+    "role": "D",
+    "serieATeam": "Napoli",
+    "active": true
+  },
+  {
+    "id": "lauriente-sassuolo-ce534a0244ef",
+    "name": "Laurientè",
+    "role": "A",
+    "serieATeam": "Sassuolo",
+    "active": true
+  },
+  {
+    "id": "conceicao-juventus-965c749935a6",
+    "name": "Conceicao",
+    "role": "C",
+    "serieATeam": "Juventus",
+    "active": true
+  },
+  {
+    "id": "malinovskyi-genoa-0ad63564f6ba",
+    "name": "Malinovskyi",
+    "role": "C",
+    "serieATeam": "Genoa",
+    "active": true
+  },
+  {
+    "id": "pavlovic-milan-cfdb5d52dbfd",
+    "name": "Pavlovic",
+    "role": "D",
+    "serieATeam": "Milan",
+    "active": true
+  },
+  {
+    "id": "adams-c-torino-f6be6dbf4a34",
+    "name": "Adams C.",
+    "role": "A",
+    "serieATeam": "Torino",
+    "active": true
+  },
+  {
+    "id": "ferguson-e-roma-4865897e64a7",
+    "name": "Ferguson E.",
+    "role": "A",
+    "serieATeam": "Roma",
+    "active": true
+  },
+  {
+    "id": "orban-g-verona-1b24ea3326cf",
+    "name": "Orban G.",
+    "role": "A",
+    "serieATeam": "Verona",
+    "active": true
+  },
+  {
+    "id": "isaksen-lazio-2600f359273b",
+    "name": "Isaksen",
+    "role": "C",
+    "serieATeam": "Lazio",
+    "active": true
+  },
+  {
+    "id": "odgaard-bologna-653b0c1ad68b",
+    "name": "Odgaard",
+    "role": "C",
+    "serieATeam": "Bologna",
+    "active": true
+  },
+  {
+    "id": "mancini-roma-aed36b2e4bfd",
+    "name": "Mancini",
+    "role": "D",
+    "serieATeam": "Roma",
+    "active": true
+  },
+  {
+    "id": "bernabe-parma-9a555e43ac71",
+    "name": "Bernabè",
+    "role": "C",
+    "serieATeam": "Parma",
+    "active": true
+  },
+  {
+    "id": "solet-udinese-edc652f96235",
+    "name": "Solet",
+    "role": "D",
+    "serieATeam": "Udinese",
+    "active": true
+  },
+  {
+    "id": "martin-genoa-442b5df5613f",
+    "name": "Martin",
+    "role": "D",
+    "serieATeam": "Genoa",
+    "active": true
+  },
+  {
+    "id": "falcone-lecce-1c4885c0638e",
+    "name": "Falcone",
+    "role": "P",
+    "serieATeam": "Lecce",
+    "active": true
+  },
+  {
+    "id": "zielinski-inter-fb62ed110f28",
+    "name": "Zielinski",
+    "role": "C",
+    "serieATeam": "Inter",
+    "active": true
+  },
+  {
+    "id": "cambiaghi-bologna-a4d30c612d9d",
+    "name": "Cambiaghi",
+    "role": "A",
+    "serieATeam": "Bologna",
+    "active": true
+  },
+  {
+    "id": "esposito-f-p-inter-9f8e849437ef",
+    "name": "Esposito F.P.",
+    "role": "A",
+    "serieATeam": "Inter",
+    "active": true
+  },
+  {
+    "id": "fullkrug-milan-cee828f3ca50",
+    "name": "Fullkrug",
+    "role": "A",
+    "serieATeam": "Milan",
+    "active": true
+  },
+  {
+    "id": "belotti-cagliari-e0d1c719b92a",
+    "name": "Belotti",
+    "role": "A",
+    "serieATeam": "Cagliari",
+    "active": true
+  },
+  {
+    "id": "thorstvedt-sassuolo-fb1865c5db9b",
+    "name": "Thorstvedt",
+    "role": "C",
+    "serieATeam": "Sassuolo",
+    "active": true
+  },
+  {
+    "id": "ederson-d-s-atalanta-73efad54039b",
+    "name": "Ederson D.S.",
+    "role": "C",
+    "serieATeam": "Atalanta",
+    "active": true
+  },
+  {
+    "id": "mckennie-juventus-b8889b576936",
+    "name": "McKennie",
+    "role": "C",
+    "serieATeam": "Juventus",
+    "active": true
+  },
+  {
+    "id": "dumfries-inter-24934bbb1a93",
+    "name": "Dumfries",
+    "role": "D",
+    "serieATeam": "Inter",
+    "active": true
+  },
+  {
+    "id": "tomori-milan-31433d585ffa",
+    "name": "Tomori",
+    "role": "D",
+    "serieATeam": "Milan",
+    "active": true
+  },
+  {
+    "id": "giovane-verona-e616ef3f8f74",
+    "name": "Giovane",
+    "role": "A",
+    "serieATeam": "Verona",
+    "active": true
+  },
+  {
+    "id": "vitinha-o-genoa-d4e5ca4a6422",
+    "name": "Vitinha O.",
+    "role": "A",
+    "serieATeam": "Genoa",
+    "active": true
+  },
+  {
+    "id": "nkunku-milan-1b00c82041cc",
+    "name": "Nkunku",
+    "role": "A",
+    "serieATeam": "Milan",
+    "active": true
+  },
+  {
+    "id": "kone-i-sassuolo-e03ff46a3105",
+    "name": "Konè I.",
+    "role": "C",
+    "serieATeam": "Sassuolo",
+    "active": true
+  },
+  {
+    "id": "vandeputte-cremonese-f7d46beedede",
+    "name": "Vandeputte",
+    "role": "C",
+    "serieATeam": "Cremonese",
+    "active": true
+  },
+  {
+    "id": "cristante-roma-0a2cc94922fa",
+    "name": "Cristante",
+    "role": "C",
+    "serieATeam": "Roma",
+    "active": true
+  },
+  {
+    "id": "bartesaghi-milan-b196b1b41127",
+    "name": "Bartesaghi",
+    "role": "D",
+    "serieATeam": "Milan",
+    "active": true
+  },
+  {
+    "id": "ostigard-genoa-aa667bc5132f",
+    "name": "Ostigard",
+    "role": "D",
+    "serieATeam": "Genoa",
+    "active": true
+  },
+  {
+    "id": "vaz-roma-fe84d80083b7",
+    "name": "Vaz",
+    "role": "A",
+    "serieATeam": "Roma",
+    "active": true
+  },
+  {
+    "id": "krstovic-atalanta-1e67046a8d0e",
+    "name": "Krstovic",
+    "role": "A",
+    "serieATeam": "Atalanta",
+    "active": true
+  },
+  {
+    "id": "fofana-y-milan-da3efe196071",
+    "name": "Fofana Y.",
+    "role": "C",
+    "serieATeam": "Milan",
+    "active": true
+  },
+  {
+    "id": "maripan-torino-d9c0f4e2edde",
+    "name": "Maripan",
+    "role": "D",
+    "serieATeam": "Torino",
+    "active": true
+  },
+  {
+    "id": "bonazzoli-cremonese-71aee0144b8c",
+    "name": "Bonazzoli",
+    "role": "A",
+    "serieATeam": "Cremonese",
+    "active": true
+  },
+  {
+    "id": "politano-napoli-39a5de75a948",
+    "name": "Politano",
+    "role": "C",
+    "serieATeam": "Napoli",
+    "active": true
+  },
+  {
+    "id": "pellegrini-lo-roma-74372bc33b77",
+    "name": "Pellegrini Lo.",
+    "role": "C",
+    "serieATeam": "Roma",
+    "active": true
+  },
+  {
+    "id": "belghali-verona-965cbf2e40c3",
+    "name": "Belghali",
+    "role": "D",
+    "serieATeam": "Verona",
+    "active": true
+  },
+  {
+    "id": "rodriguez-je-como-412737b12c4f",
+    "name": "Rodriguez Je.",
+    "role": "A",
+    "serieATeam": "Como",
+    "active": true
+  },
+  {
+    "id": "bonny-inter-50a9a56efc52",
+    "name": "Bonny",
+    "role": "A",
+    "serieATeam": "Inter",
+    "active": true
+  },
+  {
+    "id": "berisha-m-lecce-4d3c7fe07657",
+    "name": "Berisha M.",
+    "role": "C",
+    "serieATeam": "Lecce",
+    "active": true
+  },
+  {
+    "id": "miretti-juventus-6e7ad81a5152",
+    "name": "Miretti",
+    "role": "C",
+    "serieATeam": "Juventus",
+    "active": true
+  },
+  {
+    "id": "tramoni-m-pisa-537b25983c75",
+    "name": "Tramoni M.",
+    "role": "C",
+    "serieATeam": "Pisa",
+    "active": true
+  },
+  {
+    "id": "fagioli-fiorentina-85cf209628cc",
+    "name": "Fagioli",
+    "role": "C",
+    "serieATeam": "Fiorentina",
+    "active": true
+  },
+  {
+    "id": "cataldi-lazio-8eb82f9f8641",
+    "name": "Cataldi",
+    "role": "C",
+    "serieATeam": "Lazio",
+    "active": true
+  },
+  {
+    "id": "de-roon-atalanta-1dbaf2a22f33",
+    "name": "De Roon",
+    "role": "C",
+    "serieATeam": "Atalanta",
+    "active": true
+  },
+  {
+    "id": "bisseck-inter-9ccbfbd03888",
+    "name": "Bisseck",
+    "role": "D",
+    "serieATeam": "Inter",
+    "active": true
+  },
+  {
+    "id": "basic-lazio-85f1522a7f03",
+    "name": "Basic",
+    "role": "C",
+    "serieATeam": "Lazio",
+    "active": true
+  },
+  {
+    "id": "ramon-como-4f0f993b2367",
+    "name": "Ramon",
+    "role": "D",
+    "serieATeam": "Como",
+    "active": true
+  },
+  {
+    "id": "lang-napoli-921ff2cda4dc",
+    "name": "Lang",
+    "role": "A",
+    "serieATeam": "Napoli",
+    "active": true
+  },
+  {
+    "id": "cancellieri-lazio-5aa74c07add1",
+    "name": "Cancellieri",
+    "role": "A",
+    "serieATeam": "Lazio",
+    "active": true
+  },
+  {
+    "id": "toure-i-pisa-d3cc57465fef",
+    "name": "Tourè I.",
+    "role": "C",
+    "serieATeam": "Pisa",
+    "active": true
+  },
+  {
+    "id": "casadei-torino-e51626269494",
+    "name": "Casadei",
+    "role": "C",
+    "serieATeam": "Torino",
+    "active": true
+  },
+  {
+    "id": "pasalic-atalanta-022e03ac7340",
+    "name": "Pasalic",
+    "role": "C",
+    "serieATeam": "Atalanta",
+    "active": true
+  },
+  {
+    "id": "gila-lazio-6f2c65640d89",
+    "name": "Gila",
+    "role": "D",
+    "serieATeam": "Lazio",
+    "active": true
+  },
+  {
+    "id": "cambiaso-juventus-739ec452073c",
+    "name": "Cambiaso",
+    "role": "D",
+    "serieATeam": "Juventus",
+    "active": true
+  },
+  {
+    "id": "romagnoli-lazio-b66370a7409b",
+    "name": "Romagnoli",
+    "role": "D",
+    "serieATeam": "Lazio",
+    "active": true
+  },
+  {
+    "id": "stulic-lecce-8259f9f57b5e",
+    "name": "Stulic",
+    "role": "A",
+    "serieATeam": "Lecce",
+    "active": true
+  },
+  {
+    "id": "strefezza-como-945509202284",
+    "name": "Strefezza",
+    "role": "C",
+    "serieATeam": "Como",
+    "active": false
+  },
+  {
+    "id": "elmas-napoli-a5017252521e",
+    "name": "Elmas",
+    "role": "C",
+    "serieATeam": "Napoli",
+    "active": true
+  },
+  {
+    "id": "dodo-fiorentina-503ad3f7e664",
+    "name": "Dodò",
+    "role": "D",
+    "serieATeam": "Fiorentina",
+    "active": true
+  },
+  {
+    "id": "baschirotto-cremonese-3260588c4e9d",
+    "name": "Baschirotto",
+    "role": "D",
+    "serieATeam": "Cremonese",
+    "active": true
+  },
+  {
+    "id": "holm-bologna-6a475e8bb69c",
+    "name": "Holm",
+    "role": "D",
+    "serieATeam": "Bologna",
+    "active": true
+  },
+  {
+    "id": "n-dicka-roma-703394ee8d28",
+    "name": "N'Dicka",
+    "role": "D",
+    "serieATeam": "Roma",
+    "active": true
+  },
+  {
+    "id": "pavard-inter-26bd8f62ad05",
+    "name": "Pavard",
+    "role": "D",
+    "serieATeam": "Inter",
+    "active": false
+  },
+  {
+    "id": "coulibaly-l-lecce-77d2a18cf999",
+    "name": "Coulibaly L.",
+    "role": "C",
+    "serieATeam": "Lecce",
+    "active": true
+  },
+  {
+    "id": "brescianini-fiorentina-fe72eba88004",
+    "name": "Brescianini",
+    "role": "C",
+    "serieATeam": "Fiorentina",
+    "active": true
+  },
+  {
+    "id": "valeri-parma-9fb16330978a",
+    "name": "Valeri",
+    "role": "D",
+    "serieATeam": "Parma",
+    "active": true
+  },
+  {
+    "id": "diego-carlos-como-2c01c0e6d919",
+    "name": "Diego Carlos",
+    "role": "D",
+    "serieATeam": "Como",
+    "active": true
+  },
+  {
+    "id": "buongiorno-napoli-b6f65785efdb",
+    "name": "Buongiorno",
+    "role": "D",
+    "serieATeam": "Napoli",
+    "active": true
+  },
+  {
+    "id": "zappacosta-atalanta-1b322b3139b2",
+    "name": "Zappacosta",
+    "role": "D",
+    "serieATeam": "Atalanta",
+    "active": true
+  },
+  {
+    "id": "kilicsoy-cagliari-f02fd0710239",
+    "name": "Kilicsoy",
+    "role": "A",
+    "serieATeam": "Cagliari",
+    "active": true
+  },
+  {
+    "id": "openda-juventus-8ed0268c00a5",
+    "name": "Openda",
+    "role": "A",
+    "serieATeam": "Juventus",
+    "active": true
+  },
+  {
+    "id": "ondrejka-parma-816c0e8933e2",
+    "name": "Ondrejka",
+    "role": "C",
+    "serieATeam": "Parma",
+    "active": true
+  },
+  {
+    "id": "frendrup-genoa-6bb81e941223",
+    "name": "Frendrup",
+    "role": "C",
+    "serieATeam": "Genoa",
+    "active": true
+  },
+  {
+    "id": "volpato-sassuolo-3d95a4ff1b6e",
+    "name": "Volpato",
+    "role": "C",
+    "serieATeam": "Sassuolo",
+    "active": true
+  },
+  {
+    "id": "zalewski-atalanta-2c382e17af3f",
+    "name": "Zalewski",
+    "role": "C",
+    "serieATeam": "Atalanta",
+    "active": true
+  },
+  {
+    "id": "lobotka-napoli-01d4816f3774",
+    "name": "Lobotka",
+    "role": "C",
+    "serieATeam": "Napoli",
+    "active": true
+  },
+  {
+    "id": "guendouzi-lazio-35d1d9277518",
+    "name": "Guendouzi",
+    "role": "C",
+    "serieATeam": "Lazio",
+    "active": false
+  },
+  {
+    "id": "sottil-lecce-ba63df0f015d",
+    "name": "Sottil",
+    "role": "C",
+    "serieATeam": "Lecce",
+    "active": true
+  },
+  {
+    "id": "heggem-bologna-ee8096ac7edb",
+    "name": "Heggem",
+    "role": "D",
+    "serieATeam": "Bologna",
+    "active": true
+  },
+  {
+    "id": "delprato-parma-4a403befceaa",
+    "name": "Delprato",
+    "role": "D",
+    "serieATeam": "Parma",
+    "active": true
+  },
+  {
+    "id": "coco-torino-211485c4d580",
+    "name": "Coco",
+    "role": "D",
+    "serieATeam": "Torino",
+    "active": true
+  },
+  {
+    "id": "hien-atalanta-70c965ce6ac3",
+    "name": "Hien",
+    "role": "D",
+    "serieATeam": "Atalanta",
+    "active": true
+  },
+  {
+    "id": "zanoli-udinese-3ee8dfde8657",
+    "name": "Zanoli",
+    "role": "D",
+    "serieATeam": "Udinese",
+    "active": true
+  },
+  {
+    "id": "kolasinac-atalanta-543314d467ae",
+    "name": "Kolasinac",
+    "role": "D",
+    "serieATeam": "Atalanta",
+    "active": true
+  },
+  {
+    "id": "gosens-fiorentina-9fc6cc486f73",
+    "name": "Gosens",
+    "role": "D",
+    "serieATeam": "Fiorentina",
+    "active": true
+  },
+  {
+    "id": "ekkelenkamp-udinese-fe70e170b169",
+    "name": "Ekkelenkamp",
+    "role": "C",
+    "serieATeam": "Udinese",
+    "active": true
+  },
+  {
+    "id": "muharemovic-sassuolo-a40b69e04d8d",
+    "name": "Muharemovic",
+    "role": "D",
+    "serieATeam": "Sassuolo",
+    "active": true
+  },
+  {
+    "id": "bellanova-atalanta-5264b18d1502",
+    "name": "Bellanova",
+    "role": "D",
+    "serieATeam": "Atalanta",
+    "active": true
+  },
+  {
+    "id": "caprile-cagliari-d92052e00c5a",
+    "name": "Caprile",
+    "role": "P",
+    "serieATeam": "Cagliari",
+    "active": true
+  },
+  {
+    "id": "baturina-como-a178f9ca838a",
+    "name": "Baturina",
+    "role": "C",
+    "serieATeam": "Como",
+    "active": true
+  },
+  {
+    "id": "sucic-p-inter-58cdaaf7aaf0",
+    "name": "Sucic P.",
+    "role": "C",
+    "serieATeam": "Inter",
+    "active": true
+  },
+  {
+    "id": "karlstrom-udinese-2ab43af85a54",
+    "name": "Karlstrom",
+    "role": "C",
+    "serieATeam": "Udinese",
+    "active": true
+  },
+  {
+    "id": "da-cunha-como-949a0a30b979",
+    "name": "Da Cunha",
+    "role": "C",
+    "serieATeam": "Como",
+    "active": true
+  },
+  {
+    "id": "kostic-juventus-b0d39fa96778",
+    "name": "Kostic",
+    "role": "C",
+    "serieATeam": "Juventus",
+    "active": true
+  },
+  {
+    "id": "loftus-cheek-milan-ecda7925f6de",
+    "name": "Loftus-Cheek",
+    "role": "C",
+    "serieATeam": "Milan",
+    "active": true
+  },
+  {
+    "id": "matic-sassuolo-b406e0f33e62",
+    "name": "Matic",
+    "role": "C",
+    "serieATeam": "Sassuolo",
+    "active": true
+  },
+  {
+    "id": "bernasconi-atalanta-3d810fb19f9d",
+    "name": "Bernasconi",
+    "role": "D",
+    "serieATeam": "Atalanta",
+    "active": true
+  },
+  {
+    "id": "carlos-augusto-inter-bc5b3aa0259d",
+    "name": "Carlos Augusto",
+    "role": "D",
+    "serieATeam": "Inter",
+    "active": true
+  },
+  {
+    "id": "vasquez-genoa-bdabfb5c2446",
+    "name": "Vasquez",
+    "role": "D",
+    "serieATeam": "Genoa",
+    "active": true
+  },
+  {
+    "id": "de-gea-fiorentina-481c7b99e6e2",
+    "name": "De Gea",
+    "role": "P",
+    "serieATeam": "Fiorentina",
+    "active": true
+  },
+  {
+    "id": "diao-como-97c4f32eb8ef",
+    "name": "Diao",
+    "role": "A",
+    "serieATeam": "Como",
+    "active": true
+  },
+  {
+    "id": "immobile-bologna-85a82b47a35a",
+    "name": "Immobile",
+    "role": "A",
+    "serieATeam": "Bologna",
+    "active": true
+  },
+  {
+    "id": "rowe-bologna-71d30d48a80f",
+    "name": "Rowe",
+    "role": "C",
+    "serieATeam": "Bologna",
+    "active": true
+  },
+  {
+    "id": "folorunsho-cagliari-67922f11ba5a",
+    "name": "Folorunsho",
+    "role": "C",
+    "serieATeam": "Cagliari",
+    "active": true
+  },
+  {
+    "id": "bernardeschi-bologna-8c118a51e1de",
+    "name": "Bernardeschi",
+    "role": "C",
+    "serieATeam": "Bologna",
+    "active": true
+  },
+  {
+    "id": "norton-cuffy-genoa-961df79cbff8",
+    "name": "Norton-Cuffy",
+    "role": "D",
+    "serieATeam": "Genoa",
+    "active": true
+  },
+  {
+    "id": "tchatchoua-verona-f900293bbd5b",
+    "name": "Tchatchoua",
+    "role": "D",
+    "serieATeam": "Verona",
+    "active": false
+  },
+  {
+    "id": "parisi-fiorentina-90ec1906fa70",
+    "name": "Parisi",
+    "role": "D",
+    "serieATeam": "Fiorentina",
+    "active": true
+  },
+  {
+    "id": "marusic-lazio-aff56491cc08",
+    "name": "Marusic",
+    "role": "D",
+    "serieATeam": "Lazio",
+    "active": true
+  },
+  {
+    "id": "addai-como-e758efd550db",
+    "name": "Addai",
+    "role": "A",
+    "serieATeam": "Como",
+    "active": true
+  },
+  {
+    "id": "nzola-pisa-6d9cfa63e9f5",
+    "name": "Nzola",
+    "role": "A",
+    "serieATeam": "Pisa",
+    "active": true
+  },
+  {
+    "id": "pedro-lazio-3d139d7edf9c",
+    "name": "Pedro",
+    "role": "A",
+    "serieATeam": "Lazio",
+    "active": true
+  },
+  {
+    "id": "serdar-verona-53cc28b992a2",
+    "name": "Serdar",
+    "role": "C",
+    "serieATeam": "Verona",
+    "active": true
+  },
+  {
+    "id": "fabbian-bologna-989c6b06c57b",
+    "name": "Fabbian",
+    "role": "C",
+    "serieATeam": "Bologna",
+    "active": true
+  },
+  {
+    "id": "pisilli-roma-b04208f05634",
+    "name": "Pisilli",
+    "role": "C",
+    "serieATeam": "Roma",
+    "active": true
+  },
+  {
+    "id": "ferguson-bologna-18bcab18f2c8",
+    "name": "Ferguson",
+    "role": "C",
+    "serieATeam": "Bologna",
+    "active": true
+  },
+  {
+    "id": "koopmeiners-juventus-ba75d0d34416",
+    "name": "Koopmeiners",
+    "role": "C",
+    "serieATeam": "Juventus",
+    "active": true
+  },
+  {
+    "id": "freuler-bologna-c412e7c77b8b",
+    "name": "Freuler",
+    "role": "C",
+    "serieATeam": "Bologna",
+    "active": true
+  },
+  {
+    "id": "bella-kotchap-verona-3b215477a1e6",
+    "name": "Bella-Kotchap",
+    "role": "D",
+    "serieATeam": "Verona",
+    "active": true
+  },
+  {
+    "id": "nelsson-verona-090f94610ecb",
+    "name": "Nelsson",
+    "role": "D",
+    "serieATeam": "Verona",
+    "active": true
+  },
+  {
+    "id": "kelly-l-juventus-18cbbd17c002",
+    "name": "Kelly L.",
+    "role": "D",
+    "serieATeam": "Juventus",
+    "active": true
+  },
+  {
+    "id": "circati-parma-f0e2a55d7c5e",
+    "name": "Circati",
+    "role": "D",
+    "serieATeam": "Parma",
+    "active": true
+  },
+  {
+    "id": "terracciano-f-cremonese-7872e4377653",
+    "name": "Terracciano F.",
+    "role": "D",
+    "serieATeam": "Cremonese",
+    "active": true
+  },
+  {
+    "id": "hermoso-roma-f40a4d6761e5",
+    "name": "Hermoso",
+    "role": "D",
+    "serieATeam": "Roma",
+    "active": true
+  },
+  {
+    "id": "miranda-j-bologna-9611677b4e3c",
+    "name": "Miranda J.",
+    "role": "D",
+    "serieATeam": "Bologna",
+    "active": true
+  },
+  {
+    "id": "juan-jesus-napoli-7c83b3f45631",
+    "name": "Juan Jesus",
+    "role": "D",
+    "serieATeam": "Napoli",
+    "active": true
+  },
+  {
+    "id": "gimenez-milan-10d41126f20d",
+    "name": "Gimenez",
+    "role": "A",
+    "serieATeam": "Milan",
+    "active": true
+  },
+  {
+    "id": "solomon-fiorentina-c435486c622f",
+    "name": "Solomon",
+    "role": "A",
+    "serieATeam": "Fiorentina",
+    "active": true
+  },
+  {
+    "id": "borrelli-cagliari-43d7363a6f40",
+    "name": "Borrelli",
+    "role": "A",
+    "serieATeam": "Cagliari",
+    "active": true
+  },
+  {
+    "id": "gonzalez-n-juventus-c5a448c20572",
+    "name": "Gonzalez N.",
+    "role": "A",
+    "serieATeam": "Juventus",
+    "active": false
+  },
+  {
+    "id": "bernede-verona-524cb1e9d967",
+    "name": "Bernede",
+    "role": "C",
+    "serieATeam": "Verona",
+    "active": true
+  },
+  {
+    "id": "zhegrova-juventus-b4d6d8d52be1",
+    "name": "Zhegrova",
+    "role": "C",
+    "serieATeam": "Juventus",
+    "active": true
+  },
+  {
+    "id": "man-parma-7722f8fb078a",
+    "name": "Man",
+    "role": "C",
+    "serieATeam": "Parma",
+    "active": false
+  },
+  {
+    "id": "luis-henrique-inter-a56082cb57cd",
+    "name": "Luis Henrique",
+    "role": "C",
+    "serieATeam": "Inter",
+    "active": true
+  },
+  {
+    "id": "pobega-bologna-6c2c7f25fd03",
+    "name": "Pobega",
+    "role": "C",
+    "serieATeam": "Bologna",
+    "active": true
+  },
+  {
+    "id": "mkhitaryan-inter-be3914a2d3cb",
+    "name": "Mkhitaryan",
+    "role": "C",
+    "serieATeam": "Inter",
+    "active": true
+  },
+  {
+    "id": "britschgi-parma-e3d8b4a87cfb",
+    "name": "Britschgi",
+    "role": "D",
+    "serieATeam": "Parma",
+    "active": true
+  },
+  {
+    "id": "tiago-gabriel-lecce-08cbcd489147",
+    "name": "Tiago Gabriel",
+    "role": "D",
+    "serieATeam": "Lecce",
+    "active": true
+  },
+  {
+    "id": "gaspar-k-lecce-92deb1e475cd",
+    "name": "Gaspar K.",
+    "role": "D",
+    "serieATeam": "Lecce",
+    "active": true
+  },
+  {
+    "id": "kamara-h-udinese-2a8d535cdbe3",
+    "name": "Kamara H.",
+    "role": "D",
+    "serieATeam": "Udinese",
+    "active": true
+  },
+  {
+    "id": "celik-roma-053e4f790f97",
+    "name": "Celik",
+    "role": "D",
+    "serieATeam": "Roma",
+    "active": true
+  },
+  {
+    "id": "gabbia-milan-39f3ebeb0e42",
+    "name": "Gabbia",
+    "role": "D",
+    "serieATeam": "Milan",
+    "active": true
+  },
+  {
+    "id": "djimsiti-atalanta-d1527e16985b",
+    "name": "Djimsiti",
+    "role": "D",
+    "serieATeam": "Atalanta",
+    "active": true
+  },
+  {
+    "id": "ravaglia-f-bologna-a78ae81dba55",
+    "name": "Ravaglia F.",
+    "role": "P",
+    "serieATeam": "Bologna",
+    "active": true
+  },
+  {
+    "id": "meister-pisa-4ad1fc28f78b",
+    "name": "Meister",
+    "role": "A",
+    "serieATeam": "Pisa",
+    "active": true
+  },
+  {
+    "id": "ngonge-torino-1d7ee619b3d8",
+    "name": "Ngonge",
+    "role": "A",
+    "serieATeam": "Torino",
+    "active": true
+  },
+  {
+    "id": "moreo-pisa-39df60a6979d",
+    "name": "Moreo",
+    "role": "A",
+    "serieATeam": "Pisa",
+    "active": true
+  },
+  {
+    "id": "cutrone-parma-b8439d2a1271",
+    "name": "Cutrone",
+    "role": "A",
+    "serieATeam": "Parma",
+    "active": true
+  },
+  {
+    "id": "zapata-d-torino-bbed23b86bdb",
+    "name": "Zapata D.",
+    "role": "A",
+    "serieATeam": "Torino",
+    "active": true
+  },
+  {
+    "id": "gandelman-lecce-11e4e3d06138",
+    "name": "Gandelman",
+    "role": "C",
+    "serieATeam": "Lecce",
+    "active": true
+  },
+  {
+    "id": "piotrowski-udinese-df573f6c3c0d",
+    "name": "Piotrowski",
+    "role": "C",
+    "serieATeam": "Udinese",
+    "active": true
+  },
+  {
+    "id": "keita-m-parma-2ee655b3d77b",
+    "name": "Keita M.",
+    "role": "C",
+    "serieATeam": "Parma",
+    "active": true
+  },
+  {
+    "id": "fadera-sassuolo-9405c1bffb4f",
+    "name": "Fadera",
+    "role": "C",
+    "serieATeam": "Sassuolo",
+    "active": true
+  },
+  {
+    "id": "pierotti-lecce-69c939abfc91",
+    "name": "Pierotti",
+    "role": "C",
+    "serieATeam": "Lecce",
+    "active": true
+  },
+  {
+    "id": "suslov-verona-0ade30f05b7f",
+    "name": "Suslov",
+    "role": "C",
+    "serieATeam": "Verona",
+    "active": true
+  },
+  {
+    "id": "ndour-fiorentina-9fca458c4e4f",
+    "name": "Ndour",
+    "role": "C",
+    "serieATeam": "Fiorentina",
+    "active": true
+  },
+  {
+    "id": "bondo-cremonese-e6582762980b",
+    "name": "Bondo",
+    "role": "C",
+    "serieATeam": "Cremonese",
+    "active": true
+  },
+  {
+    "id": "asllani-torino-15aa8ba44c15",
+    "name": "Asllani",
+    "role": "C",
+    "serieATeam": "Torino",
+    "active": true
+  },
+  {
+    "id": "gilmour-napoli-e364b88e957c",
+    "name": "Gilmour",
+    "role": "C",
+    "serieATeam": "Napoli",
+    "active": true
+  },
+  {
+    "id": "adopo-cagliari-dc45ee2074be",
+    "name": "Adopo",
+    "role": "C",
+    "serieATeam": "Cagliari",
+    "active": true
+  },
+  {
+    "id": "thorsby-genoa-07689cd86057",
+    "name": "Thorsby",
+    "role": "C",
+    "serieATeam": "Genoa",
+    "active": true
+  },
+  {
+    "id": "gaetano-cagliari-abcc7eabfbe5",
+    "name": "Gaetano",
+    "role": "C",
+    "serieATeam": "Cagliari",
+    "active": true
+  },
+  {
+    "id": "deiola-cagliari-56db785538fb",
+    "name": "Deiola",
+    "role": "C",
+    "serieATeam": "Cagliari",
+    "active": true
+  },
+  {
+    "id": "vazquez-cremonese-083e6d50204a",
+    "name": "Vazquez",
+    "role": "C",
+    "serieATeam": "Cremonese",
+    "active": true
+  },
+  {
+    "id": "vecino-lazio-65239e0ad756",
+    "name": "Vecino",
+    "role": "C",
+    "serieATeam": "Lazio",
+    "active": true
+  },
+  {
+    "id": "frese-verona-ec69f6435af0",
+    "name": "Frese",
+    "role": "D",
+    "serieATeam": "Verona",
+    "active": true
+  },
+  {
+    "id": "comuzzo-fiorentina-93c5ac0d24c8",
+    "name": "Comuzzo",
+    "role": "D",
+    "serieATeam": "Fiorentina",
+    "active": true
+  },
+  {
+    "id": "walukiewicz-sassuolo-f23ed0e9b7db",
+    "name": "Walukiewicz",
+    "role": "D",
+    "serieATeam": "Sassuolo",
+    "active": true
+  },
+  {
+    "id": "mina-cagliari-5994a0e95476",
+    "name": "Mina",
+    "role": "D",
+    "serieATeam": "Cagliari",
+    "active": true
+  },
+  {
+    "id": "audero-cremonese-78ad34468b83",
+    "name": "Audero",
+    "role": "P",
+    "serieATeam": "Cremonese",
+    "active": true
+  },
+  {
+    "id": "leali-genoa-da06f1d07a3a",
+    "name": "Leali",
+    "role": "P",
+    "serieATeam": "Genoa",
+    "active": true
+  },
+  {
+    "id": "dominguez-b-bologna-d5f368083aec",
+    "name": "Dominguez B.",
+    "role": "A",
+    "serieATeam": "Bologna",
+    "active": true
+  },
+  {
+    "id": "dovbyk-roma-4c3650b84516",
+    "name": "Dovbyk",
+    "role": "A",
+    "serieATeam": "Roma",
+    "active": true
+  },
+  {
+    "id": "noslin-lazio-641a08a9c38c",
+    "name": "Noslin",
+    "role": "A",
+    "serieATeam": "Lazio",
+    "active": true
+  },
+  {
+    "id": "lucca-napoli-7e9a46c696de",
+    "name": "Lucca",
+    "role": "A",
+    "serieATeam": "Napoli",
+    "active": true
+  },
+  {
+    "id": "piccoli-fiorentina-7149565321c4",
+    "name": "Piccoli",
+    "role": "A",
+    "serieATeam": "Fiorentina",
+    "active": true
+  },
+  {
+    "id": "lorran-pisa-d78715c262f1",
+    "name": "Lorran",
+    "role": "C",
+    "serieATeam": "Pisa",
+    "active": true
+  },
+  {
+    "id": "collocolo-cremonese-78b5da81ea4f",
+    "name": "Collocolo",
+    "role": "C",
+    "serieATeam": "Cremonese",
+    "active": true
+  },
+  {
+    "id": "ramadani-lecce-7d32af717bd4",
+    "name": "Ramadani",
+    "role": "C",
+    "serieATeam": "Lecce",
+    "active": true
+  },
+  {
+    "id": "el-aynaoui-roma-f420b3edca4f",
+    "name": "El Aynaoui",
+    "role": "C",
+    "serieATeam": "Roma",
+    "active": true
+  },
+  {
+    "id": "stengs-pisa-56a3452294fc",
+    "name": "Stengs",
+    "role": "C",
+    "serieATeam": "Pisa",
+    "active": true
+  },
+  {
+    "id": "ricci-s-milan-cea24fcdcdf4",
+    "name": "Ricci S.",
+    "role": "C",
+    "serieATeam": "Milan",
+    "active": true
+  },
+  {
+    "id": "samardzic-atalanta-9abe95aae3aa",
+    "name": "Samardzic",
+    "role": "C",
+    "serieATeam": "Atalanta",
+    "active": true
+  },
+  {
+    "id": "caqueret-como-43c350cbee5d",
+    "name": "Caqueret",
+    "role": "C",
+    "serieATeam": "Como",
+    "active": true
+  },
+  {
+    "id": "mazzitelli-cagliari-18221de04c73",
+    "name": "Mazzitelli",
+    "role": "C",
+    "serieATeam": "Cagliari",
+    "active": true
+  },
+  {
+    "id": "angori-pisa-c30765d47ad8",
+    "name": "Angori",
+    "role": "D",
+    "serieATeam": "Pisa",
+    "active": true
+  },
+  {
+    "id": "vitik-bologna-ca2d24cfcff1",
+    "name": "Vitik",
+    "role": "D",
+    "serieATeam": "Bologna",
+    "active": true
+  },
+  {
+    "id": "veiga-d-lecce-772a02b1f789",
+    "name": "Veiga D.",
+    "role": "D",
+    "serieATeam": "Lecce",
+    "active": true
+  },
+  {
+    "id": "unai-nunez-verona-fba1e78a3f9a",
+    "name": "Unai Nunez",
+    "role": "D",
+    "serieATeam": "Verona",
+    "active": true
+  },
+  {
+    "id": "leoni-parma-b8ce74f7d39d",
+    "name": "Leoni",
+    "role": "D",
+    "serieATeam": "Parma",
+    "active": false
+  },
+  {
+    "id": "bertola-udinese-31ee7acb007d",
+    "name": "Bertola",
+    "role": "D",
+    "serieATeam": "Udinese",
+    "active": true
+  },
+  {
+    "id": "gallo-lecce-60902c4b48c5",
+    "name": "Gallo",
+    "role": "D",
+    "serieATeam": "Lecce",
+    "active": true
+  },
+  {
+    "id": "kabasele-udinese-9c907be6419a",
+    "name": "Kabasele",
+    "role": "D",
+    "serieATeam": "Udinese",
+    "active": true
+  },
+  {
+    "id": "acerbi-inter-0f736ab09b13",
+    "name": "Acerbi",
+    "role": "D",
+    "serieATeam": "Inter",
+    "active": true
+  },
+  {
+    "id": "skorupski-bologna-7560b020f30d",
+    "name": "Skorupski",
+    "role": "P",
+    "serieATeam": "Bologna",
+    "active": true
+  },
+  {
+    "id": "buksa-udinese-a2726dd22c3a",
+    "name": "Buksa",
+    "role": "A",
+    "serieATeam": "Udinese",
+    "active": true
+  },
+  {
+    "id": "bravo-udinese-3afea4b852d4",
+    "name": "Bravo",
+    "role": "A",
+    "serieATeam": "Udinese",
+    "active": false
+  },
+  {
+    "id": "dallinga-bologna-d79881ccbb67",
+    "name": "Dallinga",
+    "role": "A",
+    "serieATeam": "Bologna",
+    "active": true
+  },
+  {
+    "id": "camarda-lecce-d44aa107dc9d",
+    "name": "Camarda",
+    "role": "A",
+    "serieATeam": "Lecce",
+    "active": true
+  },
+  {
+    "id": "banda-lecce-29b2fe6012c9",
+    "name": "Banda",
+    "role": "A",
+    "serieATeam": "Lecce",
+    "active": true
+  },
+  {
+    "id": "dia-lazio-4f28790e7caa",
+    "name": "Dia",
+    "role": "A",
+    "serieATeam": "Lazio",
+    "active": true
+  },
+  {
+    "id": "morata-como-5dc041a9ba97",
+    "name": "Morata",
+    "role": "A",
+    "serieATeam": "Como",
+    "active": true
+  },
+  {
+    "id": "jashari-milan-a3ce8515855e",
+    "name": "Jashari",
+    "role": "C",
+    "serieATeam": "Milan",
+    "active": true
+  },
+  {
+    "id": "piccinini-g-pisa-1dd41e3a49c9",
+    "name": "Piccinini G.",
+    "role": "C",
+    "serieATeam": "Pisa",
+    "active": true
+  },
+  {
+    "id": "tete-morente-lecce-905c64ae7d5b",
+    "name": "Tete Morente",
+    "role": "C",
+    "serieATeam": "Lecce",
+    "active": true
+  },
+  {
+    "id": "akinsanmiro-pisa-9b6d9a1d2f26",
+    "name": "Akinsanmiro",
+    "role": "C",
+    "serieATeam": "Pisa",
+    "active": true
+  },
+  {
+    "id": "kaba-lecce-35c6bb1b9d80",
+    "name": "Kaba",
+    "role": "C",
+    "serieATeam": "Lecce",
+    "active": true
+  },
+  {
+    "id": "oristanio-parma-fb3e0ecefe85",
+    "name": "Oristanio",
+    "role": "C",
+    "serieATeam": "Parma",
+    "active": true
+  },
+  {
+    "id": "carboni-v-genoa-9fefa47bfe35",
+    "name": "Carboni V.",
+    "role": "C",
+    "serieATeam": "Genoa",
+    "active": false
+  },
+  {
+    "id": "ellertsson-genoa-6701addfd774",
+    "name": "Ellertsson",
+    "role": "C",
+    "serieATeam": "Genoa",
+    "active": true
+  },
+  {
+    "id": "zerbin-cremonese-1ec8b3d51e19",
+    "name": "Zerbin",
+    "role": "C",
+    "serieATeam": "Cremonese",
+    "active": true
+  },
+  {
+    "id": "aebischer-pisa-e378c2bcaa8a",
+    "name": "Aebischer",
+    "role": "C",
+    "serieATeam": "Pisa",
+    "active": true
+  },
+  {
+    "id": "rovella-lazio-b0bbbf87c9cf",
+    "name": "Rovella",
+    "role": "C",
+    "serieATeam": "Lazio",
+    "active": true
+  },
+  {
+    "id": "el-shaarawy-roma-ac84c262be40",
+    "name": "El Shaarawy",
+    "role": "C",
+    "serieATeam": "Roma",
+    "active": true
+  },
+  {
+    "id": "ziolkowski-roma-9badc230de57",
+    "name": "Ziolkowski",
+    "role": "D",
+    "serieATeam": "Roma",
+    "active": true
+  },
+  {
+    "id": "canestrelli-pisa-5cdc6bd8a0a1",
+    "name": "Canestrelli",
+    "role": "D",
+    "serieATeam": "Pisa",
+    "active": true
+  },
+  {
+    "id": "smolcic-i-como-e7d49ad08630",
+    "name": "Smolcic I.",
+    "role": "D",
+    "serieATeam": "Como",
+    "active": true
+  },
+  {
+    "id": "idzes-sassuolo-2cb0c4334bdb",
+    "name": "Idzes",
+    "role": "D",
+    "serieATeam": "Sassuolo",
+    "active": true
+  },
+  {
+    "id": "kristensen-t-udinese-bfa4957a528d",
+    "name": "Kristensen T.",
+    "role": "D",
+    "serieATeam": "Udinese",
+    "active": true
+  },
+  {
+    "id": "beukema-napoli-1649c7b065ab",
+    "name": "Beukema",
+    "role": "D",
+    "serieATeam": "Napoli",
+    "active": true
+  },
+  {
+    "id": "lucumi-bologna-38b49a8c0009",
+    "name": "Lucumì",
+    "role": "D",
+    "serieATeam": "Bologna",
+    "active": true
+  },
+  {
+    "id": "doig-sassuolo-3aa1e60f5299",
+    "name": "Doig",
+    "role": "D",
+    "serieATeam": "Sassuolo",
+    "active": true
+  },
+  {
+    "id": "pongracic-fiorentina-c4fe32325903",
+    "name": "Pongracic",
+    "role": "D",
+    "serieATeam": "Fiorentina",
+    "active": true
+  },
+  {
+    "id": "scalvini-atalanta-1a486ee535b5",
+    "name": "Scalvini",
+    "role": "D",
+    "serieATeam": "Atalanta",
+    "active": true
+  },
+  {
+    "id": "zappa-cagliari-68f4c59ba219",
+    "name": "Zappa",
+    "role": "D",
+    "serieATeam": "Cagliari",
+    "active": true
+  },
+  {
+    "id": "lazaro-torino-69fc952fbba3",
+    "name": "Lazaro",
+    "role": "D",
+    "serieATeam": "Torino",
+    "active": true
+  },
+  {
+    "id": "pellegrini-lu-lazio-18d3c3b80092",
+    "name": "Pellegrini Lu.",
+    "role": "D",
+    "serieATeam": "Lazio",
+    "active": true
+  },
+  {
+    "id": "caracciolo-a-pisa-0b730cd145f9",
+    "name": "Caracciolo A.",
+    "role": "D",
+    "serieATeam": "Pisa",
+    "active": true
+  },
+  {
+    "id": "bianchetti-cremonese-c0f0b7ace387",
+    "name": "Bianchetti",
+    "role": "D",
+    "serieATeam": "Cremonese",
+    "active": true
+  },
+  {
+    "id": "luperto-cagliari-df1e4e0510f0",
+    "name": "Luperto",
+    "role": "D",
+    "serieATeam": "Cagliari",
+    "active": true
+  },
+  {
+    "id": "corvi-parma-a871edb2fe77",
+    "name": "Corvi",
+    "role": "P",
+    "serieATeam": "Parma",
+    "active": true
+  },
+  {
+    "id": "muric-sassuolo-3d977a92def9",
+    "name": "Muric",
+    "role": "P",
+    "serieATeam": "Sassuolo",
+    "active": true
+  },
+  {
+    "id": "kuhn-como-809ce1fb869e",
+    "name": "Kuhn",
+    "role": "A",
+    "serieATeam": "Como",
+    "active": true
+  },
+  {
+    "id": "ekhator-genoa-5fe084982db1",
+    "name": "Ekhator",
+    "role": "A",
+    "serieATeam": "Genoa",
+    "active": true
+  },
+  {
+    "id": "sulemana-k-atalanta-31a018590997",
+    "name": "Sulemana K.",
+    "role": "A",
+    "serieATeam": "Atalanta",
+    "active": true
+  },
+  {
+    "id": "ekuban-genoa-8e483a89d72e",
+    "name": "Ekuban",
+    "role": "A",
+    "serieATeam": "Genoa",
+    "active": true
+  },
+  {
+    "id": "sorensen-o-parma-0f1c2185c0ff",
+    "name": "Sorensen O.",
+    "role": "C",
+    "serieATeam": "Parma",
+    "active": true
+  },
+  {
+    "id": "marin-m-pisa-6eb7002ab823",
+    "name": "Marin M.",
+    "role": "C",
+    "serieATeam": "Pisa",
+    "active": true
+  },
+  {
+    "id": "dele-bashiru-lazio-616722fa01d8",
+    "name": "Dele-Bashiru",
+    "role": "C",
+    "serieATeam": "Lazio",
+    "active": true
+  },
+  {
+    "id": "prati-cagliari-57f0e16af6c8",
+    "name": "Prati",
+    "role": "C",
+    "serieATeam": "Cagliari",
+    "active": true
+  },
+  {
+    "id": "gineitis-torino-bd82cae00f27",
+    "name": "Gineitis",
+    "role": "C",
+    "serieATeam": "Torino",
+    "active": true
+  },
+  {
+    "id": "moro-n-bologna-f879bb2672b7",
+    "name": "Moro N.",
+    "role": "C",
+    "serieATeam": "Bologna",
+    "active": true
+  },
+  {
+    "id": "fazzini-fiorentina-78d4fc9dbd71",
+    "name": "Fazzini",
+    "role": "C",
+    "serieATeam": "Fiorentina",
+    "active": true
+  },
+  {
+    "id": "baldanzi-roma-e15a363b2d01",
+    "name": "Baldanzi",
+    "role": "C",
+    "serieATeam": "Roma",
+    "active": true
+  },
+  {
+    "id": "harroui-verona-7b94bbe37cd5",
+    "name": "Harroui",
+    "role": "C",
+    "serieATeam": "Verona",
+    "active": true
+  },
+  {
+    "id": "musah-atalanta-55db71cb44c1",
+    "name": "Musah",
+    "role": "C",
+    "serieATeam": "Atalanta",
+    "active": true
+  },
+  {
+    "id": "maldini-atalanta-06fad81f3a6b",
+    "name": "Maldini",
+    "role": "C",
+    "serieATeam": "Atalanta",
+    "active": true
+  },
+  {
+    "id": "chukwueze-milan-1c466b1e206e",
+    "name": "Chukwueze",
+    "role": "C",
+    "serieATeam": "Milan",
+    "active": false
+  },
+  {
+    "id": "helland-bologna-4eb6b6abb796",
+    "name": "Helland",
+    "role": "D",
+    "serieATeam": "Bologna",
+    "active": true
+  },
+  {
+    "id": "valle-como-f3b5fd4e9966",
+    "name": "Valle",
+    "role": "D",
+    "serieATeam": "Como",
+    "active": true
+  },
+  {
+    "id": "pedersen-torino-f4ed6df4bb67",
+    "name": "Pedersen",
+    "role": "D",
+    "serieATeam": "Torino",
+    "active": true
+  },
+  {
+    "id": "cabal-juventus-705336c0d40a",
+    "name": "Cabal",
+    "role": "D",
+    "serieATeam": "Juventus",
+    "active": true
+  },
+  {
+    "id": "barbieri-cremonese-a6d68c62e2c0",
+    "name": "Barbieri",
+    "role": "D",
+    "serieATeam": "Cremonese",
+    "active": true
+  },
+  {
+    "id": "obert-cagliari-d5102c077f13",
+    "name": "Obert",
+    "role": "D",
+    "serieATeam": "Cagliari",
+    "active": true
+  },
+  {
+    "id": "kossounou-atalanta-0df64d4b956f",
+    "name": "Kossounou",
+    "role": "D",
+    "serieATeam": "Atalanta",
+    "active": true
+  },
+  {
+    "id": "bradaric-verona-202ddeca1630",
+    "name": "Bradaric",
+    "role": "D",
+    "serieATeam": "Verona",
+    "active": true
+  },
+  {
+    "id": "valenti-parma-b9fcb764b12f",
+    "name": "Valenti",
+    "role": "D",
+    "serieATeam": "Parma",
+    "active": true
+  },
+  {
+    "id": "vojvoda-como-aa0758a679c5",
+    "name": "Vojvoda",
+    "role": "D",
+    "serieATeam": "Como",
+    "active": true
+  },
+  {
+    "id": "zortea-bologna-8d5fec1e14ea",
+    "name": "Zortea",
+    "role": "D",
+    "serieATeam": "Bologna",
+    "active": true
+  },
+  {
+    "id": "pezzella-giu-cremonese-f7990980e5a3",
+    "name": "Pezzella Giu.",
+    "role": "D",
+    "serieATeam": "Cremonese",
+    "active": true
+  },
+  {
+    "id": "paleari-torino-e7a7d0d6197f",
+    "name": "Paleari",
+    "role": "P",
+    "serieATeam": "Torino",
+    "active": true
+  },
+  {
+    "id": "n-dri-lecce-03a41307eded",
+    "name": "N'Dri",
+    "role": "A",
+    "serieATeam": "Lecce",
+    "active": true
+  },
+  {
+    "id": "benedyczak-parma-4074ab5a0c66",
+    "name": "Benedyczak",
+    "role": "A",
+    "serieATeam": "Parma",
+    "active": true
+  },
+  {
+    "id": "mosquera-verona-1a12eccfa2e7",
+    "name": "Mosquera",
+    "role": "A",
+    "serieATeam": "Verona",
+    "active": true
+  },
+  {
+    "id": "beltran-l-fiorentina-fc9122393408",
+    "name": "Beltran L.",
+    "role": "A",
+    "serieATeam": "Fiorentina",
+    "active": false
+  },
+  {
+    "id": "almqvist-parma-ec3ff8d7d610",
+    "name": "Almqvist",
+    "role": "A",
+    "serieATeam": "Parma",
+    "active": true
+  },
+  {
+    "id": "mulattieri-sassuolo-a3c51ab9629c",
+    "name": "Mulattieri",
+    "role": "A",
+    "serieATeam": "Sassuolo",
+    "active": false
+  },
+  {
+    "id": "luvumbo-cagliari-318ae997b312",
+    "name": "Luvumbo",
+    "role": "A",
+    "serieATeam": "Cagliari",
+    "active": true
+  },
+  {
+    "id": "sanchez-udinese-fe929c834d1d",
+    "name": "Sanchez",
+    "role": "A",
+    "serieATeam": "Udinese",
+    "active": false
+  },
+  {
+    "id": "dzeko-fiorentina-a18b4e365884",
+    "name": "Dzeko",
+    "role": "A",
+    "serieATeam": "Fiorentina",
+    "active": true
+  },
+  {
+    "id": "sanabria-cremonese-4f38f9e8dce6",
+    "name": "Sanabria",
+    "role": "A",
+    "serieATeam": "Cremonese",
+    "active": true
+  },
+  {
+    "id": "miller-l-udinese-7a9e6a7e90fe",
+    "name": "Miller L.",
+    "role": "C",
+    "serieATeam": "Udinese",
+    "active": true
+  },
+  {
+    "id": "ordonez-c-parma-69264a74e76d",
+    "name": "Ordonez C.",
+    "role": "C",
+    "serieATeam": "Parma",
+    "active": true
+  },
+  {
+    "id": "venturino-genoa-51e6f1168346",
+    "name": "Venturino",
+    "role": "C",
+    "serieATeam": "Genoa",
+    "active": true
+  },
+  {
+    "id": "masini-genoa-88a43eda68c3",
+    "name": "Masini",
+    "role": "C",
+    "serieATeam": "Genoa",
+    "active": true
+  },
+  {
+    "id": "anjorin-torino-994763af0ca9",
+    "name": "Anjorin",
+    "role": "C",
+    "serieATeam": "Torino",
+    "active": true
+  },
+  {
+    "id": "felici-cagliari-5a3d33aa9de9",
+    "name": "Felici",
+    "role": "C",
+    "serieATeam": "Cagliari",
+    "active": true
+  },
+  {
+    "id": "diouf-inter-68938af4c5df",
+    "name": "Diouf",
+    "role": "C",
+    "serieATeam": "Inter",
+    "active": true
+  },
+  {
+    "id": "sulemana-i-bologna-fc0c6bd77d79",
+    "name": "Sulemana I.",
+    "role": "C",
+    "serieATeam": "Bologna",
+    "active": true
+  },
+  {
+    "id": "ilkhan-torino-153d6b78778e",
+    "name": "Ilkhan",
+    "role": "C",
+    "serieATeam": "Torino",
+    "active": true
+  },
+  {
+    "id": "vranckx-sassuolo-55a9073f0583",
+    "name": "Vranckx",
+    "role": "C",
+    "serieATeam": "Sassuolo",
+    "active": true
+  },
+  {
+    "id": "niasse-verona-8bb38822023e",
+    "name": "Niasse",
+    "role": "C",
+    "serieATeam": "Verona",
+    "active": true
+  },
+  {
+    "id": "estevez-parma-6b1a158f9d48",
+    "name": "Estevez",
+    "role": "C",
+    "serieATeam": "Parma",
+    "active": true
+  },
+  {
+    "id": "messias-genoa-70a30ee192ee",
+    "name": "Messias",
+    "role": "C",
+    "serieATeam": "Genoa",
+    "active": true
+  },
+  {
+    "id": "hernani-parma-72eceef81f0f",
+    "name": "Hernani",
+    "role": "C",
+    "serieATeam": "Parma",
+    "active": false
+  },
+  {
+    "id": "nicolussi-caviglia-fiorentina-d55738b210db",
+    "name": "Nicolussi Caviglia",
+    "role": "C",
+    "serieATeam": "Fiorentina",
+    "active": true
+  },
+  {
+    "id": "sergi-roberto-como-a67384375043",
+    "name": "Sergi Roberto",
+    "role": "C",
+    "serieATeam": "Como",
+    "active": true
+  },
+  {
+    "id": "frattesi-inter-69ccbcf1bbfe",
+    "name": "Frattesi",
+    "role": "C",
+    "serieATeam": "Inter",
+    "active": true
+  },
+  {
+    "id": "bailey-roma-318023511fdb",
+    "name": "Bailey",
+    "role": "C",
+    "serieATeam": "Roma",
+    "active": true
+  },
+  {
+    "id": "leris-pisa-1d5eac9927dc",
+    "name": "Leris",
+    "role": "C",
+    "serieATeam": "Pisa",
+    "active": true
+  },
+  {
+    "id": "floriani-mussolini-cremonese-233f3a42a9cc",
+    "name": "Floriani Mussolini",
+    "role": "D",
+    "serieATeam": "Cremonese",
+    "active": true
+  },
+  {
+    "id": "idrissi-r-cagliari-063821db2e27",
+    "name": "Idrissi R.",
+    "role": "D",
+    "serieATeam": "Cagliari",
+    "active": true
+  },
+  {
+    "id": "rensch-roma-166a507794d4",
+    "name": "Rensch",
+    "role": "D",
+    "serieATeam": "Roma",
+    "active": true
+  },
+  {
+    "id": "valentini-n-verona-2796a56ba3c5",
+    "name": "Valentini N.",
+    "role": "D",
+    "serieATeam": "Verona",
+    "active": true
+  },
+  {
+    "id": "ahanor-atalanta-12fc63ae295d",
+    "name": "Ahanor",
+    "role": "D",
+    "serieATeam": "Atalanta",
+    "active": true
+  },
+  {
+    "id": "kempf-como-a58a2f3fcd39",
+    "name": "Kempf",
+    "role": "D",
+    "serieATeam": "Como",
+    "active": true
+  },
+  {
+    "id": "marcandalli-genoa-9ec72b6a5b85",
+    "name": "Marcandalli",
+    "role": "D",
+    "serieATeam": "Genoa",
+    "active": true
+  },
+  {
+    "id": "jimenez-a-milan-b5e9c6d17aa8",
+    "name": "Jimenez A.",
+    "role": "D",
+    "serieATeam": "Milan",
+    "active": false
+  },
+  {
+    "id": "olivera-napoli-c31ed51cce77",
+    "name": "Olivera",
+    "role": "D",
+    "serieATeam": "Napoli",
+    "active": true
+  },
+  {
+    "id": "gutierrez-napoli-58dd0b13b04d",
+    "name": "Gutierrez",
+    "role": "D",
+    "serieATeam": "Napoli",
+    "active": true
+  },
+  {
+    "id": "ismajli-torino-4c7bcfa5a26d",
+    "name": "Ismajli",
+    "role": "D",
+    "serieATeam": "Torino",
+    "active": true
+  },
+  {
+    "id": "angelino-roma-9c5258a2098a",
+    "name": "Angelino",
+    "role": "D",
+    "serieATeam": "Roma",
+    "active": true
+  },
+  {
+    "id": "ranieri-l-fiorentina-72e0d7764b05",
+    "name": "Ranieri L.",
+    "role": "D",
+    "serieATeam": "Fiorentina",
+    "active": true
+  },
+  {
+    "id": "lykogiannis-bologna-1c97fb112f84",
+    "name": "Lykogiannis",
+    "role": "D",
+    "serieATeam": "Bologna",
+    "active": true
+  },
+  {
+    "id": "suzuki-parma-b57fdf399009",
+    "name": "Suzuki",
+    "role": "P",
+    "serieATeam": "Parma",
+    "active": true
+  },
+  {
+    "id": "meret-napoli-55cc869e77fa",
+    "name": "Meret",
+    "role": "P",
+    "serieATeam": "Napoli",
+    "active": true
+  },
+  {
+    "id": "aboukhlal-torino-97e87379781d",
+    "name": "Aboukhlal",
+    "role": "A",
+    "serieATeam": "Torino",
+    "active": true
+  },
+  {
+    "id": "moumbagna-cremonese-fd0a759c750d",
+    "name": "Moumbagna",
+    "role": "A",
+    "serieATeam": "Cremonese",
+    "active": true
+  },
+  {
+    "id": "toure-e-atalanta-6fa72fcc3556",
+    "name": "Tourè E.",
+    "role": "A",
+    "serieATeam": "Atalanta",
+    "active": false
+  },
+  {
+    "id": "sarr-a-verona-270e76314767",
+    "name": "Sarr A.",
+    "role": "A",
+    "serieATeam": "Verona",
+    "active": true
+  },
+  {
+    "id": "sala-a-lecce-53db99c496e4",
+    "name": "Sala A.",
+    "role": "C",
+    "serieATeam": "Lecce",
+    "active": true
+  },
+  {
+    "id": "pierret-lecce-827b63670bdf",
+    "name": "Pierret",
+    "role": "C",
+    "serieATeam": "Lecce",
+    "active": true
+  },
+  {
+    "id": "sohm-fiorentina-cd9b4d7b1629",
+    "name": "Sohm",
+    "role": "C",
+    "serieATeam": "Fiorentina",
+    "active": true
+  },
+  {
+    "id": "ghion-sassuolo-7e1407c02864",
+    "name": "Ghion",
+    "role": "C",
+    "serieATeam": "Sassuolo",
+    "active": false
+  },
+  {
+    "id": "tameze-torino-d6efbcf4a7eb",
+    "name": "Tameze",
+    "role": "C",
+    "serieATeam": "Torino",
+    "active": true
+  },
+  {
+    "id": "rodriguez-ju-cagliari-fffa9ba6b27e",
+    "name": "Rodriguez Ju.",
+    "role": "D",
+    "serieATeam": "Cagliari",
+    "active": true
+  },
+  {
+    "id": "fortini-fiorentina-69141818cebc",
+    "name": "Fortini",
+    "role": "D",
+    "serieATeam": "Fiorentina",
+    "active": true
+  },
+  {
+    "id": "otoa-genoa-f87d3c657d11",
+    "name": "Otoa",
+    "role": "D",
+    "serieATeam": "Genoa",
+    "active": true
+  },
+  {
+    "id": "savona-juventus-7ad751d9d383",
+    "name": "Savona",
+    "role": "D",
+    "serieATeam": "Juventus",
+    "active": false
+  },
+  {
+    "id": "gatti-juventus-bf4608c1ad13",
+    "name": "Gatti",
+    "role": "D",
+    "serieATeam": "Juventus",
+    "active": true
+  },
+  {
+    "id": "estupinan-milan-d4020efc2151",
+    "name": "Estupinan",
+    "role": "D",
+    "serieATeam": "Milan",
+    "active": true
+  },
+  {
+    "id": "sabelli-genoa-0005e69bc36e",
+    "name": "Sabelli",
+    "role": "D",
+    "serieATeam": "Genoa",
+    "active": true
+  },
+  {
+    "id": "cuadrado-pisa-b3816e0b81bb",
+    "name": "Cuadrado",
+    "role": "D",
+    "serieATeam": "Pisa",
+    "active": true
+  },
+  {
+    "id": "albiol-pisa-73408ac53eae",
+    "name": "Albiol",
+    "role": "D",
+    "serieATeam": "Pisa",
+    "active": true
+  },
+  {
+    "id": "okoye-udinese-8d89ab06fbf6",
+    "name": "Okoye",
+    "role": "P",
+    "serieATeam": "Udinese",
+    "active": true
+  },
+  {
+    "id": "semper-pisa-3af9f9c73d48",
+    "name": "Semper",
+    "role": "P",
+    "serieATeam": "Pisa",
+    "active": true
+  },
+  {
+    "id": "bayo-v-udinese-bb057b6a09f5",
+    "name": "Bayo V.",
+    "role": "A",
+    "serieATeam": "Udinese",
+    "active": true
+  },
+  {
+    "id": "rocha-livramento-verona-63669a2ccc09",
+    "name": "Rocha Livramento",
+    "role": "A",
+    "serieATeam": "Verona",
+    "active": false
+  },
+  {
+    "id": "cheddira-sassuolo-4f9150571fcc",
+    "name": "Cheddira",
+    "role": "A",
+    "serieATeam": "Sassuolo",
+    "active": true
+  },
+  {
+    "id": "johnsen-cremonese-094498dfef53",
+    "name": "Johnsen",
+    "role": "A",
+    "serieATeam": "Cremonese",
+    "active": true
+  },
+  {
+    "id": "pierini-sassuolo-fd69db1bb311",
+    "name": "Pierini",
+    "role": "A",
+    "serieATeam": "Sassuolo",
+    "active": true
+  },
+  {
+    "id": "cremaschi-parma-a295b9b38343",
+    "name": "Cremaschi",
+    "role": "C",
+    "serieATeam": "Parma",
+    "active": true
+  },
+  {
+    "id": "iannoni-sassuolo-75baa4d9f4e8",
+    "name": "Iannoni",
+    "role": "C",
+    "serieATeam": "Sassuolo",
+    "active": true
+  },
+  {
+    "id": "richardson-fiorentina-46fe2c65e71c",
+    "name": "Richardson",
+    "role": "C",
+    "serieATeam": "Fiorentina",
+    "active": true
+  },
+  {
+    "id": "sarmiento-j-cremonese-68837ef31ae2",
+    "name": "Sarmiento J.",
+    "role": "C",
+    "serieATeam": "Cremonese",
+    "active": true
+  },
+  {
+    "id": "payero-cremonese-060bdc415364",
+    "name": "Payero",
+    "role": "C",
+    "serieATeam": "Cremonese",
+    "active": true
+  },
+  {
+    "id": "lipani-sassuolo-42f3674508cf",
+    "name": "Lipani",
+    "role": "C",
+    "serieATeam": "Sassuolo",
+    "active": true
+  },
+  {
+    "id": "lovric-udinese-23857481dbd6",
+    "name": "Lovric",
+    "role": "C",
+    "serieATeam": "Udinese",
+    "active": true
+  },
+  {
+    "id": "ilic-torino-e90b02f50fe9",
+    "name": "Ilic",
+    "role": "C",
+    "serieATeam": "Torino",
+    "active": true
+  },
+  {
+    "id": "kastanos-verona-9d4c44888c0a",
+    "name": "Kastanos",
+    "role": "C",
+    "serieATeam": "Verona",
+    "active": true
+  },
+  {
+    "id": "grassi-cremonese-a1e0c19f61e9",
+    "name": "Grassi",
+    "role": "C",
+    "serieATeam": "Cremonese",
+    "active": true
+  },
+  {
+    "id": "ze-pedro-cagliari-06dc735848a9",
+    "name": "Zè Pedro",
+    "role": "D",
+    "serieATeam": "Cagliari",
+    "active": true
+  },
+  {
+    "id": "troilo-parma-7762cc6f2e17",
+    "name": "Troilo",
+    "role": "D",
+    "serieATeam": "Parma",
+    "active": true
+  },
+  {
+    "id": "athekame-milan-9dae953befdb",
+    "name": "Athekame",
+    "role": "D",
+    "serieATeam": "Milan",
+    "active": true
+  },
+  {
+    "id": "ndiaye-parma-f33b425e09c0",
+    "name": "Ndiaye",
+    "role": "D",
+    "serieATeam": "Parma",
+    "active": true
+  },
+  {
+    "id": "cande-sassuolo-9768b8679aa7",
+    "name": "Candè",
+    "role": "D",
+    "serieATeam": "Sassuolo",
+    "active": true
+  },
+  {
+    "id": "van-der-brempt-como-a041d84ec94c",
+    "name": "Van Der Brempt",
+    "role": "D",
+    "serieATeam": "Como",
+    "active": true
+  },
+  {
+    "id": "marianucci-napoli-f841907bbc13",
+    "name": "Marianucci",
+    "role": "D",
+    "serieATeam": "Napoli",
+    "active": true
+  },
+  {
+    "id": "ghilardi-roma-4b90beccc597",
+    "name": "Ghilardi",
+    "role": "D",
+    "serieATeam": "Roma",
+    "active": true
+  },
+  {
+    "id": "goglichidze-udinese-38c6feb06ae7",
+    "name": "Goglichidze",
+    "role": "D",
+    "serieATeam": "Udinese",
+    "active": true
+  },
+  {
+    "id": "bonfanti-pisa-044004bf1ada",
+    "name": "Bonfanti",
+    "role": "D",
+    "serieATeam": "Pisa",
+    "active": true
+  },
+  {
+    "id": "zemura-udinese-48dc0363cd40",
+    "name": "Zemura",
+    "role": "D",
+    "serieATeam": "Udinese",
+    "active": true
+  },
+  {
+    "id": "thiaw-milan-87a50917e33e",
+    "name": "Thiaw",
+    "role": "D",
+    "serieATeam": "Milan",
+    "active": false
+  },
+  {
+    "id": "ehizibue-udinese-9d923f8dfe06",
+    "name": "Ehizibue",
+    "role": "D",
+    "serieATeam": "Udinese",
+    "active": true
+  },
+  {
+    "id": "de-winter-milan-b672f91eb60d",
+    "name": "De Winter",
+    "role": "D",
+    "serieATeam": "Milan",
+    "active": true
+  },
+  {
+    "id": "moreno-alb-como-c5d606e02b3e",
+    "name": "Moreno Alb.",
+    "role": "D",
+    "serieATeam": "Como",
+    "active": true
+  },
+  {
+    "id": "nkounkou-torino-9670538791c2",
+    "name": "Nkounkou",
+    "role": "D",
+    "serieATeam": "Torino",
+    "active": true
+  },
+  {
+    "id": "mari-fiorentina-eb408bc92f2d",
+    "name": "Marì",
+    "role": "D",
+    "serieATeam": "Fiorentina",
+    "active": false
+  },
+  {
+    "id": "romagna-sassuolo-00a22789775c",
+    "name": "Romagna",
+    "role": "D",
+    "serieATeam": "Sassuolo",
+    "active": true
+  },
+  {
+    "id": "lazzari-lazio-9bae2b27fcec",
+    "name": "Lazzari",
+    "role": "D",
+    "serieATeam": "Lazio",
+    "active": true
+  },
+  {
+    "id": "ceccherini-cremonese-daebf20c5dde",
+    "name": "Ceccherini",
+    "role": "D",
+    "serieATeam": "Cremonese",
+    "active": true
+  },
+  {
+    "id": "de-silvestri-bologna-3df04f2819ae",
+    "name": "De Silvestri",
+    "role": "D",
+    "serieATeam": "Bologna",
+    "active": true
+  },
+  {
+    "id": "de-vrij-inter-fb21cbdbda2a",
+    "name": "De Vrij",
+    "role": "D",
+    "serieATeam": "Inter",
+    "active": true
+  },
+  {
+    "id": "rugani-juventus-f7818d6610a2",
+    "name": "Rugani",
+    "role": "D",
+    "serieATeam": "Juventus",
+    "active": true
+  },
+  {
+    "id": "masina-torino-2468c8997b04",
+    "name": "Masina",
+    "role": "D",
+    "serieATeam": "Torino",
+    "active": true
+  },
+  {
+    "id": "frigan-parma-eb5b40731acf",
+    "name": "Frigan",
+    "role": "A",
+    "serieATeam": "Parma",
+    "active": true
+  },
+  {
+    "id": "lind-pisa-e1f5a90a353c",
+    "name": "Lind",
+    "role": "A",
+    "serieATeam": "Pisa",
+    "active": false
+  },
+  {
+    "id": "karlsson-bologna-ffcb837ab8d3",
+    "name": "Karlsson",
+    "role": "A",
+    "serieATeam": "Bologna",
+    "active": false
+  },
+  {
+    "id": "djuric-parma-6c0b711bfb0a",
+    "name": "Djuric",
+    "role": "A",
+    "serieATeam": "Parma",
+    "active": true
+  },
+  {
+    "id": "stanciu-genoa-96b13e5ae748",
+    "name": "Stanciu",
+    "role": "C",
+    "serieATeam": "Genoa",
+    "active": true
+  },
+  {
+    "id": "al-musrati-verona-6e8bcd70745f",
+    "name": "Al-Musrati",
+    "role": "C",
+    "serieATeam": "Verona",
+    "active": true
+  },
+  {
+    "id": "gronbaek-genoa-a3e06de1d75d",
+    "name": "Gronbaek",
+    "role": "C",
+    "serieATeam": "Genoa",
+    "active": true
+  },
+  {
+    "id": "el-azzouzi-bologna-cd72876df0f2",
+    "name": "El Azzouzi",
+    "role": "C",
+    "serieATeam": "Bologna",
+    "active": false
+  },
+  {
+    "id": "rafia-lecce-84e8f333bf51",
+    "name": "Rafia",
+    "role": "C",
+    "serieATeam": "Lecce",
+    "active": false
+  },
+  {
+    "id": "belahyane-lazio-708926d973a2",
+    "name": "Belahyane",
+    "role": "C",
+    "serieATeam": "Lazio",
+    "active": true
+  },
+  {
+    "id": "helgason-lecce-791be907d9cf",
+    "name": "Helgason",
+    "role": "C",
+    "serieATeam": "Lecce",
+    "active": true
+  },
+  {
+    "id": "odenthal-sassuolo-39d7224629d6",
+    "name": "Odenthal",
+    "role": "D",
+    "serieATeam": "Sassuolo",
+    "active": true
+  },
+  {
+    "id": "salah-eddine-roma-8c8a3e437c04",
+    "name": "Salah-Eddine",
+    "role": "D",
+    "serieATeam": "Roma",
+    "active": false
+  },
+  {
+    "id": "provstgaard-lazio-fb74610a8152",
+    "name": "Provstgaard",
+    "role": "D",
+    "serieATeam": "Lazio",
+    "active": true
+  },
+  {
+    "id": "lovik-parma-a6199fb11052",
+    "name": "Lovik",
+    "role": "D",
+    "serieATeam": "Parma",
+    "active": true
+  },
+  {
+    "id": "rui-modesto-udinese-dba471806175",
+    "name": "Rui Modesto",
+    "role": "D",
+    "serieATeam": "Udinese",
+    "active": true
+  },
+  {
+    "id": "azzi-cremonese-d01817e27033",
+    "name": "Azzi",
+    "role": "D",
+    "serieATeam": "Cremonese",
+    "active": false
+  },
+  {
+    "id": "posch-como-a11b5347bf00",
+    "name": "Posch",
+    "role": "D",
+    "serieATeam": "Como",
+    "active": true
+  },
+  {
+    "id": "ebosse-verona-044617c82e58",
+    "name": "Ebosse",
+    "role": "D",
+    "serieATeam": "Verona",
+    "active": true
+  },
+  {
+    "id": "viti-fiorentina-742bf057820d",
+    "name": "Viti",
+    "role": "D",
+    "serieATeam": "Fiorentina",
+    "active": false
+  },
+  {
+    "id": "tavares-n-lazio-8061c227b0f2",
+    "name": "Tavares N.",
+    "role": "D",
+    "serieATeam": "Lazio",
+    "active": true
+  },
+  {
+    "id": "casale-bologna-8a5d428ae677",
+    "name": "Casale",
+    "role": "D",
+    "serieATeam": "Bologna",
+    "active": true
+  },
+  {
+    "id": "balogh-parma-6860eba99bc0",
+    "name": "Balogh",
+    "role": "D",
+    "serieATeam": "Parma",
+    "active": false
+  },
+  {
+    "id": "erlic-bologna-2296a007d50c",
+    "name": "Erlic",
+    "role": "D",
+    "serieATeam": "Bologna",
+    "active": false
+  },
+  {
+    "id": "calabresi-pisa-971eab837831",
+    "name": "Calabresi",
+    "role": "D",
+    "serieATeam": "Pisa",
+    "active": true
+  },
+  {
+    "id": "darmian-inter-aa9d1fd5afbf",
+    "name": "Darmian",
+    "role": "D",
+    "serieATeam": "Inter",
+    "active": true
+  },
+  {
+    "id": "montipo-verona-d5a1a5b743a2",
+    "name": "Montipò",
+    "role": "P",
+    "serieATeam": "Verona",
+    "active": true
+  },
+  {
+    "id": "liteta-cagliari-305ed5a2f751",
+    "name": "Liteta",
+    "role": "C",
+    "serieATeam": "Cagliari",
+    "active": true
+  },
+  {
+    "id": "vural-pisa-bb92734de23e",
+    "name": "Vural",
+    "role": "C",
+    "serieATeam": "Pisa",
+    "active": true
+  },
+  {
+    "id": "zarraga-udinese-c9992648df29",
+    "name": "Zarraga",
+    "role": "C",
+    "serieATeam": "Udinese",
+    "active": true
+  },
+  {
+    "id": "pafundi-udinese-8614e0c90f6c",
+    "name": "Pafundi",
+    "role": "C",
+    "serieATeam": "Udinese",
+    "active": false
+  },
+  {
+    "id": "maleh-lecce-0b924a7804e8",
+    "name": "Maleh",
+    "role": "C",
+    "serieATeam": "Lecce",
+    "active": true
+  },
+  {
+    "id": "akpa-akpro-verona-0ad4e1d1a39e",
+    "name": "Akpa Akpro",
+    "role": "C",
+    "serieATeam": "Verona",
+    "active": true
+  },
+  {
+    "id": "douglas-luiz-juventus-4f6617a2226d",
+    "name": "Douglas Luiz",
+    "role": "C",
+    "serieATeam": "Juventus",
+    "active": false
+  },
+  {
+    "id": "gagliardini-verona-8a174accd9ef",
+    "name": "Gagliardini",
+    "role": "C",
+    "serieATeam": "Verona",
+    "active": true
+  },
+  {
+    "id": "siebert-lecce-66e7990c0f05",
+    "name": "Siebert",
+    "role": "D",
+    "serieATeam": "Lecce",
+    "active": true
+  },
+  {
+    "id": "cham-verona-a18e69da5e25",
+    "name": "Cham",
+    "role": "D",
+    "serieATeam": "Verona",
+    "active": true
+  },
+  {
+    "id": "tsimikas-roma-2c011486675b",
+    "name": "Tsimikas",
+    "role": "D",
+    "serieATeam": "Roma",
+    "active": true
+  },
+  {
+    "id": "goldaniga-como-a17f01924534",
+    "name": "Goldaniga",
+    "role": "D",
+    "serieATeam": "Como",
+    "active": true
+  },
+  {
+    "id": "azon-como-9a360167f1e0",
+    "name": "Azon",
+    "role": "A",
+    "serieATeam": "Como",
+    "active": false
+  },
+  {
+    "id": "taremi-inter-d435929144d3",
+    "name": "Taremi",
+    "role": "A",
+    "serieATeam": "Inter",
+    "active": false
+  },
+  {
+    "id": "okafor-milan-779078b3fb84",
+    "name": "Okafor",
+    "role": "A",
+    "serieATeam": "Milan",
+    "active": false
+  },
+  {
+    "id": "brenner-udinese-ad80371bb47c",
+    "name": "Brenner",
+    "role": "A",
+    "serieATeam": "Udinese",
+    "active": false
+  },
+  {
+    "id": "milik-juventus-1259cdf2e8bb",
+    "name": "Milik",
+    "role": "A",
+    "serieATeam": "Juventus",
+    "active": true
+  },
+  {
+    "id": "castagnetti-cremonese-bb22d9102597",
+    "name": "Castagnetti",
+    "role": "C",
+    "serieATeam": "Cremonese",
+    "active": false
+  },
+  {
+    "id": "cornet-genoa-0d098b7162f9",
+    "name": "Cornet",
+    "role": "C",
+    "serieATeam": "Genoa",
+    "active": true
+  },
+  {
+    "id": "weah-juventus-35c055e9b159",
+    "name": "Weah",
+    "role": "C",
+    "serieATeam": "Juventus",
+    "active": false
+  },
+  {
+    "id": "zanimacchia-cremonese-178c1a0bbc9a",
+    "name": "Zanimacchia",
+    "role": "C",
+    "serieATeam": "Cremonese",
+    "active": false
+  },
+  {
+    "id": "bozhinov-pisa-4a05dc21ace2",
+    "name": "Bozhinov",
+    "role": "D",
+    "serieATeam": "Pisa",
+    "active": true
+  },
+  {
+    "id": "odogu-milan-e6b9fb64101f",
+    "name": "Odogu",
+    "role": "D",
+    "serieATeam": "Milan",
+    "active": true
+  },
+  {
+    "id": "joao-mario-juventus-c06bca8b1c43",
+    "name": "Joao Mario",
+    "role": "D",
+    "serieATeam": "Juventus",
+    "active": true
+  },
+  {
+    "id": "folino-cremonese-ea1026438e2d",
+    "name": "Folino",
+    "role": "D",
+    "serieATeam": "Cremonese",
+    "active": true
+  },
+  {
+    "id": "slotsager-verona-8761610e5fde",
+    "name": "Slotsager",
+    "role": "D",
+    "serieATeam": "Verona",
+    "active": true
+  },
+  {
+    "id": "faye-cremonese-5cf33d833f20",
+    "name": "Faye",
+    "role": "D",
+    "serieATeam": "Cremonese",
+    "active": true
+  },
+  {
+    "id": "hainaut-parma-e41d77439e1d",
+    "name": "Hainaut",
+    "role": "D",
+    "serieATeam": "Parma",
+    "active": false
+  },
+  {
+    "id": "giannetti-l-udinese-e61a60b4f2b0",
+    "name": "Giannetti L.",
+    "role": "D",
+    "serieATeam": "Udinese",
+    "active": false
+  },
+  {
+    "id": "mateus-lusuardi-pisa-4ceabcef445a",
+    "name": "Mateus Lusuardi",
+    "role": "D",
+    "serieATeam": "Pisa",
+    "active": true
+  },
+  {
+    "id": "lamptey-fiorentina-c357a5000c37",
+    "name": "Lamptey",
+    "role": "D",
+    "serieATeam": "Fiorentina",
+    "active": true
+  },
+  {
+    "id": "dossena-como-90b3f6e0c500",
+    "name": "Dossena",
+    "role": "D",
+    "serieATeam": "Como",
+    "active": true
+  },
+  {
+    "id": "missori-sassuolo-7ba6371aa6de",
+    "name": "Missori",
+    "role": "D",
+    "serieATeam": "Sassuolo",
+    "active": false
+  },
+  {
+    "id": "schuurs-torino-e8db7cca4d7c",
+    "name": "Schuurs",
+    "role": "D",
+    "serieATeam": "Torino",
+    "active": true
+  },
+  {
+    "id": "kumbulla-roma-40934c837fc8",
+    "name": "Kumbulla",
+    "role": "D",
+    "serieATeam": "Roma",
+    "active": false
+  },
+  {
+    "id": "patric-lazio-fe04e04d04b9",
+    "name": "Patric",
+    "role": "D",
+    "serieATeam": "Lazio",
+    "active": true
+  },
+  {
+    "id": "biraghi-torino-503d8b0c9d40",
+    "name": "Biraghi",
+    "role": "D",
+    "serieATeam": "Torino",
+    "active": true
+  },
+  {
+    "id": "njie-torino-d74fff8ed42d",
+    "name": "Njie",
+    "role": "A",
+    "serieATeam": "Torino",
+    "active": true
+  },
+  {
+    "id": "alvarez-a-sassuolo-989d08aeaca3",
+    "name": "Alvarez A.",
+    "role": "A",
+    "serieATeam": "Sassuolo",
+    "active": false
+  },
+  {
+    "id": "onana-j-genoa-ae84cde3b9ab",
+    "name": "Onana J.",
+    "role": "C",
+    "serieATeam": "Genoa",
+    "active": true
+  },
+  {
+    "id": "boloca-sassuolo-2f1c46aeae05",
+    "name": "Boloca",
+    "role": "C",
+    "serieATeam": "Sassuolo",
+    "active": true
+  },
+  {
+    "id": "sabiri-fiorentina-cc5b9c4614ff",
+    "name": "Sabiri",
+    "role": "C",
+    "serieATeam": "Fiorentina",
+    "active": true
+  },
+  {
+    "id": "denoon-pisa-77cc1a7f7a1d",
+    "name": "Denoon",
+    "role": "D",
+    "serieATeam": "Pisa",
+    "active": true
+  },
+  {
+    "id": "coppola-f-pisa-a580c5aeffbb",
+    "name": "Coppola F.",
+    "role": "D",
+    "serieATeam": "Pisa",
+    "active": true
+  },
+  {
+    "id": "kouassi-lecce-2a718264b9b7",
+    "name": "Kouassi",
+    "role": "D",
+    "serieATeam": "Lecce",
+    "active": true
+  },
+  {
+    "id": "oyegoke-verona-ddce816680ad",
+    "name": "Oyegoke",
+    "role": "D",
+    "serieATeam": "Verona",
+    "active": true
+  },
+  {
+    "id": "jack-como-3c6de74c7af9",
+    "name": "Jack",
+    "role": "D",
+    "serieATeam": "Como",
+    "active": false
+  },
+  {
+    "id": "palma-udinese-c7ed67201998",
+    "name": "Palma",
+    "role": "D",
+    "serieATeam": "Udinese",
+    "active": false
+  },
+  {
+    "id": "rouhi-juventus-ff7b01225f78",
+    "name": "Rouhi",
+    "role": "D",
+    "serieATeam": "Juventus",
+    "active": true
+  },
+  {
+    "id": "coulibaly-w-sassuolo-62762bff10b3",
+    "name": "Coulibaly W.",
+    "role": "D",
+    "serieATeam": "Sassuolo",
+    "active": true
+  },
+  {
+    "id": "di-pardo-cagliari-64bfbdbde514",
+    "name": "Di Pardo",
+    "role": "D",
+    "serieATeam": "Cagliari",
+    "active": true
+  },
+  {
+    "id": "hysaj-lazio-15f12da1eb73",
+    "name": "Hysaj",
+    "role": "D",
+    "serieATeam": "Lazio",
+    "active": true
+  },
+  {
+    "id": "nasti-cremonese-b69d85990272",
+    "name": "Nasti",
+    "role": "A",
+    "serieATeam": "Cremonese",
+    "active": false
+  },
+  {
+    "id": "pizarro-udinese-666779faf37e",
+    "name": "Pizarro",
+    "role": "A",
+    "serieATeam": "Udinese",
+    "active": false
+  },
+  {
+    "id": "okereke-cremonese-8e2bdd4cdc97",
+    "name": "Okereke",
+    "role": "A",
+    "serieATeam": "Cremonese",
+    "active": true
+  },
+  {
+    "id": "de-luca-cremonese-b0ff994274f2",
+    "name": "De Luca",
+    "role": "A",
+    "serieATeam": "Cremonese",
+    "active": false
+  },
+  {
+    "id": "pavoletti-cagliari-440672c67656",
+    "name": "Pavoletti",
+    "role": "A",
+    "serieATeam": "Cagliari",
+    "active": true
+  },
+  {
+    "id": "vergara-napoli-be20173386a7",
+    "name": "Vergara",
+    "role": "C",
+    "serieATeam": "Napoli",
+    "active": true
+  },
+  {
+    "id": "engelhardt-como-9b69cd093028",
+    "name": "Engelhardt",
+    "role": "C",
+    "serieATeam": "Como",
+    "active": false
+  },
+  {
+    "id": "pickel-cremonese-ee291140897d",
+    "name": "Pickel",
+    "role": "C",
+    "serieATeam": "Cremonese",
+    "active": false
+  },
+  {
+    "id": "valoti-cremonese-29f2d2467930",
+    "name": "Valoti",
+    "role": "C",
+    "serieATeam": "Cremonese",
+    "active": false
+  },
+  {
+    "id": "pieragnolo-sassuolo-8abaf6ff2da8",
+    "name": "Pieragnolo",
+    "role": "D",
+    "serieATeam": "Sassuolo",
+    "active": true
+  },
+  {
+    "id": "rus-pisa-7bd6f4d0db19",
+    "name": "Rus",
+    "role": "D",
+    "serieATeam": "Pisa",
+    "active": false
+  },
+  {
+    "id": "jean-lecce-f768b6e0ad62",
+    "name": "Jean",
+    "role": "D",
+    "serieATeam": "Lecce",
+    "active": true
+  },
+  {
+    "id": "paz-y-sassuolo-dbe3d1c111f6",
+    "name": "Paz Y.",
+    "role": "D",
+    "serieATeam": "Sassuolo",
+    "active": true
+  },
+  {
+    "id": "vogliacco-genoa-436bb2f20cd2",
+    "name": "Vogliacco",
+    "role": "D",
+    "serieATeam": "Genoa",
+    "active": false
+  },
+  {
+    "id": "gigot-lazio-cf7f990a0123",
+    "name": "Gigot",
+    "role": "D",
+    "serieATeam": "Lazio",
+    "active": true
+  },
+  {
+    "id": "ravanelli-cremonese-51aa9cde4b82",
+    "name": "Ravanelli",
+    "role": "D",
+    "serieATeam": "Cremonese",
+    "active": false
+  },
+  {
+    "id": "mazzocchi-napoli-387c826670a5",
+    "name": "Mazzocchi",
+    "role": "D",
+    "serieATeam": "Napoli",
+    "active": true
+  },
+  {
+    "id": "bonfanti-n-pisa-2a10c0cf1603",
+    "name": "Bonfanti N.",
+    "role": "A",
+    "serieATeam": "Pisa",
+    "active": false
+  },
+  {
+    "id": "fofana-sa-lecce-433943ea305c",
+    "name": "Fofana Sa.",
+    "role": "C",
+    "serieATeam": "Lecce",
+    "active": true
+  },
+  {
+    "id": "santiago-verona-d8938b889827",
+    "name": "Santiago",
+    "role": "C",
+    "serieATeam": "Verona",
+    "active": false
+  },
+  {
+    "id": "hojholt-pisa-e42223b86ded",
+    "name": "Hojholt",
+    "role": "C",
+    "serieATeam": "Pisa",
+    "active": true
+  },
+  {
+    "id": "marchwinski-lecce-56ad8d238125",
+    "name": "Marchwinski",
+    "role": "C",
+    "serieATeam": "Lecce",
+    "active": true
+  },
+  {
+    "id": "bianco-fiorentina-bdfc3745241f",
+    "name": "Bianco",
+    "role": "C",
+    "serieATeam": "Fiorentina",
+    "active": false
+  },
+  {
+    "id": "ndaba-lecce-c9d9f39a99db",
+    "name": "Ndaba",
+    "role": "D",
+    "serieATeam": "Lecce",
+    "active": true
+  },
+  {
+    "id": "mbambi-pisa-6adfe2081339",
+    "name": "Mbambi",
+    "role": "D",
+    "serieATeam": "Pisa",
+    "active": true
+  },
+  {
+    "id": "perez-m-lecce-ca4a1d9270e1",
+    "name": "Perez M.",
+    "role": "D",
+    "serieATeam": "Lecce",
+    "active": true
+  },
+  {
+    "id": "esteves-t-pisa-32306131f840",
+    "name": "Esteves T.",
+    "role": "D",
+    "serieATeam": "Pisa",
+    "active": true
+  },
+  {
+    "id": "dembele-a-torino-2efe53b8634a",
+    "name": "Dembelè A.",
+    "role": "D",
+    "serieATeam": "Torino",
+    "active": true
+  },
+  {
+    "id": "ilic-m-bologna-60dd7c5a6027",
+    "name": "Ilic M.",
+    "role": "D",
+    "serieATeam": "Bologna",
+    "active": false
+  },
+  {
+    "id": "wieteska-cagliari-1d83d59a6162",
+    "name": "Wieteska",
+    "role": "D",
+    "serieATeam": "Cagliari",
+    "active": false
+  },
+  {
+    "id": "quagliata-cremonese-a09ba9b7dbfd",
+    "name": "Quagliata",
+    "role": "D",
+    "serieATeam": "Cremonese",
+    "active": false
+  },
+  {
+    "id": "trepy-cagliari-9f8c0a53203c",
+    "name": "Trepy",
+    "role": "A",
+    "serieATeam": "Cagliari",
+    "active": true
+  },
+  {
+    "id": "isaac-verona-3f21bc289301",
+    "name": "Isaac",
+    "role": "A",
+    "serieATeam": "Verona",
+    "active": true
+  },
+  {
+    "id": "arena-a-roma-3f38408d6b13",
+    "name": "Arena A.",
+    "role": "A",
+    "serieATeam": "Roma",
+    "active": true
+  },
+  {
+    "id": "gueye-udinese-83cc09aa051d",
+    "name": "Gueye",
+    "role": "A",
+    "serieATeam": "Udinese",
+    "active": true
+  },
+  {
+    "id": "ambrosino-napoli-fb0c2608bca5",
+    "name": "Ambrosino",
+    "role": "A",
+    "serieATeam": "Napoli",
+    "active": true
+  },
+  {
+    "id": "balentien-milan-dc2e31c56ed1",
+    "name": "Balentien",
+    "role": "A",
+    "serieATeam": "Milan",
+    "active": true
+  },
+  {
+    "id": "buffon-l-pisa-a98f678764d9",
+    "name": "Buffon L.",
+    "role": "A",
+    "serieATeam": "Pisa",
+    "active": true
+  },
+  {
+    "id": "skjellerup-sassuolo-e848b011e5f5",
+    "name": "Skjellerup",
+    "role": "A",
+    "serieATeam": "Sassuolo",
+    "active": true
+  },
+  {
+    "id": "moro-l-sassuolo-ebce88b19374",
+    "name": "Moro L.",
+    "role": "A",
+    "serieATeam": "Sassuolo",
+    "active": true
+  },
+  {
+    "id": "gabrielloni-como-4f608255d6de",
+    "name": "Gabrielloni",
+    "role": "A",
+    "serieATeam": "Como",
+    "active": false
+  },
+  {
+    "id": "kouame-fiorentina-a036e85b691c",
+    "name": "Kouamè",
+    "role": "A",
+    "serieATeam": "Fiorentina",
+    "active": true
+  },
+  {
+    "id": "ngom-lecce-775d670a6571",
+    "name": "Ngom",
+    "role": "C",
+    "serieATeam": "Lecce",
+    "active": true
+  },
+  {
+    "id": "gorter-lecce-64ea46efdf00",
+    "name": "Gorter",
+    "role": "C",
+    "serieATeam": "Lecce",
+    "active": true
+  },
+  {
+    "id": "arena-pisa-9acf2ffd124d",
+    "name": "Arena",
+    "role": "C",
+    "serieATeam": "Pisa",
+    "active": false
+  },
+  {
+    "id": "cuenca-h-genoa-289971691aab",
+    "name": "Cuenca H.",
+    "role": "C",
+    "serieATeam": "Genoa",
+    "active": true
+  },
+  {
+    "id": "liberali-milan-23928fe11136",
+    "name": "Liberali",
+    "role": "C",
+    "serieATeam": "Milan",
+    "active": false
+  },
+  {
+    "id": "adzic-juventus-4fb483dbfefb",
+    "name": "Adzic",
+    "role": "C",
+    "serieATeam": "Juventus",
+    "active": true
+  },
+  {
+    "id": "braunoder-como-316c536c91e4",
+    "name": "Braunoder",
+    "role": "C",
+    "serieATeam": "Como",
+    "active": false
+  },
+  {
+    "id": "cisse-a-verona-6541f1234727",
+    "name": "Cissè A.",
+    "role": "C",
+    "serieATeam": "Verona",
+    "active": false
+  },
+  {
+    "id": "fini-genoa-bf5708b898e3",
+    "name": "Fini",
+    "role": "C",
+    "serieATeam": "Genoa",
+    "active": true
+  },
+  {
+    "id": "alli-como-f8a0d5e0db2e",
+    "name": "Alli",
+    "role": "C",
+    "serieATeam": "Como",
+    "active": false
+  },
+  {
+    "id": "rog-cagliari-e392f8e019f2",
+    "name": "Rog",
+    "role": "C",
+    "serieATeam": "Cagliari",
+    "active": false
+  },
+  {
+    "id": "arizala-udinese-8dffc6856293",
+    "name": "Arizala",
+    "role": "D",
+    "serieATeam": "Udinese",
+    "active": true
+  },
+  {
+    "id": "kouadio-fiorentina-3d0e7e27f920",
+    "name": "Kouadio",
+    "role": "D",
+    "serieATeam": "Fiorentina",
+    "active": true
+  },
+  {
+    "id": "abdulhamid-roma-9d138f8acd0e",
+    "name": "Abdulhamid",
+    "role": "D",
+    "serieATeam": "Roma",
+    "active": false
+  },
+  {
+    "id": "palacios-t-inter-be86729a93a0",
+    "name": "Palacios T.",
+    "role": "D",
+    "serieATeam": "Inter",
+    "active": true
+  },
+  {
+    "id": "veroli-cagliari-5996d6c7fb25",
+    "name": "Veroli",
+    "role": "D",
+    "serieATeam": "Cagliari",
+    "active": false
+  },
+  {
+    "id": "godfrey-atalanta-121fbf19b2a8",
+    "name": "Godfrey",
+    "role": "D",
+    "serieATeam": "Atalanta",
+    "active": false
+  },
+  {
+    "id": "sernicola-cremonese-47ad7fff1f28",
+    "name": "Sernicola",
+    "role": "D",
+    "serieATeam": "Cremonese",
+    "active": false
+  },
+  {
+    "id": "tornqvist-como-9c7a04cc1d9d",
+    "name": "Tornqvist",
+    "role": "P",
+    "serieATeam": "Como",
+    "active": true
+  },
+  {
+    "id": "ferrante-napoli-07c8e34aca78",
+    "name": "Ferrante",
+    "role": "P",
+    "serieATeam": "Napoli",
+    "active": true
+  },
+  {
+    "id": "cavlina-como-3d6e2630131d",
+    "name": "Cavlina",
+    "role": "P",
+    "serieATeam": "Como",
+    "active": true
+  },
+  {
+    "id": "toniolo-verona-18d1fe14fe3b",
+    "name": "Toniolo",
+    "role": "P",
+    "serieATeam": "Verona",
+    "active": true
+  },
+  {
+    "id": "nunziante-udinese-68e0ca737cdd",
+    "name": "Nunziante",
+    "role": "P",
+    "serieATeam": "Udinese",
+    "active": true
+  },
+  {
+    "id": "israel-torino-af8b87191c46",
+    "name": "Israel",
+    "role": "P",
+    "serieATeam": "Torino",
+    "active": true
+  },
+  {
+    "id": "pessina-mas-bologna-deb1a407ea4d",
+    "name": "Pessina Mas.",
+    "role": "P",
+    "serieATeam": "Bologna",
+    "active": true
+  },
+  {
+    "id": "zelezny-roma-b3d7af27685f",
+    "name": "Zelezny",
+    "role": "P",
+    "serieATeam": "Roma",
+    "active": true
+  },
+  {
+    "id": "calligaris-inter-9dfefa308019",
+    "name": "Calligaris",
+    "role": "P",
+    "serieATeam": "Inter",
+    "active": true
+  },
+  {
+    "id": "siegrist-genoa-be96da857e83",
+    "name": "Siegrist",
+    "role": "P",
+    "serieATeam": "Genoa",
+    "active": true
+  },
+  {
+    "id": "sava-udinese-7311f10abeb7",
+    "name": "Sava",
+    "role": "P",
+    "serieATeam": "Udinese",
+    "active": true
+  },
+  {
+    "id": "torriani-milan-505e7f5b55ba",
+    "name": "Torriani",
+    "role": "P",
+    "serieATeam": "Milan",
+    "active": true
+  },
+  {
+    "id": "sherri-cagliari-72d5406b010c",
+    "name": "Sherri",
+    "role": "P",
+    "serieATeam": "Cagliari",
+    "active": true
+  },
+  {
+    "id": "samooja-lecce-6c066b4c88ff",
+    "name": "Samooja",
+    "role": "P",
+    "serieATeam": "Lecce",
+    "active": true
+  },
+  {
+    "id": "nava-cremonese-6fdcc4b63c35",
+    "name": "Nava",
+    "role": "P",
+    "serieATeam": "Cremonese",
+    "active": true
+  },
+  {
+    "id": "mandas-lazio-7dc6b6bf1e80",
+    "name": "Mandas",
+    "role": "P",
+    "serieATeam": "Lazio",
+    "active": true
+  },
+  {
+    "id": "furlanetto-lazio-090de17c1fcd",
+    "name": "Furlanetto",
+    "role": "P",
+    "serieATeam": "Lazio",
+    "active": true
+  },
+  {
+    "id": "christensen-o-fiorentina-4a9e826ad771",
+    "name": "Christensen O.",
+    "role": "P",
+    "serieATeam": "Fiorentina",
+    "active": true
+  },
+  {
+    "id": "popa-torino-1f1a68da906e",
+    "name": "Popa",
+    "role": "P",
+    "serieATeam": "Torino",
+    "active": true
+  },
+  {
+    "id": "martinelli-t-fiorentina-5111b4b5e8b4",
+    "name": "Martinelli T.",
+    "role": "P",
+    "serieATeam": "Fiorentina",
+    "active": false
+  },
+  {
+    "id": "vasquez-d-roma-b710603b48fb",
+    "name": "Vasquez D.",
+    "role": "P",
+    "serieATeam": "Roma",
+    "active": true
+  },
+  {
+    "id": "rinaldi-parma-9c59568af85d",
+    "name": "Rinaldi",
+    "role": "P",
+    "serieATeam": "Parma",
+    "active": true
+  },
+  {
+    "id": "guaita-parma-94cc4651e559",
+    "name": "Guaita",
+    "role": "P",
+    "serieATeam": "Parma",
+    "active": true
+  },
+  {
+    "id": "martinez-jo-inter-8e03c1ddd4eb",
+    "name": "Martinez Jo.",
+    "role": "P",
+    "serieATeam": "Inter",
+    "active": true
+  },
+  {
+    "id": "ciocci-cagliari-8425c0762c3e",
+    "name": "Ciocci",
+    "role": "P",
+    "serieATeam": "Cagliari",
+    "active": true
+  },
+  {
+    "id": "turati-sassuolo-b48cd0650e6e",
+    "name": "Turati",
+    "role": "P",
+    "serieATeam": "Sassuolo",
+    "active": true
+  },
+  {
+    "id": "russo-a-sassuolo-8f2a953e4f29",
+    "name": "Russo A.",
+    "role": "P",
+    "serieATeam": "Sassuolo",
+    "active": false
+  },
+  {
+    "id": "contini-napoli-a7b7bef4507f",
+    "name": "Contini",
+    "role": "P",
+    "serieATeam": "Napoli",
+    "active": true
+  },
+  {
+    "id": "terracciano-milan-7e8fd9360cd3",
+    "name": "Terracciano",
+    "role": "P",
+    "serieATeam": "Milan",
+    "active": true
+  },
+  {
+    "id": "vigorito-como-40c193b1bef3",
+    "name": "Vigorito",
+    "role": "P",
+    "serieATeam": "Como",
+    "active": true
+  },
+  {
+    "id": "fruchtl-lecce-d769a1a25f5c",
+    "name": "Fruchtl",
+    "role": "P",
+    "serieATeam": "Lecce",
+    "active": true
+  },
+  {
+    "id": "rossi-f-atalanta-735b1eab586a",
+    "name": "Rossi F.",
+    "role": "P",
+    "serieATeam": "Atalanta",
+    "active": true
+  },
+  {
+    "id": "nicolas-pisa-cb48645aab70",
+    "name": "Nicolas",
+    "role": "P",
+    "serieATeam": "Pisa",
+    "active": true
+  },
+  {
+    "id": "silvestri-cremonese-1c7cba3a8dbe",
+    "name": "Silvestri",
+    "role": "P",
+    "serieATeam": "Cremonese",
+    "active": true
+  },
+  {
+    "id": "satalino-sassuolo-5f1ef92fcdf1",
+    "name": "Satalino",
+    "role": "P",
+    "serieATeam": "Sassuolo",
+    "active": true
+  },
+  {
+    "id": "pinsoglio-juventus-a2ae9fa06f13",
+    "name": "Pinsoglio",
+    "role": "P",
+    "serieATeam": "Juventus",
+    "active": true
+  },
+  {
+    "id": "di-gennaro-inter-e4c9fbea3148",
+    "name": "Di Gennaro",
+    "role": "P",
+    "serieATeam": "Inter",
+    "active": true
+  },
+  {
+    "id": "gollini-roma-ec8f2ee771fa",
+    "name": "Gollini",
+    "role": "P",
+    "serieATeam": "Roma",
+    "active": true
+  },
+  {
+    "id": "scuffet-pisa-f54e7b9ff20d",
+    "name": "Scuffet",
+    "role": "P",
+    "serieATeam": "Pisa",
+    "active": true
+  },
+  {
+    "id": "padelli-udinese-ae11a8fe7c75",
+    "name": "Padelli",
+    "role": "P",
+    "serieATeam": "Udinese",
+    "active": true
+  },
+  {
+    "id": "perilli-verona-d75bf9363c90",
+    "name": "Perilli",
+    "role": "P",
+    "serieATeam": "Verona",
+    "active": true
+  },
+  {
+    "id": "sommariva-genoa-d5bbf765ebdc",
+    "name": "Sommariva",
+    "role": "P",
+    "serieATeam": "Genoa",
+    "active": true
+  },
+  {
+    "id": "perin-juventus-62eb9f2c5026",
+    "name": "Perin",
+    "role": "P",
+    "serieATeam": "Juventus",
+    "active": true
+  },
+  {
+    "id": "donnarumma-an-torino-9a3498662731",
+    "name": "Donnarumma An.",
+    "role": "P",
+    "serieATeam": "Torino",
+    "active": false
+  },
+  {
+    "id": "lezzerini-fiorentina-f299356820ff",
+    "name": "Lezzerini",
+    "role": "P",
+    "serieATeam": "Fiorentina",
+    "active": true
+  },
+  {
+    "id": "sportiello-atalanta-f286a61b0ee5",
+    "name": "Sportiello",
+    "role": "P",
+    "serieATeam": "Atalanta",
+    "active": true
+  },
+  {
+    "id": "radunovic-cagliari-d40da8a5a9f7",
+    "name": "Radunovic",
+    "role": "P",
+    "serieATeam": "Cagliari",
+    "active": false
+  }
+]

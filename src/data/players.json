@@ -1,0 +1,2378 @@
+[
+  {
+    "id": "TORNADOS:Leali:Gen",
+    "ownerTeam": "TORNADOS",
+    "role": "P",
+    "name": "Leali",
+    "serieATeam": "Gen",
+    "cost": 6,
+    "active": true
+  },
+  {
+    "id": "TeamHaster:Meret:Nap",
+    "ownerTeam": "TeamHaster",
+    "role": "P",
+    "name": "Meret",
+    "serieATeam": "Nap",
+    "cost": 40,
+    "active": true
+  },
+  {
+    "id": "TORNADOS:Caprile:Cag",
+    "ownerTeam": "TORNADOS",
+    "role": "P",
+    "name": "Caprile",
+    "serieATeam": "Cag",
+    "cost": 10,
+    "active": true
+  },
+  {
+    "id": "TeamHaster:Milinkovic-Savic V.:Nap",
+    "ownerTeam": "TeamHaster",
+    "role": "P",
+    "name": "Milinkovic-Savic V.",
+    "serieATeam": "Nap",
+    "cost": 1,
+    "active": true
+  },
+  {
+    "id": "TORNADOS:Israel:Tor",
+    "ownerTeam": "TORNADOS",
+    "role": "P",
+    "name": "Israel",
+    "serieATeam": "Tor",
+    "cost": 20,
+    "active": true
+  },
+  {
+    "id": "TeamHaster:Suzuki:Par",
+    "ownerTeam": "TeamHaster",
+    "role": "P",
+    "name": "Suzuki",
+    "serieATeam": "Par",
+    "cost": 5,
+    "active": true
+  },
+  {
+    "id": "TORNADOS:Luperto:Cag",
+    "ownerTeam": "TORNADOS",
+    "role": "D",
+    "name": "Luperto",
+    "serieATeam": "Cag",
+    "cost": 7,
+    "active": true
+  },
+  {
+    "id": "TeamHaster:Biraghi:Tor",
+    "ownerTeam": "TeamHaster",
+    "role": "D",
+    "name": "Biraghi",
+    "serieATeam": "Tor",
+    "cost": 8,
+    "active": true
+  },
+  {
+    "id": "TORNADOS:Mancini:Rom",
+    "ownerTeam": "TORNADOS",
+    "role": "D",
+    "name": "Mancini",
+    "serieATeam": "Rom",
+    "cost": 16,
+    "active": true
+  },
+  {
+    "id": "TeamHaster:Acerbi:Int",
+    "ownerTeam": "TeamHaster",
+    "role": "D",
+    "name": "Acerbi",
+    "serieATeam": "Int",
+    "cost": 5,
+    "active": true
+  },
+  {
+    "id": "TORNADOS:Buongiorno:Nap",
+    "ownerTeam": "TORNADOS",
+    "role": "D",
+    "name": "Buongiorno",
+    "serieATeam": "Nap",
+    "cost": 21,
+    "active": true
+  },
+  {
+    "id": "TeamHaster:Djimsiti:Ata",
+    "ownerTeam": "TeamHaster",
+    "role": "D",
+    "name": "Djimsiti",
+    "serieATeam": "Ata",
+    "cost": 1,
+    "active": true
+  },
+  {
+    "id": "TORNADOS:Miranda J.:Bol",
+    "ownerTeam": "TORNADOS",
+    "role": "D",
+    "name": "Miranda J.",
+    "serieATeam": "Bol",
+    "cost": 12,
+    "active": true
+  },
+  {
+    "id": "TeamHaster:Gosens:Fio",
+    "ownerTeam": "TeamHaster",
+    "role": "D",
+    "name": "Gosens",
+    "serieATeam": "Fio",
+    "cost": 30,
+    "active": true
+  },
+  {
+    "id": "TORNADOS:Bellanova:Ata",
+    "ownerTeam": "TORNADOS",
+    "role": "D",
+    "name": "Bellanova",
+    "serieATeam": "Ata",
+    "cost": 20,
+    "active": true
+  },
+  {
+    "id": "TeamHaster:Di Lorenzo:Nap",
+    "ownerTeam": "TeamHaster",
+    "role": "D",
+    "name": "Di Lorenzo",
+    "serieATeam": "Nap",
+    "cost": 17,
+    "active": true
+  },
+  {
+    "id": "TORNADOS:Gutierrez:Nap",
+    "ownerTeam": "TORNADOS",
+    "role": "D",
+    "name": "Gutierrez",
+    "serieATeam": "Nap",
+    "cost": 3,
+    "active": true
+  },
+  {
+    "id": "TeamHaster:Gabbia:Mil",
+    "ownerTeam": "TeamHaster",
+    "role": "D",
+    "name": "Gabbia",
+    "serieATeam": "Mil",
+    "cost": 5,
+    "active": true
+  },
+  {
+    "id": "TORNADOS:Dodò:Fio",
+    "ownerTeam": "TORNADOS",
+    "role": "D",
+    "name": "Dodò",
+    "serieATeam": "Fio",
+    "cost": 26,
+    "active": true
+  },
+  {
+    "id": "TeamHaster:Valenti:Par",
+    "ownerTeam": "TeamHaster",
+    "role": "D",
+    "name": "Valenti",
+    "serieATeam": "Par",
+    "cost": 1,
+    "active": true
+  },
+  {
+    "id": "TORNADOS:Beukema:Nap",
+    "ownerTeam": "TORNADOS",
+    "role": "D",
+    "name": "Beukema",
+    "serieATeam": "Nap",
+    "cost": 4,
+    "active": true
+  },
+  {
+    "id": "TeamHaster:Solet:Udi",
+    "ownerTeam": "TeamHaster",
+    "role": "D",
+    "name": "Solet",
+    "serieATeam": "Udi",
+    "cost": 17,
+    "active": true
+  },
+  {
+    "id": "TORNADOS:Floriani Mussolini:Cre",
+    "ownerTeam": "TORNADOS",
+    "role": "D",
+    "name": "Floriani Mussolini",
+    "serieATeam": "Cre",
+    "cost": 1,
+    "active": true
+  },
+  {
+    "id": "TeamHaster:Vitik:Bol",
+    "ownerTeam": "TeamHaster",
+    "role": "D",
+    "name": "Vitik",
+    "serieATeam": "Bol",
+    "cost": 15,
+    "active": true
+  },
+  {
+    "id": "TORNADOS:Pellegrini Lo.:Rom",
+    "ownerTeam": "TORNADOS",
+    "role": "C",
+    "name": "Pellegrini Lo.",
+    "serieATeam": "Rom",
+    "cost": 1,
+    "active": true
+  },
+  {
+    "id": "TeamHaster:Cristante:Rom",
+    "ownerTeam": "TeamHaster",
+    "role": "C",
+    "name": "Cristante",
+    "serieATeam": "Rom",
+    "cost": 7,
+    "active": true
+  },
+  {
+    "id": "TORNADOS:Politano:Nap",
+    "ownerTeam": "TORNADOS",
+    "role": "C",
+    "name": "Politano",
+    "serieATeam": "Nap",
+    "cost": 33,
+    "active": true
+  },
+  {
+    "id": "TeamHaster:Zambo Anguissa:Nap",
+    "ownerTeam": "TeamHaster",
+    "role": "C",
+    "name": "Zambo Anguissa",
+    "serieATeam": "Nap",
+    "cost": 17,
+    "active": true
+  },
+  {
+    "id": "TORNADOS:Loftus-Cheek:Mil",
+    "ownerTeam": "TORNADOS",
+    "role": "C",
+    "name": "Loftus-Cheek",
+    "serieATeam": "Mil",
+    "cost": 20,
+    "active": true
+  },
+  {
+    "id": "TeamHaster:Saelemaekers:Mil",
+    "ownerTeam": "TeamHaster",
+    "role": "C",
+    "name": "Saelemaekers",
+    "serieATeam": "Mil",
+    "cost": 26,
+    "active": true
+  },
+  {
+    "id": "TORNADOS:Fofana Y.:Mil",
+    "ownerTeam": "TORNADOS",
+    "role": "C",
+    "name": "Fofana Y.",
+    "serieATeam": "Mil",
+    "cost": 11,
+    "active": true
+  },
+  {
+    "id": "TeamHaster:Tramoni M.:Pis",
+    "ownerTeam": "TeamHaster",
+    "role": "C",
+    "name": "Tramoni M.",
+    "serieATeam": "Pis",
+    "cost": 31,
+    "active": true
+  },
+  {
+    "id": "TORNADOS:Ricci S.:Mil",
+    "ownerTeam": "TORNADOS",
+    "role": "C",
+    "name": "Ricci S.",
+    "serieATeam": "Mil",
+    "cost": 10,
+    "active": true
+  },
+  {
+    "id": "TeamHaster:Thuram K.:Juv",
+    "ownerTeam": "TeamHaster",
+    "role": "C",
+    "name": "Thuram K.",
+    "serieATeam": "Juv",
+    "cost": 42,
+    "active": true
+  },
+  {
+    "id": "TORNADOS:Frendrup:Gen",
+    "ownerTeam": "TORNADOS",
+    "role": "C",
+    "name": "Frendrup",
+    "serieATeam": "Gen",
+    "cost": 2,
+    "active": true
+  },
+  {
+    "id": "TeamHaster:Tete Morente:Lec",
+    "ownerTeam": "TeamHaster",
+    "role": "C",
+    "name": "Tete Morente",
+    "serieATeam": "Lec",
+    "cost": 1,
+    "active": true
+  },
+  {
+    "id": "TORNADOS:El Aynaoui:Rom",
+    "ownerTeam": "TORNADOS",
+    "role": "C",
+    "name": "El Aynaoui",
+    "serieATeam": "Rom",
+    "cost": 6,
+    "active": true
+  },
+  {
+    "id": "TeamHaster:Gronbaek:Gen",
+    "ownerTeam": "TeamHaster",
+    "role": "C",
+    "name": "Gronbaek",
+    "serieATeam": "Gen",
+    "cost": 21,
+    "active": true
+  },
+  {
+    "id": "TORNADOS:Jashari:Mil",
+    "ownerTeam": "TORNADOS",
+    "role": "C",
+    "name": "Jashari",
+    "serieATeam": "Mil",
+    "cost": 10,
+    "active": true
+  },
+  {
+    "id": "TeamHaster:Sucic P.:Int",
+    "ownerTeam": "TeamHaster",
+    "role": "C",
+    "name": "Sucic P.",
+    "serieATeam": "Int",
+    "cost": 5,
+    "active": true
+  },
+  {
+    "id": "TORNADOS:Morata:Com",
+    "ownerTeam": "TORNADOS",
+    "role": "A",
+    "name": "Morata",
+    "serieATeam": "Com",
+    "cost": 48,
+    "active": true
+  },
+  {
+    "id": "TeamHaster:Baturina:Com",
+    "ownerTeam": "TeamHaster",
+    "role": "C",
+    "name": "Baturina",
+    "serieATeam": "Com",
+    "cost": 19,
+    "active": true
+  },
+  {
+    "id": "TORNADOS:Sanabria:Cre",
+    "ownerTeam": "TORNADOS",
+    "role": "A",
+    "name": "Sanabria",
+    "serieATeam": "Cre",
+    "cost": 4,
+    "active": true
+  },
+  {
+    "id": "TeamHaster:Stanciu:Gen",
+    "ownerTeam": "TeamHaster",
+    "role": "C",
+    "name": "Stanciu",
+    "serieATeam": "Gen",
+    "cost": 24,
+    "active": true
+  },
+  {
+    "id": "TORNADOS:Pedro:Laz",
+    "ownerTeam": "TORNADOS",
+    "role": "A",
+    "name": "Pedro",
+    "serieATeam": "Laz",
+    "cost": 1,
+    "active": true
+  },
+  {
+    "id": "TeamHaster:Martinez L.:Int",
+    "ownerTeam": "TeamHaster",
+    "role": "A",
+    "name": "Martinez L.",
+    "serieATeam": "Int",
+    "cost": 140,
+    "active": true
+  },
+  {
+    "id": "TORNADOS:Leao:Mil",
+    "ownerTeam": "TORNADOS",
+    "role": "A",
+    "name": "Leao",
+    "serieATeam": "Mil",
+    "cost": 150,
+    "active": true
+  },
+  {
+    "id": "TeamHaster:Bonny:Int",
+    "ownerTeam": "TeamHaster",
+    "role": "A",
+    "name": "Bonny",
+    "serieATeam": "Int",
+    "cost": 1,
+    "active": true
+  },
+  {
+    "id": "TORNADOS:Dovbyk:Rom",
+    "ownerTeam": "TORNADOS",
+    "role": "A",
+    "name": "Dovbyk",
+    "serieATeam": "Rom",
+    "cost": 50,
+    "active": true
+  },
+  {
+    "id": "TeamHaster:N'Dri:Lec",
+    "ownerTeam": "TeamHaster",
+    "role": "A",
+    "name": "N'Dri",
+    "serieATeam": "Lec",
+    "cost": 1,
+    "active": true
+  },
+  {
+    "id": "TORNADOS:Douvikas:Com",
+    "ownerTeam": "TORNADOS",
+    "role": "A",
+    "name": "Douvikas",
+    "serieATeam": "Com",
+    "cost": 5,
+    "active": true
+  },
+  {
+    "id": "TeamHaster:Esposito F.P.:Int",
+    "ownerTeam": "TeamHaster",
+    "role": "A",
+    "name": "Esposito F.P.",
+    "serieATeam": "Int",
+    "cost": 1,
+    "active": true
+  },
+  {
+    "id": "TeamHaster:Kilicsoy:Cag",
+    "ownerTeam": "TeamHaster",
+    "role": "A",
+    "name": "Kilicsoy",
+    "serieATeam": "Cag",
+    "cost": 4,
+    "active": true
+  },
+  {
+    "id": "Spich United:Di Gennaro:Int",
+    "ownerTeam": "Spich United",
+    "role": "P",
+    "name": "Di Gennaro",
+    "serieATeam": "Int",
+    "cost": 1,
+    "active": true
+  },
+  {
+    "id": "RedBlacks:Sportiello:Ata",
+    "ownerTeam": "RedBlacks",
+    "role": "P",
+    "name": "Sportiello",
+    "serieATeam": "Ata",
+    "cost": 1,
+    "active": true
+  },
+  {
+    "id": "Spich United:Sommer:Int",
+    "ownerTeam": "Spich United",
+    "role": "P",
+    "name": "Sommer",
+    "serieATeam": "Int",
+    "cost": 40,
+    "active": true
+  },
+  {
+    "id": "RedBlacks:Audero:Cre",
+    "ownerTeam": "RedBlacks",
+    "role": "P",
+    "name": "Audero",
+    "serieATeam": "Cre",
+    "cost": 1,
+    "active": true
+  },
+  {
+    "id": "Spich United:Martinez Jo.:Int",
+    "ownerTeam": "Spich United",
+    "role": "P",
+    "name": "Martinez Jo.",
+    "serieATeam": "Int",
+    "cost": 1,
+    "active": true
+  },
+  {
+    "id": "RedBlacks:Carnesecchi:Ata",
+    "ownerTeam": "RedBlacks",
+    "role": "P",
+    "name": "Carnesecchi",
+    "serieATeam": "Ata",
+    "cost": 37,
+    "active": true
+  },
+  {
+    "id": "Spich United:Romagnoli:Laz",
+    "ownerTeam": "Spich United",
+    "role": "D",
+    "name": "Romagnoli",
+    "serieATeam": "Laz",
+    "cost": 10,
+    "active": true
+  },
+  {
+    "id": "RedBlacks:Marusic:Laz",
+    "ownerTeam": "RedBlacks",
+    "role": "D",
+    "name": "Marusic",
+    "serieATeam": "Laz",
+    "cost": 3,
+    "active": true
+  },
+  {
+    "id": "Spich United:Ranieri L.:Fio",
+    "ownerTeam": "Spich United",
+    "role": "D",
+    "name": "Ranieri L.",
+    "serieATeam": "Fio",
+    "cost": 7,
+    "active": true
+  },
+  {
+    "id": "RedBlacks:Tomori:Mil",
+    "ownerTeam": "RedBlacks",
+    "role": "D",
+    "name": "Tomori",
+    "serieATeam": "Mil",
+    "cost": 8,
+    "active": true
+  },
+  {
+    "id": "Spich United:Rrahmani:Nap",
+    "ownerTeam": "Spich United",
+    "role": "D",
+    "name": "Rrahmani",
+    "serieATeam": "Nap",
+    "cost": 13,
+    "active": true
+  },
+  {
+    "id": "RedBlacks:De Winter:Mil",
+    "ownerTeam": "RedBlacks",
+    "role": "D",
+    "name": "De Winter",
+    "serieATeam": "Mil",
+    "cost": 7,
+    "active": true
+  },
+  {
+    "id": "Spich United:Hermoso:Rom",
+    "ownerTeam": "Spich United",
+    "role": "D",
+    "name": "Hermoso",
+    "serieATeam": "Rom",
+    "cost": 1,
+    "active": true
+  },
+  {
+    "id": "RedBlacks:Ostigard:Gen",
+    "ownerTeam": "RedBlacks",
+    "role": "D",
+    "name": "Ostigard",
+    "serieATeam": "Gen",
+    "cost": 9,
+    "active": true
+  },
+  {
+    "id": "Spich United:Estupinan:Mil",
+    "ownerTeam": "Spich United",
+    "role": "D",
+    "name": "Estupinan",
+    "serieATeam": "Mil",
+    "cost": 17,
+    "active": true
+  },
+  {
+    "id": "RedBlacks:Valeri:Par",
+    "ownerTeam": "RedBlacks",
+    "role": "D",
+    "name": "Valeri",
+    "serieATeam": "Par",
+    "cost": 13,
+    "active": true
+  },
+  {
+    "id": "Spich United:Bisseck:Int",
+    "ownerTeam": "Spich United",
+    "role": "D",
+    "name": "Bisseck",
+    "serieATeam": "Int",
+    "cost": 7,
+    "active": true
+  },
+  {
+    "id": "RedBlacks:Gaspar K.:Lec",
+    "ownerTeam": "RedBlacks",
+    "role": "D",
+    "name": "Gaspar K.",
+    "serieATeam": "Lec",
+    "cost": 7,
+    "active": true
+  },
+  {
+    "id": "Spich United:Goglichidze:Udi",
+    "ownerTeam": "Spich United",
+    "role": "D",
+    "name": "Goglichidze",
+    "serieATeam": "Udi",
+    "cost": 1,
+    "active": true
+  },
+  {
+    "id": "RedBlacks:Delprato:Par",
+    "ownerTeam": "RedBlacks",
+    "role": "D",
+    "name": "Delprato",
+    "serieATeam": "Par",
+    "cost": 13,
+    "active": true
+  },
+  {
+    "id": "Spich United:Norton-Cuffy:Gen",
+    "ownerTeam": "Spich United",
+    "role": "D",
+    "name": "Norton-Cuffy",
+    "serieATeam": "Gen",
+    "cost": 3,
+    "active": true
+  },
+  {
+    "id": "RedBlacks:Ramon:Com",
+    "ownerTeam": "RedBlacks",
+    "role": "D",
+    "name": "Ramon",
+    "serieATeam": "Com",
+    "cost": 3,
+    "active": true
+  },
+  {
+    "id": "Spich United:Joao Mario:Juv",
+    "ownerTeam": "Spich United",
+    "role": "D",
+    "name": "Joao Mario",
+    "serieATeam": "Juv",
+    "cost": 3,
+    "active": true
+  },
+  {
+    "id": "RedBlacks:Unai Nunez:Ver",
+    "ownerTeam": "RedBlacks",
+    "role": "D",
+    "name": "Unai Nunez",
+    "serieATeam": "Ver",
+    "cost": 1,
+    "active": true
+  },
+  {
+    "id": "Spich United:Mandragora:Fio",
+    "ownerTeam": "Spich United",
+    "role": "C",
+    "name": "Mandragora",
+    "serieATeam": "Fio",
+    "cost": 1,
+    "active": true
+  },
+  {
+    "id": "RedBlacks:Canestrelli:Pis",
+    "ownerTeam": "RedBlacks",
+    "role": "D",
+    "name": "Canestrelli",
+    "serieATeam": "Pis",
+    "cost": 5,
+    "active": true
+  },
+  {
+    "id": "Spich United:Calhanoglu:Int",
+    "ownerTeam": "Spich United",
+    "role": "C",
+    "name": "Calhanoglu",
+    "serieATeam": "Int",
+    "cost": 59,
+    "active": true
+  },
+  {
+    "id": "RedBlacks:Vecino:Laz",
+    "ownerTeam": "RedBlacks",
+    "role": "C",
+    "name": "Vecino",
+    "serieATeam": "Laz",
+    "cost": 1,
+    "active": true
+  },
+  {
+    "id": "Spich United:Mkhitaryan:Int",
+    "ownerTeam": "Spich United",
+    "role": "C",
+    "name": "Mkhitaryan",
+    "serieATeam": "Int",
+    "cost": 5,
+    "active": true
+  },
+  {
+    "id": "RedBlacks:Zaccagni:Laz",
+    "ownerTeam": "RedBlacks",
+    "role": "C",
+    "name": "Zaccagni",
+    "serieATeam": "Laz",
+    "cost": 80,
+    "active": true
+  },
+  {
+    "id": "Spich United:Modric:Mil",
+    "ownerTeam": "Spich United",
+    "role": "C",
+    "name": "Modric",
+    "serieATeam": "Mil",
+    "cost": 20,
+    "active": true
+  },
+  {
+    "id": "RedBlacks:Samardzic:Ata",
+    "ownerTeam": "RedBlacks",
+    "role": "C",
+    "name": "Samardzic",
+    "serieATeam": "Ata",
+    "cost": 18,
+    "active": true
+  },
+  {
+    "id": "Spich United:Lobotka:Nap",
+    "ownerTeam": "Spich United",
+    "role": "C",
+    "name": "Lobotka",
+    "serieATeam": "Nap",
+    "cost": 3,
+    "active": true
+  },
+  {
+    "id": "RedBlacks:Niasse:Ver",
+    "ownerTeam": "RedBlacks",
+    "role": "C",
+    "name": "Niasse",
+    "serieATeam": "Ver",
+    "cost": 1,
+    "active": true
+  },
+  {
+    "id": "Spich United:Caqueret:Com",
+    "ownerTeam": "Spich United",
+    "role": "C",
+    "name": "Caqueret",
+    "serieATeam": "Com",
+    "cost": 1,
+    "active": true
+  },
+  {
+    "id": "RedBlacks:Boloca:Sas",
+    "ownerTeam": "RedBlacks",
+    "role": "C",
+    "name": "Boloca",
+    "serieATeam": "Sas",
+    "cost": 1,
+    "active": true
+  },
+  {
+    "id": "Spich United:Gineitis:Tor",
+    "ownerTeam": "Spich United",
+    "role": "C",
+    "name": "Gineitis",
+    "serieATeam": "Tor",
+    "cost": 1,
+    "active": true
+  },
+  {
+    "id": "RedBlacks:Karlstrom:Udi",
+    "ownerTeam": "RedBlacks",
+    "role": "C",
+    "name": "Karlstrom",
+    "serieATeam": "Udi",
+    "cost": 1,
+    "active": true
+  },
+  {
+    "id": "Spich United:Keita M.:Par",
+    "ownerTeam": "Spich United",
+    "role": "C",
+    "name": "Keita M.",
+    "serieATeam": "Par",
+    "cost": 1,
+    "active": true
+  },
+  {
+    "id": "RedBlacks:Paz N.:Com",
+    "ownerTeam": "RedBlacks",
+    "role": "C",
+    "name": "Paz N.",
+    "serieATeam": "Com",
+    "cost": 71,
+    "active": true
+  },
+  {
+    "id": "Spich United:Berardi:Sas",
+    "ownerTeam": "Spich United",
+    "role": "A",
+    "name": "Berardi",
+    "serieATeam": "Sas",
+    "cost": 71,
+    "active": true
+  },
+  {
+    "id": "RedBlacks:Collocolo:Cre",
+    "ownerTeam": "RedBlacks",
+    "role": "C",
+    "name": "Collocolo",
+    "serieATeam": "Cre",
+    "cost": 1,
+    "active": true
+  },
+  {
+    "id": "Spich United:Scamacca:Ata",
+    "ownerTeam": "Spich United",
+    "role": "A",
+    "name": "Scamacca",
+    "serieATeam": "Ata",
+    "cost": 30,
+    "active": true
+  },
+  {
+    "id": "RedBlacks:Cambiaghi:Bol",
+    "ownerTeam": "RedBlacks",
+    "role": "A",
+    "name": "Cambiaghi",
+    "serieATeam": "Bol",
+    "cost": 14,
+    "active": true
+  },
+  {
+    "id": "Spich United:Piccoli:Fio",
+    "ownerTeam": "Spich United",
+    "role": "A",
+    "name": "Piccoli",
+    "serieATeam": "Fio",
+    "cost": 14,
+    "active": true
+  },
+  {
+    "id": "RedBlacks:Lookman:Ata",
+    "ownerTeam": "RedBlacks",
+    "role": "A",
+    "name": "Lookman",
+    "serieATeam": "Ata",
+    "cost": 25,
+    "active": true
+  },
+  {
+    "id": "Spich United:Thuram:Int",
+    "ownerTeam": "Spich United",
+    "role": "A",
+    "name": "Thuram",
+    "serieATeam": "Int",
+    "cost": 140,
+    "active": true
+  },
+  {
+    "id": "RedBlacks:Soulè:Rom",
+    "ownerTeam": "RedBlacks",
+    "role": "A",
+    "name": "Soulè",
+    "serieATeam": "Rom",
+    "cost": 68,
+    "active": true
+  },
+  {
+    "id": "Spich United:De Ketelaere:Ata",
+    "ownerTeam": "Spich United",
+    "role": "A",
+    "name": "De Ketelaere",
+    "serieATeam": "Ata",
+    "cost": 33,
+    "active": true
+  },
+  {
+    "id": "RedBlacks:Ferguson E.:Rom",
+    "ownerTeam": "RedBlacks",
+    "role": "A",
+    "name": "Ferguson E.",
+    "serieATeam": "Rom",
+    "cost": 36,
+    "active": true
+  },
+  {
+    "id": "Spich United:Kuhn:Com",
+    "ownerTeam": "Spich United",
+    "role": "A",
+    "name": "Kuhn",
+    "serieATeam": "Com",
+    "cost": 4,
+    "active": true
+  },
+  {
+    "id": "RedBlacks:Camarda:Lec",
+    "ownerTeam": "RedBlacks",
+    "role": "A",
+    "name": "Camarda",
+    "serieATeam": "Lec",
+    "cost": 31,
+    "active": true
+  },
+  {
+    "id": "RedBlacks:Pellegrino M.:Par",
+    "ownerTeam": "RedBlacks",
+    "role": "A",
+    "name": "Pellegrino M.",
+    "serieATeam": "Par",
+    "cost": 32,
+    "active": true
+  },
+  {
+    "id": "JOKER:Perin:Juv",
+    "ownerTeam": "JOKER",
+    "role": "P",
+    "name": "Perin",
+    "serieATeam": "Juv",
+    "cost": 1,
+    "active": true
+  },
+  {
+    "id": "Fc Paddox:Provedel:Laz",
+    "ownerTeam": "Fc Paddox",
+    "role": "P",
+    "name": "Provedel",
+    "serieATeam": "Laz",
+    "cost": 30,
+    "active": true
+  },
+  {
+    "id": "JOKER:Pinsoglio:Juv",
+    "ownerTeam": "JOKER",
+    "role": "P",
+    "name": "Pinsoglio",
+    "serieATeam": "Juv",
+    "cost": 1,
+    "active": true
+  },
+  {
+    "id": "Fc Paddox:Furlanetto:Laz",
+    "ownerTeam": "Fc Paddox",
+    "role": "P",
+    "name": "Furlanetto",
+    "serieATeam": "Laz",
+    "cost": 1,
+    "active": true
+  },
+  {
+    "id": "JOKER:Di Gregorio:Juv",
+    "ownerTeam": "JOKER",
+    "role": "P",
+    "name": "Di Gregorio",
+    "serieATeam": "Juv",
+    "cost": 44,
+    "active": true
+  },
+  {
+    "id": "Fc Paddox:Mandas:Laz",
+    "ownerTeam": "Fc Paddox",
+    "role": "P",
+    "name": "Mandas",
+    "serieATeam": "Laz",
+    "cost": 1,
+    "active": true
+  },
+  {
+    "id": "JOKER:Pezzella Giu.:Cre",
+    "ownerTeam": "JOKER",
+    "role": "D",
+    "name": "Pezzella Giu.",
+    "serieATeam": "Cre",
+    "cost": 4,
+    "active": true
+  },
+  {
+    "id": "Fc Paddox:Dimarco:Int",
+    "ownerTeam": "Fc Paddox",
+    "role": "D",
+    "name": "Dimarco",
+    "serieATeam": "Int",
+    "cost": 33,
+    "active": true
+  },
+  {
+    "id": "JOKER:Caracciolo A.:Pis",
+    "ownerTeam": "JOKER",
+    "role": "D",
+    "name": "Caracciolo A.",
+    "serieATeam": "Pis",
+    "cost": 1,
+    "active": true
+  },
+  {
+    "id": "Fc Paddox:Martin:Gen",
+    "ownerTeam": "Fc Paddox",
+    "role": "D",
+    "name": "Martin",
+    "serieATeam": "Gen",
+    "cost": 16,
+    "active": true
+  },
+  {
+    "id": "JOKER:Gallo:Lec",
+    "ownerTeam": "JOKER",
+    "role": "D",
+    "name": "Gallo",
+    "serieATeam": "Lec",
+    "cost": 3,
+    "active": true
+  },
+  {
+    "id": "Fc Paddox:Kamara H.:Udi",
+    "ownerTeam": "Fc Paddox",
+    "role": "D",
+    "name": "Kamara H.",
+    "serieATeam": "Udi",
+    "cost": 6,
+    "active": true
+  },
+  {
+    "id": "JOKER:Maripan:Tor",
+    "ownerTeam": "JOKER",
+    "role": "D",
+    "name": "Maripan",
+    "serieATeam": "Tor",
+    "cost": 2,
+    "active": true
+  },
+  {
+    "id": "Fc Paddox:Obert:Cag",
+    "ownerTeam": "Fc Paddox",
+    "role": "D",
+    "name": "Obert",
+    "serieATeam": "Cag",
+    "cost": 1,
+    "active": true
+  },
+  {
+    "id": "JOKER:Pongracic:Fio",
+    "ownerTeam": "JOKER",
+    "role": "D",
+    "name": "Pongracic",
+    "serieATeam": "Fio",
+    "cost": 2,
+    "active": true
+  },
+  {
+    "id": "Fc Paddox:Terracciano F.:Cre",
+    "ownerTeam": "Fc Paddox",
+    "role": "D",
+    "name": "Terracciano F.",
+    "serieATeam": "Cre",
+    "cost": 1,
+    "active": true
+  },
+  {
+    "id": "JOKER:Gila:Laz",
+    "ownerTeam": "JOKER",
+    "role": "D",
+    "name": "Gila",
+    "serieATeam": "Laz",
+    "cost": 7,
+    "active": true
+  },
+  {
+    "id": "Fc Paddox:Barbieri:Cre",
+    "ownerTeam": "Fc Paddox",
+    "role": "D",
+    "name": "Barbieri",
+    "serieATeam": "Cre",
+    "cost": 1,
+    "active": true
+  },
+  {
+    "id": "JOKER:Doig:Sas",
+    "ownerTeam": "JOKER",
+    "role": "D",
+    "name": "Doig",
+    "serieATeam": "Sas",
+    "cost": 3,
+    "active": true
+  },
+  {
+    "id": "Fc Paddox:Ghilardi:Rom",
+    "ownerTeam": "Fc Paddox",
+    "role": "D",
+    "name": "Ghilardi",
+    "serieATeam": "Rom",
+    "cost": 3,
+    "active": true
+  },
+  {
+    "id": "JOKER:Ehizibue:Udi",
+    "ownerTeam": "JOKER",
+    "role": "D",
+    "name": "Ehizibue",
+    "serieATeam": "Udi",
+    "cost": 2,
+    "active": true
+  },
+  {
+    "id": "Fc Paddox:Idzes:Sas",
+    "ownerTeam": "Fc Paddox",
+    "role": "D",
+    "name": "Idzes",
+    "serieATeam": "Sas",
+    "cost": 9,
+    "active": true
+  },
+  {
+    "id": "JOKER:Comuzzo:Fio",
+    "ownerTeam": "JOKER",
+    "role": "D",
+    "name": "Comuzzo",
+    "serieATeam": "Fio",
+    "cost": 8,
+    "active": true
+  },
+  {
+    "id": "Fc Paddox:Candè:Sas",
+    "ownerTeam": "Fc Paddox",
+    "role": "D",
+    "name": "Candè",
+    "serieATeam": "Sas",
+    "cost": 1,
+    "active": true
+  },
+  {
+    "id": "JOKER:Kempf:Com",
+    "ownerTeam": "JOKER",
+    "role": "D",
+    "name": "Kempf",
+    "serieATeam": "Com",
+    "cost": 1,
+    "active": true
+  },
+  {
+    "id": "Fc Paddox:Wesley:Rom",
+    "ownerTeam": "Fc Paddox",
+    "role": "D",
+    "name": "Wesley",
+    "serieATeam": "Rom",
+    "cost": 17,
+    "active": true
+  },
+  {
+    "id": "JOKER:Bernardeschi:Bol",
+    "ownerTeam": "JOKER",
+    "role": "C",
+    "name": "Bernardeschi",
+    "serieATeam": "Bol",
+    "cost": 1,
+    "active": true
+  },
+  {
+    "id": "Fc Paddox:Zielinski:Int",
+    "ownerTeam": "Fc Paddox",
+    "role": "C",
+    "name": "Zielinski",
+    "serieATeam": "Int",
+    "cost": 0,
+    "active": true
+  },
+  {
+    "id": "JOKER:Orsolini:Bol",
+    "ownerTeam": "JOKER",
+    "role": "C",
+    "name": "Orsolini",
+    "serieATeam": "Bol",
+    "cost": 95,
+    "active": true
+  },
+  {
+    "id": "Fc Paddox:El Shaarawy:Rom",
+    "ownerTeam": "Fc Paddox",
+    "role": "C",
+    "name": "El Shaarawy",
+    "serieATeam": "Rom",
+    "cost": 1,
+    "active": true
+  },
+  {
+    "id": "JOKER:Pulisic:Mil",
+    "ownerTeam": "JOKER",
+    "role": "C",
+    "name": "Pulisic",
+    "serieATeam": "Mil",
+    "cost": 75,
+    "active": true
+  },
+  {
+    "id": "Fc Paddox:Pasalic:Ata",
+    "ownerTeam": "Fc Paddox",
+    "role": "C",
+    "name": "Pasalic",
+    "serieATeam": "Ata",
+    "cost": 4,
+    "active": true
+  },
+  {
+    "id": "JOKER:Rovella:Laz",
+    "ownerTeam": "JOKER",
+    "role": "C",
+    "name": "Rovella",
+    "serieATeam": "Laz",
+    "cost": 3,
+    "active": true
+  },
+  {
+    "id": "Fc Paddox:Bailey:Rom",
+    "ownerTeam": "Fc Paddox",
+    "role": "C",
+    "name": "Bailey",
+    "serieATeam": "Rom",
+    "cost": 3,
+    "active": true
+  },
+  {
+    "id": "JOKER:Ilic:Tor",
+    "ownerTeam": "JOKER",
+    "role": "C",
+    "name": "Ilic",
+    "serieATeam": "Tor",
+    "cost": 1,
+    "active": true
+  },
+  {
+    "id": "Fc Paddox:Malinovskyi:Gen",
+    "ownerTeam": "Fc Paddox",
+    "role": "C",
+    "name": "Malinovskyi",
+    "serieATeam": "Gen",
+    "cost": 10,
+    "active": true
+  },
+  {
+    "id": "JOKER:Ferguson:Bol",
+    "ownerTeam": "JOKER",
+    "role": "C",
+    "name": "Ferguson",
+    "serieATeam": "Bol",
+    "cost": 14,
+    "active": true
+  },
+  {
+    "id": "Fc Paddox:Sohm:Fio",
+    "ownerTeam": "Fc Paddox",
+    "role": "C",
+    "name": "Sohm",
+    "serieATeam": "Fio",
+    "cost": 12,
+    "active": true
+  },
+  {
+    "id": "JOKER:Zerbin:Cre",
+    "ownerTeam": "JOKER",
+    "role": "C",
+    "name": "Zerbin",
+    "serieATeam": "Cre",
+    "cost": 2,
+    "active": true
+  },
+  {
+    "id": "Fc Paddox:Koopmeiners:Juv",
+    "ownerTeam": "Fc Paddox",
+    "role": "C",
+    "name": "Koopmeiners",
+    "serieATeam": "Juv",
+    "cost": 36,
+    "active": true
+  },
+  {
+    "id": "JOKER:Pierotti:Lec",
+    "ownerTeam": "JOKER",
+    "role": "C",
+    "name": "Pierotti",
+    "serieATeam": "Lec",
+    "cost": 8,
+    "active": true
+  },
+  {
+    "id": "Fc Paddox:Vlasic:Tor",
+    "ownerTeam": "Fc Paddox",
+    "role": "C",
+    "name": "Vlasic",
+    "serieATeam": "Tor",
+    "cost": 22,
+    "active": true
+  },
+  {
+    "id": "JOKER:Esposito Se.:Cag",
+    "ownerTeam": "JOKER",
+    "role": "A",
+    "name": "Esposito Se.",
+    "serieATeam": "Cag",
+    "cost": 46,
+    "active": true
+  },
+  {
+    "id": "Fc Paddox:Dele-Bashiru:Laz",
+    "ownerTeam": "Fc Paddox",
+    "role": "C",
+    "name": "Dele-Bashiru",
+    "serieATeam": "Laz",
+    "cost": 10,
+    "active": true
+  },
+  {
+    "id": "JOKER:Sarr A.:Ver",
+    "ownerTeam": "JOKER",
+    "role": "A",
+    "name": "Sarr A.",
+    "serieATeam": "Ver",
+    "cost": 1,
+    "active": true
+  },
+  {
+    "id": "Fc Paddox:Simeone:Tor",
+    "ownerTeam": "Fc Paddox",
+    "role": "A",
+    "name": "Simeone",
+    "serieATeam": "Tor",
+    "cost": 13,
+    "active": true
+  },
+  {
+    "id": "JOKER:Yildiz:Juv",
+    "ownerTeam": "JOKER",
+    "role": "A",
+    "name": "Yildiz",
+    "serieATeam": "Juv",
+    "cost": 131,
+    "active": true
+  },
+  {
+    "id": "Fc Paddox:Kean:Fio",
+    "ownerTeam": "Fc Paddox",
+    "role": "A",
+    "name": "Kean",
+    "serieATeam": "Fio",
+    "cost": 150,
+    "active": true
+  },
+  {
+    "id": "JOKER:Mosquera:Ver",
+    "ownerTeam": "JOKER",
+    "role": "A",
+    "name": "Mosquera",
+    "serieATeam": "Ver",
+    "cost": 14,
+    "active": true
+  },
+  {
+    "id": "Fc Paddox:Luvumbo:Cag",
+    "ownerTeam": "Fc Paddox",
+    "role": "A",
+    "name": "Luvumbo",
+    "serieATeam": "Cag",
+    "cost": 3,
+    "active": true
+  },
+  {
+    "id": "JOKER:Dominguez B.:Bol",
+    "ownerTeam": "JOKER",
+    "role": "A",
+    "name": "Dominguez B.",
+    "serieATeam": "Bol",
+    "cost": 1,
+    "active": true
+  },
+  {
+    "id": "Fc Paddox:Davis K.:Udi",
+    "ownerTeam": "Fc Paddox",
+    "role": "A",
+    "name": "Davis K.",
+    "serieATeam": "Udi",
+    "cost": 20,
+    "active": true
+  },
+  {
+    "id": "Fc Paddox:Sulemana K.:Ata",
+    "ownerTeam": "Fc Paddox",
+    "role": "A",
+    "name": "Sulemana K.",
+    "serieATeam": "Ata",
+    "cost": 5,
+    "active": true
+  },
+  {
+    "id": "Ichnusa FC:De Gea:Fio",
+    "ownerTeam": "Ichnusa FC",
+    "role": "P",
+    "name": "De Gea",
+    "serieATeam": "Fio",
+    "cost": 38,
+    "active": true
+  },
+  {
+    "id": "AC BUFFAI TOTTU:Terracciano:Mil",
+    "ownerTeam": "AC BUFFAI TOTTU",
+    "role": "P",
+    "name": "Terracciano",
+    "serieATeam": "Mil",
+    "cost": 1,
+    "active": true
+  },
+  {
+    "id": "Ichnusa FC:Turati:Sas",
+    "ownerTeam": "Ichnusa FC",
+    "role": "P",
+    "name": "Turati",
+    "serieATeam": "Sas",
+    "cost": 1,
+    "active": true
+  },
+  {
+    "id": "AC BUFFAI TOTTU:Maignan:Mil",
+    "ownerTeam": "AC BUFFAI TOTTU",
+    "role": "P",
+    "name": "Maignan",
+    "serieATeam": "Mil",
+    "cost": 45,
+    "active": true
+  },
+  {
+    "id": "Ichnusa FC:Cavlina:Com",
+    "ownerTeam": "Ichnusa FC",
+    "role": "P",
+    "name": "Cavlina",
+    "serieATeam": "Com",
+    "cost": 1,
+    "active": true
+  },
+  {
+    "id": "AC BUFFAI TOTTU:Sava:Udi",
+    "ownerTeam": "AC BUFFAI TOTTU",
+    "role": "P",
+    "name": "Sava",
+    "serieATeam": "Udi",
+    "cost": 1,
+    "active": true
+  },
+  {
+    "id": "Ichnusa FC:Zappacosta:Ata",
+    "ownerTeam": "Ichnusa FC",
+    "role": "D",
+    "name": "Zappacosta",
+    "serieATeam": "Ata",
+    "cost": 10,
+    "active": true
+  },
+  {
+    "id": "AC BUFFAI TOTTU:Cuadrado:Pis",
+    "ownerTeam": "AC BUFFAI TOTTU",
+    "role": "D",
+    "name": "Cuadrado",
+    "serieATeam": "Pis",
+    "cost": 5,
+    "active": true
+  },
+  {
+    "id": "Ichnusa FC:Bremer:Juv",
+    "ownerTeam": "Ichnusa FC",
+    "role": "D",
+    "name": "Bremer",
+    "serieATeam": "Juv",
+    "cost": 24,
+    "active": true
+  },
+  {
+    "id": "AC BUFFAI TOTTU:Mina:Cag",
+    "ownerTeam": "AC BUFFAI TOTTU",
+    "role": "D",
+    "name": "Mina",
+    "serieATeam": "Cag",
+    "cost": 9,
+    "active": true
+  },
+  {
+    "id": "Ichnusa FC:Angelino:Rom",
+    "ownerTeam": "Ichnusa FC",
+    "role": "D",
+    "name": "Angelino",
+    "serieATeam": "Rom",
+    "cost": 29,
+    "active": true
+  },
+  {
+    "id": "AC BUFFAI TOTTU:Zortea:Bol",
+    "ownerTeam": "AC BUFFAI TOTTU",
+    "role": "D",
+    "name": "Zortea",
+    "serieATeam": "Bol",
+    "cost": 13,
+    "active": true
+  },
+  {
+    "id": "Ichnusa FC:Pavlovic:Mil",
+    "ownerTeam": "Ichnusa FC",
+    "role": "D",
+    "name": "Pavlovic",
+    "serieATeam": "Mil",
+    "cost": 11,
+    "active": true
+  },
+  {
+    "id": "AC BUFFAI TOTTU:Kalulu:Juv",
+    "ownerTeam": "AC BUFFAI TOTTU",
+    "role": "D",
+    "name": "Kalulu",
+    "serieATeam": "Juv",
+    "cost": 3,
+    "active": true
+  },
+  {
+    "id": "Ichnusa FC:Scalvini:Ata",
+    "ownerTeam": "Ichnusa FC",
+    "role": "D",
+    "name": "Scalvini",
+    "serieATeam": "Ata",
+    "cost": 7,
+    "active": true
+  },
+  {
+    "id": "AC BUFFAI TOTTU:Vojvoda:Com",
+    "ownerTeam": "AC BUFFAI TOTTU",
+    "role": "D",
+    "name": "Vojvoda",
+    "serieATeam": "Com",
+    "cost": 5,
+    "active": true
+  },
+  {
+    "id": "Ichnusa FC:Carlos Augusto:Int",
+    "ownerTeam": "Ichnusa FC",
+    "role": "D",
+    "name": "Carlos Augusto",
+    "serieATeam": "Int",
+    "cost": 2,
+    "active": true
+  },
+  {
+    "id": "AC BUFFAI TOTTU:Vasquez:Gen",
+    "ownerTeam": "AC BUFFAI TOTTU",
+    "role": "D",
+    "name": "Vasquez",
+    "serieATeam": "Gen",
+    "cost": 7,
+    "active": true
+  },
+  {
+    "id": "Ichnusa FC:Frese:Ver",
+    "ownerTeam": "Ichnusa FC",
+    "role": "D",
+    "name": "Frese",
+    "serieATeam": "Ver",
+    "cost": 1,
+    "active": true
+  },
+  {
+    "id": "AC BUFFAI TOTTU:Kossounou:Ata",
+    "ownerTeam": "AC BUFFAI TOTTU",
+    "role": "D",
+    "name": "Kossounou",
+    "serieATeam": "Ata",
+    "cost": 5,
+    "active": true
+  },
+  {
+    "id": "Ichnusa FC:Van Der Brempt:Com",
+    "ownerTeam": "Ichnusa FC",
+    "role": "D",
+    "name": "Van Der Brempt",
+    "serieATeam": "Com",
+    "cost": 1,
+    "active": true
+  },
+  {
+    "id": "AC BUFFAI TOTTU:Tavares N.:Laz",
+    "ownerTeam": "AC BUFFAI TOTTU",
+    "role": "D",
+    "name": "Tavares N.",
+    "serieATeam": "Laz",
+    "cost": 18,
+    "active": true
+  },
+  {
+    "id": "Ichnusa FC:Ahanor:Ata",
+    "ownerTeam": "Ichnusa FC",
+    "role": "D",
+    "name": "Ahanor",
+    "serieATeam": "Ata",
+    "cost": 3,
+    "active": true
+  },
+  {
+    "id": "AC BUFFAI TOTTU:Hien:Ata",
+    "ownerTeam": "AC BUFFAI TOTTU",
+    "role": "D",
+    "name": "Hien",
+    "serieATeam": "Ata",
+    "cost": 16,
+    "active": true
+  },
+  {
+    "id": "Ichnusa FC:Muharemovic:Sas",
+    "ownerTeam": "Ichnusa FC",
+    "role": "D",
+    "name": "Muharemovic",
+    "serieATeam": "Sas",
+    "cost": 1,
+    "active": true
+  },
+  {
+    "id": "AC BUFFAI TOTTU:De Roon:Ata",
+    "ownerTeam": "AC BUFFAI TOTTU",
+    "role": "C",
+    "name": "De Roon",
+    "serieATeam": "Ata",
+    "cost": 7,
+    "active": true
+  },
+  {
+    "id": "Ichnusa FC:Odgaard:Bol",
+    "ownerTeam": "Ichnusa FC",
+    "role": "C",
+    "name": "Odgaard",
+    "serieATeam": "Bol",
+    "cost": 31,
+    "active": true
+  },
+  {
+    "id": "AC BUFFAI TOTTU:Locatelli:Juv",
+    "ownerTeam": "AC BUFFAI TOTTU",
+    "role": "C",
+    "name": "Locatelli",
+    "serieATeam": "Juv",
+    "cost": 6,
+    "active": true
+  },
+  {
+    "id": "Ichnusa FC:Fagioli:Fio",
+    "ownerTeam": "Ichnusa FC",
+    "role": "C",
+    "name": "Fagioli",
+    "serieATeam": "Fio",
+    "cost": 11,
+    "active": true
+  },
+  {
+    "id": "AC BUFFAI TOTTU:McTominay:Nap",
+    "ownerTeam": "AC BUFFAI TOTTU",
+    "role": "C",
+    "name": "McTominay",
+    "serieATeam": "Nap",
+    "cost": 70,
+    "active": true
+  },
+  {
+    "id": "Ichnusa FC:Maldini:Ata",
+    "ownerTeam": "Ichnusa FC",
+    "role": "C",
+    "name": "Maldini",
+    "serieATeam": "Ata",
+    "cost": 4,
+    "active": true
+  },
+  {
+    "id": "AC BUFFAI TOTTU:Lovric:Udi",
+    "ownerTeam": "AC BUFFAI TOTTU",
+    "role": "C",
+    "name": "Lovric",
+    "serieATeam": "Udi",
+    "cost": 5,
+    "active": true
+  },
+  {
+    "id": "Ichnusa FC:Konè M.:Rom",
+    "ownerTeam": "Ichnusa FC",
+    "role": "C",
+    "name": "Konè M.",
+    "serieATeam": "Rom",
+    "cost": 33,
+    "active": true
+  },
+  {
+    "id": "AC BUFFAI TOTTU:Isaksen:Laz",
+    "ownerTeam": "AC BUFFAI TOTTU",
+    "role": "C",
+    "name": "Isaksen",
+    "serieATeam": "Laz",
+    "cost": 31,
+    "active": true
+  },
+  {
+    "id": "Ichnusa FC:Ederson D.S.:Ata",
+    "ownerTeam": "Ichnusa FC",
+    "role": "C",
+    "name": "Ederson D.S.",
+    "serieATeam": "Ata",
+    "cost": 26,
+    "active": true
+  },
+  {
+    "id": "AC BUFFAI TOTTU:Anjorin:Tor",
+    "ownerTeam": "AC BUFFAI TOTTU",
+    "role": "C",
+    "name": "Anjorin",
+    "serieATeam": "Tor",
+    "cost": 5,
+    "active": true
+  },
+  {
+    "id": "Ichnusa FC:Thorstvedt:Sas",
+    "ownerTeam": "Ichnusa FC",
+    "role": "C",
+    "name": "Thorstvedt",
+    "serieATeam": "Sas",
+    "cost": 16,
+    "active": true
+  },
+  {
+    "id": "AC BUFFAI TOTTU:Vandeputte:Cre",
+    "ownerTeam": "AC BUFFAI TOTTU",
+    "role": "C",
+    "name": "Vandeputte",
+    "serieATeam": "Cre",
+    "cost": 20,
+    "active": true
+  },
+  {
+    "id": "Ichnusa FC:Neres:Nap",
+    "ownerTeam": "Ichnusa FC",
+    "role": "C",
+    "name": "Neres",
+    "serieATeam": "Nap",
+    "cost": 17,
+    "active": true
+  },
+  {
+    "id": "AC BUFFAI TOTTU:Immobile:Bol",
+    "ownerTeam": "AC BUFFAI TOTTU",
+    "role": "A",
+    "name": "Immobile",
+    "serieATeam": "Bol",
+    "cost": 64,
+    "active": true
+  },
+  {
+    "id": "Ichnusa FC:Atta:Udi",
+    "ownerTeam": "Ichnusa FC",
+    "role": "C",
+    "name": "Atta",
+    "serieATeam": "Udi",
+    "cost": 10,
+    "active": true
+  },
+  {
+    "id": "AC BUFFAI TOTTU:Colombo:Gen",
+    "ownerTeam": "AC BUFFAI TOTTU",
+    "role": "A",
+    "name": "Colombo",
+    "serieATeam": "Gen",
+    "cost": 34,
+    "active": true
+  },
+  {
+    "id": "Ichnusa FC:Pinamonti:Sas",
+    "ownerTeam": "Ichnusa FC",
+    "role": "A",
+    "name": "Pinamonti",
+    "serieATeam": "Sas",
+    "cost": 33,
+    "active": true
+  },
+  {
+    "id": "AC BUFFAI TOTTU:Laurientè:Sas",
+    "ownerTeam": "AC BUFFAI TOTTU",
+    "role": "A",
+    "name": "Laurientè",
+    "serieATeam": "Sas",
+    "cost": 45,
+    "active": true
+  },
+  {
+    "id": "Ichnusa FC:Vlahovic:Juv",
+    "ownerTeam": "Ichnusa FC",
+    "role": "A",
+    "name": "Vlahovic",
+    "serieATeam": "Juv",
+    "cost": 10,
+    "active": true
+  },
+  {
+    "id": "AC BUFFAI TOTTU:Krstovic:Ata",
+    "ownerTeam": "AC BUFFAI TOTTU",
+    "role": "A",
+    "name": "Krstovic",
+    "serieATeam": "Ata",
+    "cost": 30,
+    "active": true
+  },
+  {
+    "id": "Ichnusa FC:Nzola:Pis",
+    "ownerTeam": "Ichnusa FC",
+    "role": "A",
+    "name": "Nzola",
+    "serieATeam": "Pis",
+    "cost": 25,
+    "active": true
+  },
+  {
+    "id": "AC BUFFAI TOTTU:Adams C.:Tor",
+    "ownerTeam": "AC BUFFAI TOTTU",
+    "role": "A",
+    "name": "Adams C.",
+    "serieATeam": "Tor",
+    "cost": 20,
+    "active": true
+  },
+  {
+    "id": "Ichnusa FC:Dia:Laz",
+    "ownerTeam": "Ichnusa FC",
+    "role": "A",
+    "name": "Dia",
+    "serieATeam": "Laz",
+    "cost": 22,
+    "active": true
+  },
+  {
+    "id": "AC BUFFAI TOTTU:Addai:Com",
+    "ownerTeam": "AC BUFFAI TOTTU",
+    "role": "A",
+    "name": "Addai",
+    "serieATeam": "Com",
+    "cost": 1,
+    "active": true
+  },
+  {
+    "id": "Ichnusa FC:Ngonge:Tor",
+    "ownerTeam": "Ichnusa FC",
+    "role": "A",
+    "name": "Ngonge",
+    "serieATeam": "Tor",
+    "cost": 1,
+    "active": true
+  },
+  {
+    "id": "Ichnusa FC:Castro S.:Bol",
+    "ownerTeam": "Ichnusa FC",
+    "role": "A",
+    "name": "Castro S.",
+    "serieATeam": "Bol",
+    "cost": 34,
+    "active": true
+  },
+  {
+    "id": "I Fuerte Apache:Skorupski:Bol",
+    "ownerTeam": "I Fuerte Apache",
+    "role": "P",
+    "name": "Skorupski",
+    "serieATeam": "Bol",
+    "cost": 11,
+    "active": true
+  },
+  {
+    "id": "Q2 Brothers FC:Montipò:Ver",
+    "ownerTeam": "Q2 Brothers FC",
+    "role": "P",
+    "name": "Montipò",
+    "serieATeam": "Ver",
+    "cost": 1,
+    "active": true
+  },
+  {
+    "id": "I Fuerte Apache:Falcone:Lec",
+    "ownerTeam": "I Fuerte Apache",
+    "role": "P",
+    "name": "Falcone",
+    "serieATeam": "Lec",
+    "cost": 1,
+    "active": true
+  },
+  {
+    "id": "Q2 Brothers FC:Svilar:Rom",
+    "ownerTeam": "Q2 Brothers FC",
+    "role": "P",
+    "name": "Svilar",
+    "serieATeam": "Rom",
+    "cost": 40,
+    "active": true
+  },
+  {
+    "id": "I Fuerte Apache:Butez:Com",
+    "ownerTeam": "I Fuerte Apache",
+    "role": "P",
+    "name": "Butez",
+    "serieATeam": "Com",
+    "cost": 6,
+    "active": true
+  },
+  {
+    "id": "Q2 Brothers FC:Vasquez D.:Rom",
+    "ownerTeam": "Q2 Brothers FC",
+    "role": "P",
+    "name": "Vasquez D.",
+    "serieATeam": "Rom",
+    "cost": 1,
+    "active": true
+  },
+  {
+    "id": "I Fuerte Apache:Darmian:Int",
+    "ownerTeam": "I Fuerte Apache",
+    "role": "D",
+    "name": "Darmian",
+    "serieATeam": "Int",
+    "cost": 1,
+    "active": true
+  },
+  {
+    "id": "Q2 Brothers FC:Bastoni:Int",
+    "ownerTeam": "Q2 Brothers FC",
+    "role": "D",
+    "name": "Bastoni",
+    "serieATeam": "Int",
+    "cost": 20,
+    "active": true
+  },
+  {
+    "id": "I Fuerte Apache:Lazaro:Tor",
+    "ownerTeam": "I Fuerte Apache",
+    "role": "D",
+    "name": "Lazaro",
+    "serieATeam": "Tor",
+    "cost": 3,
+    "active": true
+  },
+  {
+    "id": "Q2 Brothers FC:N'Dicka:Rom",
+    "ownerTeam": "Q2 Brothers FC",
+    "role": "D",
+    "name": "N'Dicka",
+    "serieATeam": "Rom",
+    "cost": 6,
+    "active": true
+  },
+  {
+    "id": "I Fuerte Apache:Dumfries:Int",
+    "ownerTeam": "I Fuerte Apache",
+    "role": "D",
+    "name": "Dumfries",
+    "serieATeam": "Int",
+    "cost": 29,
+    "active": true
+  },
+  {
+    "id": "Q2 Brothers FC:Zappa:Cag",
+    "ownerTeam": "Q2 Brothers FC",
+    "role": "D",
+    "name": "Zappa",
+    "serieATeam": "Cag",
+    "cost": 8,
+    "active": true
+  },
+  {
+    "id": "I Fuerte Apache:Cambiaso:Juv",
+    "ownerTeam": "I Fuerte Apache",
+    "role": "D",
+    "name": "Cambiaso",
+    "serieATeam": "Juv",
+    "cost": 25,
+    "active": true
+  },
+  {
+    "id": "Q2 Brothers FC:Ismajli:Tor",
+    "ownerTeam": "Q2 Brothers FC",
+    "role": "D",
+    "name": "Ismajli",
+    "serieATeam": "Tor",
+    "cost": 4,
+    "active": true
+  },
+  {
+    "id": "I Fuerte Apache:Gatti:Juv",
+    "ownerTeam": "I Fuerte Apache",
+    "role": "D",
+    "name": "Gatti",
+    "serieATeam": "Juv",
+    "cost": 6,
+    "active": true
+  },
+  {
+    "id": "Q2 Brothers FC:Holm:Bol",
+    "ownerTeam": "Q2 Brothers FC",
+    "role": "D",
+    "name": "Holm",
+    "serieATeam": "Bol",
+    "cost": 4,
+    "active": true
+  },
+  {
+    "id": "I Fuerte Apache:Baschirotto:Cre",
+    "ownerTeam": "I Fuerte Apache",
+    "role": "D",
+    "name": "Baschirotto",
+    "serieATeam": "Cre",
+    "cost": 2,
+    "active": true
+  },
+  {
+    "id": "Q2 Brothers FC:Lucumì:Bol",
+    "ownerTeam": "Q2 Brothers FC",
+    "role": "D",
+    "name": "Lucumì",
+    "serieATeam": "Bol",
+    "cost": 7,
+    "active": true
+  },
+  {
+    "id": "I Fuerte Apache:Olivera:Nap",
+    "ownerTeam": "I Fuerte Apache",
+    "role": "D",
+    "name": "Olivera",
+    "serieATeam": "Nap",
+    "cost": 6,
+    "active": true
+  },
+  {
+    "id": "Q2 Brothers FC:Kristensen T.:Udi",
+    "ownerTeam": "Q2 Brothers FC",
+    "role": "D",
+    "name": "Kristensen T.",
+    "serieATeam": "Udi",
+    "cost": 1,
+    "active": true
+  },
+  {
+    "id": "I Fuerte Apache:Kelly L.:Juv",
+    "ownerTeam": "I Fuerte Apache",
+    "role": "D",
+    "name": "Kelly L.",
+    "serieATeam": "Juv",
+    "cost": 1,
+    "active": true
+  },
+  {
+    "id": "Q2 Brothers FC:Circati:Par",
+    "ownerTeam": "Q2 Brothers FC",
+    "role": "D",
+    "name": "Circati",
+    "serieATeam": "Par",
+    "cost": 1,
+    "active": true
+  },
+  {
+    "id": "I Fuerte Apache:Idrissi R.:Cag",
+    "ownerTeam": "I Fuerte Apache",
+    "role": "D",
+    "name": "Idrissi R.",
+    "serieATeam": "Cag",
+    "cost": 1,
+    "active": true
+  },
+  {
+    "id": "Q2 Brothers FC:Valle:Com",
+    "ownerTeam": "Q2 Brothers FC",
+    "role": "D",
+    "name": "Valle",
+    "serieATeam": "Com",
+    "cost": 12,
+    "active": true
+  },
+  {
+    "id": "I Fuerte Apache:Angori:Pis",
+    "ownerTeam": "I Fuerte Apache",
+    "role": "D",
+    "name": "Angori",
+    "serieATeam": "Pis",
+    "cost": 6,
+    "active": true
+  },
+  {
+    "id": "Q2 Brothers FC:Barella:Int",
+    "ownerTeam": "Q2 Brothers FC",
+    "role": "C",
+    "name": "Barella",
+    "serieATeam": "Int",
+    "cost": 34,
+    "active": true
+  },
+  {
+    "id": "I Fuerte Apache:Vazquez:Cre",
+    "ownerTeam": "I Fuerte Apache",
+    "role": "C",
+    "name": "Vazquez",
+    "serieATeam": "Cre",
+    "cost": 15,
+    "active": true
+  },
+  {
+    "id": "Q2 Brothers FC:De Bruyne:Nap",
+    "ownerTeam": "Q2 Brothers FC",
+    "role": "C",
+    "name": "De Bruyne",
+    "serieATeam": "Nap",
+    "cost": 65,
+    "active": true
+  },
+  {
+    "id": "I Fuerte Apache:Freuler:Bol",
+    "ownerTeam": "I Fuerte Apache",
+    "role": "C",
+    "name": "Freuler",
+    "serieATeam": "Bol",
+    "cost": 4,
+    "active": true
+  },
+  {
+    "id": "Q2 Brothers FC:Sottil:Lec",
+    "ownerTeam": "Q2 Brothers FC",
+    "role": "C",
+    "name": "Sottil",
+    "serieATeam": "Lec",
+    "cost": 3,
+    "active": true
+  },
+  {
+    "id": "I Fuerte Apache:Frattesi:Int",
+    "ownerTeam": "I Fuerte Apache",
+    "role": "C",
+    "name": "Frattesi",
+    "serieATeam": "Int",
+    "cost": 14,
+    "active": true
+  },
+  {
+    "id": "Q2 Brothers FC:McKennie:Juv",
+    "ownerTeam": "Q2 Brothers FC",
+    "role": "C",
+    "name": "McKennie",
+    "serieATeam": "Juv",
+    "cost": 1,
+    "active": true
+  },
+  {
+    "id": "I Fuerte Apache:Adopo:Cag",
+    "ownerTeam": "I Fuerte Apache",
+    "role": "C",
+    "name": "Adopo",
+    "serieATeam": "Cag",
+    "cost": 4,
+    "active": true
+  },
+  {
+    "id": "Q2 Brothers FC:Harroui:Ver",
+    "ownerTeam": "Q2 Brothers FC",
+    "role": "C",
+    "name": "Harroui",
+    "serieATeam": "Ver",
+    "cost": 1,
+    "active": true
+  },
+  {
+    "id": "I Fuerte Apache:Da Cunha:Com",
+    "ownerTeam": "I Fuerte Apache",
+    "role": "C",
+    "name": "Da Cunha",
+    "serieATeam": "Com",
+    "cost": 4,
+    "active": true
+  },
+  {
+    "id": "Q2 Brothers FC:Casadei:Tor",
+    "ownerTeam": "Q2 Brothers FC",
+    "role": "C",
+    "name": "Casadei",
+    "serieATeam": "Tor",
+    "cost": 5,
+    "active": true
+  },
+  {
+    "id": "I Fuerte Apache:Gudmundsson A.:Fio",
+    "ownerTeam": "I Fuerte Apache",
+    "role": "C",
+    "name": "Gudmundsson A.",
+    "serieATeam": "Fio",
+    "cost": 67,
+    "active": true
+  },
+  {
+    "id": "Q2 Brothers FC:Folorunsho:Cag",
+    "ownerTeam": "Q2 Brothers FC",
+    "role": "C",
+    "name": "Folorunsho",
+    "serieATeam": "Cag",
+    "cost": 18,
+    "active": true
+  },
+  {
+    "id": "I Fuerte Apache:Fazzini:Fio",
+    "ownerTeam": "I Fuerte Apache",
+    "role": "C",
+    "name": "Fazzini",
+    "serieATeam": "Fio",
+    "cost": 1,
+    "active": true
+  },
+  {
+    "id": "Q2 Brothers FC:Ekkelenkamp:Udi",
+    "ownerTeam": "Q2 Brothers FC",
+    "role": "C",
+    "name": "Ekkelenkamp",
+    "serieATeam": "Udi",
+    "cost": 3,
+    "active": true
+  },
+  {
+    "id": "I Fuerte Apache:Bernabè:Par",
+    "ownerTeam": "I Fuerte Apache",
+    "role": "C",
+    "name": "Bernabè",
+    "serieATeam": "Par",
+    "cost": 15,
+    "active": true
+  },
+  {
+    "id": "Q2 Brothers FC:Conceicao:Juv",
+    "ownerTeam": "Q2 Brothers FC",
+    "role": "C",
+    "name": "Conceicao",
+    "serieATeam": "Juv",
+    "cost": 47,
+    "active": true
+  },
+  {
+    "id": "I Fuerte Apache:Dybala:Rom",
+    "ownerTeam": "I Fuerte Apache",
+    "role": "A",
+    "name": "Dybala",
+    "serieATeam": "Rom",
+    "cost": 65,
+    "active": true
+  },
+  {
+    "id": "Q2 Brothers FC:Dzeko:Fio",
+    "ownerTeam": "Q2 Brothers FC",
+    "role": "A",
+    "name": "Dzeko",
+    "serieATeam": "Fio",
+    "cost": 37,
+    "active": true
+  },
+  {
+    "id": "I Fuerte Apache:Zapata D.:Tor",
+    "ownerTeam": "I Fuerte Apache",
+    "role": "A",
+    "name": "Zapata D.",
+    "serieATeam": "Tor",
+    "cost": 27,
+    "active": true
+  },
+  {
+    "id": "Q2 Brothers FC:David:Juv",
+    "ownerTeam": "Q2 Brothers FC",
+    "role": "A",
+    "name": "David",
+    "serieATeam": "Juv",
+    "cost": 121,
+    "active": true
+  },
+  {
+    "id": "I Fuerte Apache:Lukaku:Nap",
+    "ownerTeam": "I Fuerte Apache",
+    "role": "A",
+    "name": "Lukaku",
+    "serieATeam": "Nap",
+    "cost": 33,
+    "active": true
+  },
+  {
+    "id": "Q2 Brothers FC:Benedyczak:Par",
+    "ownerTeam": "Q2 Brothers FC",
+    "role": "A",
+    "name": "Benedyczak",
+    "serieATeam": "Par",
+    "cost": 1,
+    "active": true
+  },
+  {
+    "id": "I Fuerte Apache:Lucca:Nap",
+    "ownerTeam": "I Fuerte Apache",
+    "role": "A",
+    "name": "Lucca",
+    "serieATeam": "Nap",
+    "cost": 80,
+    "active": true
+  },
+  {
+    "id": "Q2 Brothers FC:Diao:Com",
+    "ownerTeam": "Q2 Brothers FC",
+    "role": "A",
+    "name": "Diao",
+    "serieATeam": "Com",
+    "cost": 54,
+    "active": true
+  },
+  {
+    "id": "I Fuerte Apache:Gimenez:Mil",
+    "ownerTeam": "I Fuerte Apache",
+    "role": "A",
+    "name": "Gimenez",
+    "serieATeam": "Mil",
+    "cost": 48,
+    "active": true
+  },
+  {
+    "id": "Q2 Brothers FC:Lang:Nap",
+    "ownerTeam": "Q2 Brothers FC",
+    "role": "A",
+    "name": "Lang",
+    "serieATeam": "Nap",
+    "cost": 1,
+    "active": true
+  },
+  {
+    "id": "Q2 Brothers FC:Aboukhlal:Tor",
+    "ownerTeam": "Q2 Brothers FC",
+    "role": "A",
+    "name": "Aboukhlal",
+    "serieATeam": "Tor",
+    "cost": 1,
+    "active": true
+  }
+]
