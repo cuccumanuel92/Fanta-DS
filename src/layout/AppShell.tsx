@@ -15,14 +15,19 @@ export default function AppShell() {
             <div className="brandTitleRow">
               <div className="brandTitle">Fanta DS</div>
               <span className="brandBadge">BETA</span>
+              <span className="buildTag">build 18-01 · 01:12</span>
             </div>
             <div className="brandSub">DREAM QSE League</div>
           </div>
         </div>
 
         <div className="topbarActions">
-          <button className="iconBtn" aria-label="Cerca">🔎</button>
-          <button className="iconBtn" aria-label="Impostazioni">⚙️</button>
+          <button className="iconBtn" aria-label="Cerca">
+            🔎
+          </button>
+          <button className="iconBtn" aria-label="Impostazioni">
+            ⚙️
+          </button>
         </div>
       </header>
 
