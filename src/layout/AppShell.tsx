@@ -33,16 +33,22 @@ export default function AppShell() {
 
       {/* NAV pill (resta, ma sotto la topbar) */}
       <div className="pills" style={{ marginTop: 12, marginBottom: 12 }}>
-        <NavLink to="/" className={linkStyle} end>
-          Home
-        </NavLink>
-        <NavLink to="/players" className={linkStyle}>
-          Calciatori
-        </NavLink>
-        <NavLink to="/settings" className={linkStyle}>
-          Impostazioni
-        </NavLink>
-      </div>
+  <NavLink to="/" className={linkStyle} end>
+    Home
+  </NavLink>
+
+  <NavLink to="/players" className={linkStyle}>
+    Calciatori
+  </NavLink>
+
+  <NavLink to="/moves" className={linkStyle}>
+    Operazione consigliata
+  </NavLink>
+
+  <NavLink to="/settings" className={linkStyle}>
+    Impostazioni
+  </NavLink>
+</div>
 
       <Outlet />
     </div>

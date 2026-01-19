@@ -84,7 +84,7 @@ export default function Home() {
               </div>
 
               <div className="row" style={{ gap: 10, marginTop: 12 }}>
-                <button className="btnPrimary">Suggeriscimi una mossa</button>
+                <Link to="/moves" className="btnPrimary">Suggeriscimi una mossa</Link>
                 <Link to="/campo" className="btnGhost">Visione campo</Link>
               </div>
             </div>

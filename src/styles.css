@@ -16,17 +16,14 @@
   --radius-sm: 10px;
 }
 
-* {
-  box-sizing: border-box;
-}
+* { box-sizing: border-box; }
 
 html, body {
   margin: 0;
   padding: 0;
   background: radial-gradient(circle at top, #122018, #050806);
   color: var(--text);
-  font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
-    sans-serif;
+  font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
 }
 
 /* Layout */
@@ -50,15 +47,10 @@ html, body {
   border-bottom: 1px solid var(--border);
 }
 
-.cardBody {
-  padding: 16px;
-}
+.cardBody { padding: 16px; }
 
 /* Typography */
-.h1 {
-  font-size: 22px;
-  margin: 0;
-}
+.h1 { font-size: 22px; margin: 0; }
 
 .sub {
   font-size: 13px;
@@ -66,10 +58,7 @@ html, body {
 }
 
 /* Pills */
-.pills {
-  display: flex;
-  gap: 8px;
-}
+.pills { display: flex; gap: 8px; flex-wrap: wrap; }
 
 .pill {
   padding: 8px 14px;
@@ -78,6 +67,7 @@ html, body {
   background: rgba(255,255,255,0.04);
   color: var(--muted);
   cursor: pointer;
+  text-decoration: none;
 }
 
 .pillActive {
@@ -96,9 +86,7 @@ html, body {
   color: var(--text);
 }
 
-.input::placeholder {
-  color: var(--muted);
-}
+.input::placeholder { color: var(--muted); }
 
 .label {
   display: grid;
@@ -111,20 +99,15 @@ html, body {
 .gridFilters {
   display: grid;
   gap: 12px;
-  grid-template-columns: 1fr 120px 220px;
+  grid-template-columns: 1fr 220px;
 }
 
 @media (max-width: 700px) {
-  .gridFilters {
-    grid-template-columns: 1fr;
-  }
+  .gridFilters { grid-template-columns: 1fr; }
 }
 
 /* Rows */
-.row {
-  display: flex;
-  align-items: center;
-}
+.row { display: flex; align-items: center; }
 
 /* Badge */
 .badge {
@@ -134,6 +117,8 @@ html, body {
   background: var(--green-soft);
   color: var(--green);
 }
+
+/* ===== Topbar ===== */
 .topbar{
   position: sticky;
   top: 0;
@@ -163,258 +148,18 @@ html, body {
   box-shadow: 0 10px 20px rgba(0,0,0,0.35);
 }
 
-.brandText{
-  min-width:0;
+.brandText{ min-width:0; }
+
+.brandTitleRow{
+  display:flex;
+  align-items:center;
+  gap: 8px;
 }
 
 .brandTitle{
   font-weight: 900;
   letter-spacing: .2px;
   line-height: 1.1;
-}
-
-.brandSub{
-  font-size: 12px;
-  color: var(--muted);
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
-  max-width: 220px;
-}
-
-.topbarActions{
-  display:flex;
-  gap:8px;
-}
-
-.iconBtn{
-  width: 38px;
-  height: 38px;
-  border-radius: 999px;
-  border: 1px solid var(--border);
-  background: rgba(255,255,255,0.04);
-  color: var(--text);
-  cursor:pointer;
-}
-
-.iconBtn:active{
-  transform: scale(0.98);
-}
-/* ===== Pitch (campo) ===== */
-.pitchWrap {
-  padding: 14px;
-}
-
-.pitch {
-  position: relative;
-  width: 100%;
-  aspect-ratio: 3 / 5; /* verticale stile mobile */
-  border-radius: 22px;
-  overflow: hidden;
-  border: 1px solid rgba(255,255,255,0.12);
-  box-shadow: 0 24px 60px rgba(0,0,0,0.55);
-  background:
-    /* righe orizzontali sottili */
-    repeating-linear-gradient(
-      to bottom,
-      rgba(255,255,255,0.06) 0px,
-      rgba(255,255,255,0.06) 1px,
-      rgba(0,0,0,0) 1px,
-      rgba(0,0,0,0) 44px
-    ),
-    /* prato a bande */
-    repeating-linear-gradient(
-      to bottom,
-      rgba(47,191,113,0.12) 0px,
-      rgba(47,191,113,0.12) 60px,
-      rgba(47,191,113,0.06) 60px,
-      rgba(47,191,113,0.06) 120px
-    ),
-    linear-gradient(180deg, #0e3a24 0%, #082516 100%);
-}
-
-/* linee bianche e aree */
-.pitchLines {
-  position: absolute;
-  inset: 12px;
-  border: 2px solid rgba(255,255,255,0.55);
-  border-radius: 18px;
-}
-
-.pitchMid {
-  position: absolute;
-  left: 12px;
-  right: 12px;
-  top: 50%;
-  transform: translateY(-50%);
-  border-top: 2px solid rgba(255,255,255,0.55);
-}
-
-.pitchCenterCircle {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  width: 110px;
-  height: 110px;
-  transform: translate(-50%, -50%);
-  border: 2px solid rgba(255,255,255,0.55);
-  border-radius: 999px;
-}
-
-.pitchCenterDot {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  width: 8px;
-  height: 8px;
-  transform: translate(-50%, -50%);
-  background: rgba(255,255,255,0.65);
-  border-radius: 999px;
-}
-
-/* Aree di rigore (alto e basso) */
-.boxTop, .boxBottom {
-  position: absolute;
-  left: 50%;
-  width: 70%;
-  height: 18%;
-  transform: translateX(-50%);
-  border: 2px solid rgba(255,255,255,0.55);
-}
-
-.boxTop { top: 12px; border-bottom: none; }
-.boxBottom { bottom: 12px; border-top: none; }
-
-.sixTop, .sixBottom {
-  position: absolute;
-  left: 50%;
-  width: 42%;
-  height: 9.5%;
-  transform: translateX(-50%);
-  border: 2px solid rgba(255,255,255,0.55);
-}
-
-.sixTop { top: 12px; border-bottom: none; }
-.sixBottom { bottom: 12px; border-top: none; }
-
-/* layer giocatori sopra */
-.pitchLayer {
-  position: absolute;
-  inset: 0;
-  padding: 16px;
-  display: grid;
-  grid-template-rows: 1fr 1fr 1fr 1fr 1fr; /* 5 linee: ATT, CEN, DIF, POR + panchina/extra se vuoi */
-  gap: 10px;
-}
-
-.pitchRow {
-  display: flex;
-  align-items: center;
-  justify-content: space-evenly;
-  gap: 10px;
-}
-/* ===== PITCH (campo) ===== */
-
-.pitchField{
-  position: relative;
-  border-radius: 18px;
-  overflow: hidden;
-  min-height: 520px;
-  background: radial-gradient(1200px 600px at 50% 0%, rgba(80,210,120,.28), transparent 60%),
-              linear-gradient(180deg, rgba(20,120,70,.85), rgba(10,70,45,.92));
-  border: 1px solid rgba(255,255,255,.10);
-  box-shadow: 0 18px 60px rgba(0,0,0,.40);
-}
-
-.pitchLines{
-  position:absolute; inset: 14px;
-  border: 2px solid rgba(255,255,255,.45);
-  border-radius: 14px;
-  pointer-events:none;
-}
-
-.pitchLines::before{
-  content:"";
-  position:absolute; left:0; right:0; top:50%;
-  height: 2px;
-  background: rgba(255,255,255,.40);
-  transform: translateY(-1px);
-}
-
-.pitchLines::after{
-  content:"";
-  position:absolute; left:50%; top:50%;
-  width: 160px; height: 160px;
-  border: 2px solid rgba(255,255,255,.40);
-  border-radius: 999px;
-  transform: translate(-50%,-50%);
-}
-
-.pitchPlayers{
-  position:absolute; inset: 0;
-  padding: 22px 18px;
-  display:flex;
-  flex-direction: column;
-  justify-content: space-between;
-  gap: 12px;
-}
-
-.line{
-  display:flex;
-  justify-content:center;
-  gap: 12px;
-  flex-wrap: wrap;
-}
-
-.lineGk{ padding-bottom: 8px; }
-.lineAtt{ padding-top: 8px; }
-
-.pchip{
-  width: 92px;
-  border-radius: 16px;
-  padding: 10px 10px 9px;
-  background: rgba(10,18,22,.55);
-  border: 1px solid rgba(255,255,255,.12);
-  backdrop-filter: blur(10px);
-  text-align:center;
-}
-
-.pchipAvatar{
-  width: 46px; height: 46px;
-  margin: 0 auto 8px;
-  border-radius: 999px;
-  display:flex;
-  align-items:center;
-  justify-content:center;
-  font-weight: 900;
-  letter-spacing: .5px;
-  color: rgba(255,255,255,.95);
-  border: 2px solid rgba(255,255,255,.24);
-  background: rgba(255,255,255,.10);
-}
-
-.pchipName{
-  font-weight: 900;
-  font-size: 12px;
-  line-height: 1.1;
-}
-
-.pchipMeta{
-  margin-top: 4px;
-  font-size: 11px;
-  opacity: .75;
-}
-
-/* Role accent */
-.pchip_P .pchipAvatar{ background: rgba(80,160,255,.20); }
-.pchip_D .pchipAvatar{ background: rgba(80,220,160,.18); }
-.pchip_C .pchipAvatar{ background: rgba(255,200,80,.18); }
-.pchip_A .pchipAvatar{ background: rgba(255,90,120,.18); }
-
-.brandTitleRow{
-  display:flex;
-  align-items:center;
-  gap: 8px;
 }
 
 .brandBadge{
@@ -428,15 +173,531 @@ html, body {
   box-shadow: 0 10px 22px rgba(0,0,0,.25);
   opacity: .95;
 }
-.brandTitleRow {
-  display: flex;
-  align-items: center;
-  gap: 8px;
-}
 
 .buildTag {
   font-size: 11px;
   font-weight: 700;
   opacity: 0.55;
   letter-spacing: 0.3px;
+}
+
+.brandSub{
+  font-size: 12px;
+  color: var(--muted);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 220px;
+}
+
+.topbarActions{ display:flex; gap:8px; }
+
+.iconBtn{
+  width: 38px;
+  height: 38px;
+  border-radius: 999px;
+  border: 1px solid var(--border);
+  background: rgba(255,255,255,0.04);
+  color: var(--text);
+  cursor:pointer;
+}
+
+.iconBtn:active{ transform: scale(0.98); }
+
+/* =========================
+   PITCH (campo) - RESET PULITO (UNICO)
+========================= */
+
+.pitchField{
+  position: relative;
+  width: 100%;
+  min-height: 520px;
+  border-radius: 18px;
+  overflow: hidden;
+
+  /* erba: bande + micro texture */
+  background:
+    /* micro texture (puntini leggerissimi) */
+    radial-gradient(circle at 20% 30%, rgba(255,255,255,.05) 0 1px, transparent 1px 100%),
+    radial-gradient(circle at 70% 60%, rgba(255,255,255,.04) 0 1px, transparent 1px 100%),
+    radial-gradient(circle at 50% 80%, rgba(255,255,255,.035) 0 1px, transparent 1px 100%),
+
+    /* righe sottili da prato */
+    repeating-linear-gradient(
+      to bottom,
+      rgba(255,255,255,0.04) 0px,
+      rgba(255,255,255,0.04) 1px,
+      rgba(0,0,0,0) 1px,
+      rgba(0,0,0,0) 48px
+    ),
+
+    /* bande erba */
+    repeating-linear-gradient(
+      to bottom,
+      rgba(60, 220, 130, 0.18) 0px,
+      rgba(60, 220, 130, 0.18) 70px,
+      rgba(60, 220, 130, 0.08) 70px,
+      rgba(60, 220, 130, 0.08) 140px
+    ),
+
+    /* base prato */
+    linear-gradient(180deg, #0f5a35 0%, #08311d 100%);
+
+  border: 1px solid rgba(255,255,255,.10);
+  box-shadow: 0 18px 60px rgba(0,0,0,.45);
+}
+
+/* layer linee */
+.pitchMarks{
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+}
+
+/* bordo campo completo (linee laterali + fondo) */
+.pitchOuter{
+  position: absolute;
+  inset: 14px;
+  border: 2px solid rgba(255,255,255,.55);
+  border-radius: 14px;
+}
+
+/* metà campo */
+.pitchMid{
+  position: absolute;
+  left: 14px;
+  right: 14px;
+  top: 50%;
+  border-top: 2px solid rgba(255,255,255,.50);
+  transform: translateY(-1px);
+}
+
+/* centrocampo */
+.pitchCenterCircle{
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: 160px;
+  height: 160px;
+  transform: translate(-50%,-50%);
+  border: 2px solid rgba(255,255,255,.50);
+  border-radius: 999px;
+}
+.pitchCenterDot{
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: 8px;
+  height: 8px;
+  transform: translate(-50%,-50%);
+  background: rgba(255,255,255,.70);
+  border-radius: 999px;
+}
+
+/* AREE (chiuse) */
+.boxTop, .boxBottom{
+  position: absolute;
+  left: 50%;
+  width: 72%;
+  height: 18%;
+  transform: translateX(-50%);
+  border: 2px solid rgba(255,255,255,.50);
+}
+.sixTop, .sixBottom{
+  position: absolute;
+  left: 50%;
+  width: 44%;
+  height: 9.5%;
+  transform: translateX(-50%);
+  border: 2px solid rgba(255,255,255,.50);
+}
+
+/* allineate al bordo interno */
+.boxTop{ top: 14px; }
+.sixTop{ top: 14px; }
+
+.boxBottom{ bottom: 14px; }
+.sixBottom{ bottom: 14px; }
+
+/* lunette (semi-cerchio) pulite */
+.arcTop, .arcBottom{
+  position: absolute;
+  left: 50%;
+  width: 120px;          /* ← più piccola */
+  height: 120px;         /* ← più piccola */
+  transform: translateX(-50%);
+  border: 2px solid rgba(255,255,255,.50);
+  border-radius: 999px;
+}
+
+/* posizione: vicino alla linea dell’area (18%) */
+.arcTop{
+  top: calc(14px + 18% - 60px);   /* metà della nuova altezza */
+  clip-path: inset(50% 0 0 0);   /* mostra solo metà bassa */
+}
+
+.arcBottom{
+  bottom: calc(14px + 18% - 60px);
+  clip-path: inset(0 0 50% 0);   /* mostra solo metà alta */
+}
+
+/* layer giocatori sopra */
+.pitchPlayers{
+  position: absolute;
+  inset: 0;
+  padding: 22px 18px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+/* righe: NO WRAP */
+.line{
+  display:flex;
+  justify-content: space-evenly;
+  gap: 10px;
+  flex-wrap: nowrap;       /* NON andare a capo */
+  width: 100%;
+}
+.pitchPlayers .line{
+  overflow: hidden;        /* niente “seconda riga” */
+}
+
+.lineGk{ padding-bottom: 8px; }
+.lineAtt{ padding-top: 8px; }
+
+/* chip responsive (mai troppo grandi su mobile) */
+.pchip{
+  width: clamp(52px, 16vw, 88px);
+  border-radius: 16px;
+  padding: clamp(6px, 1.6vw, 10px);
+  background: rgba(10,18,22,.55);
+  border: 1px solid rgba(255,255,255,.14);
+  backdrop-filter: blur(10px);
+  text-align: center;
+}
+
+.pchipAvatar{
+  width: clamp(30px, 7.5vw, 44px);
+  height: clamp(30px, 7.5vw, 44px);
+  margin: 0 auto clamp(5px, 1.2vw, 8px);
+  border-radius: 999px;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  font-weight: 900;
+  letter-spacing: .4px;
+  color: rgba(255,255,255,.95);
+  border: 2px solid rgba(255,255,255,.22);
+  background: rgba(255,255,255,.10);
+}
+
+.pchipName{
+  font-weight: 900;
+  font-size: clamp(10px, 2.6vw, 12px);
+  line-height: 1.1;
+}
+
+.pchipMeta{
+  margin-top: 4px;
+  font-size: clamp(9px, 2.2vw, 11px);
+  opacity: .75;
+}
+
+/* accenti ruolo */
+.pchip_P .pchipAvatar{ background: rgba(80,160,255,.22); }
+.pchip_D .pchipAvatar{ background: rgba(80,220,160,.20); }
+.pchip_C .pchipAvatar{ background: rgba(255,200,80,.20); }
+.pchip_A .pchipAvatar{ background: rgba(255,90,120,.20); }
+
+/* ===== Buttons (se non li hai già) ===== */
+.btnPrimary{
+  padding: 10px 14px;
+  border-radius: 12px;
+  border: 1px solid rgba(255,255,255,.10);
+  background: rgba(47,191,113,0.18);
+  color: var(--text);
+  cursor: pointer;
+}
+.btnPrimary:active{ transform: scale(.98); }
+
+.btnGhost{
+  padding: 10px 14px;
+  border-radius: 12px;
+  border: 1px solid rgba(255,255,255,.12);
+  background: rgba(255,255,255,.06);
+  color: var(--text);
+  cursor: pointer;
+}
+.btnGhostActive{
+  border-color: rgba(47,191,113,.6);
+  background: rgba(47,191,113,0.14);
+}
+
+/* ===== Chip interattive ===== */
+.pchip{
+  transition: transform .14s ease, box-shadow .14s ease, border-color .14s ease;
+}
+.pchip:not(.pchipEmpty):hover{
+  transform: translateY(-2px);
+  box-shadow: 0 18px 40px rgba(0,0,0,.35);
+}
+.pchip:not(.pchipEmpty):active{
+  transform: scale(.98);
+}
+.pchipEmpty{
+  opacity: .35;
+  cursor: default;
+}
+.pchipCompared{
+  border-color: rgba(47,191,113,.6);
+  box-shadow: 0 0 0 2px rgba(47,191,113,0.14) inset;
+}
+
+.pchipTopRow{
+  display:flex;
+  align-items:center;
+  justify-content: space-between;
+  gap: 8px;
+}
+
+.pchipPlus{
+  width: 26px;
+  height: 26px;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  border-radius: 999px;
+  border: 1px solid rgba(255,255,255,.14);
+  background: rgba(255,255,255,.08);
+  color: var(--text);
+  font-weight: 900;
+}
+
+/* ===== Lista emergenze ===== */
+.emList{
+  margin: 0;
+  padding-left: 18px;
+}
+.emItem{
+  color: rgba(231,239,233,.85);
+  font-size: 13px;
+  margin: 6px 0;
+}
+
+/* ===== Panchina ===== */
+.benchList{
+  display: grid;
+  gap: 10px;
+}
+.benchItem{
+  display:flex;
+  align-items:center;
+  justify-content: space-between;
+  gap: 10px;
+  width: 100%;
+  padding: 12px;
+  border-radius: 14px;
+  border: 1px solid rgba(255,255,255,.10);
+  background: rgba(255,255,255,.06);
+  color: var(--text);
+  cursor: pointer;
+  text-align: left;
+}
+.benchItem:active{ transform: scale(.99); }
+.benchItemActive{
+  border-color: rgba(47,191,113,.6);
+  background: rgba(47,191,113,0.10);
+}
+.benchMain{ min-width: 0; }
+.benchName{ font-weight: 900; }
+.benchMeta{ font-size: 12px; opacity: .72; margin-top: 2px; }
+.benchActions{ display:flex; gap: 8px; }
+
+.miniBtn{
+  width: 34px;
+  height: 34px;
+  border-radius: 999px;
+  border: 1px solid rgba(255,255,255,.14);
+  background: rgba(255,255,255,.08);
+  color: var(--text);
+  cursor: pointer;
+  font-weight: 900;
+}
+.miniBtnWide{
+  width: 100%;
+  margin-top: 10px;
+  padding: 10px 12px;
+  border-radius: 12px;
+  border: 1px solid rgba(255,255,255,.12);
+  background: rgba(255,255,255,.06);
+  color: var(--text);
+  cursor: pointer;
+}
+
+/* ===== Modal ===== */
+.modalOverlay{
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,.55);
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  padding: 18px;
+  z-index: 999;
+}
+
+.modal{
+  width: min(720px, 100%);
+  border-radius: 18px;
+  border: 1px solid rgba(255,255,255,.10);
+  background: rgba(12,14,13,.92);
+  backdrop-filter: blur(16px);
+  box-shadow: 0 30px 90px rgba(0,0,0,.55);
+  overflow: hidden;
+}
+
+.modalHeader{
+  display:flex;
+  align-items:center;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 14px 14px;
+  border-bottom: 1px solid rgba(255,255,255,.08);
+}
+
+.modalTitle{
+  font-weight: 900;
+  letter-spacing: .2px;
+}
+
+.modalBody{
+  padding: 14px;
+}
+
+.playerHeader{
+  margin-bottom: 12px;
+}
+.playerName{
+  font-size: 18px;
+  font-weight: 900;
+}
+.playerMeta{
+  font-size: 13px;
+  opacity: .75;
+  margin-top: 4px;
+}
+
+.statGrid{
+  display:grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+  margin-top: 12px;
+}
+@media (max-width: 520px){
+  .statGrid{ grid-template-columns: 1fr; }
+}
+
+.stat{
+  border-radius: 14px;
+  border: 1px solid rgba(255,255,255,.08);
+  background: rgba(255,255,255,.06);
+  padding: 12px;
+}
+.statLabel{
+  font-size: 12px;
+  opacity: .75;
+}
+.statValue{
+  font-weight: 900;
+  margin-top: 6px;
+}
+
+/* ===== Compare ===== */
+.compareGrid{
+  display:grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
+}
+@media (max-width: 720px){
+  .compareGrid{ grid-template-columns: 1fr; }
+}
+.compareCard{
+  border-radius: 16px;
+  border: 1px solid rgba(255,255,255,.10);
+  background: rgba(255,255,255,.06);
+  padding: 12px;
+}
+.compareTitle{ font-weight: 900; font-size: 15px; }
+.compareSub{ font-size: 12px; opacity: .75; margin-top: 2px; }
+
+.compareStats{ margin-top: 10px; display:grid; gap: 6px; }
+.compareRow{
+  display:flex;
+  align-items:center;
+  justify-content: space-between;
+  gap: 10px;
+  font-size: 13px;
+}
+.compareLabel{ opacity: .75; }
+.compareValue{ font-weight: 900; }
+
+.modalBackdrop{
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,.55);
+  display:flex;
+  align-items:flex-end;
+  justify-content:center;
+  padding: 14px;
+  z-index: 999;
+}
+
+.modalCard{
+  width: min(520px, 100%);
+  background: rgba(20, 26, 23, 0.95);
+  border: 1px solid rgba(255,255,255,.10);
+  border-radius: 18px;
+  box-shadow: 0 30px 80px rgba(0,0,0,.65);
+  padding: 14px;
+}
+
+.modalHeader{
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  gap: 10px;
+  margin-bottom: 8px;
+}
+
+.statsGrid{
+  display:grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 10px;
+}
+
+.stat{
+  border: 1px solid rgba(255,255,255,.10);
+  border-radius: 14px;
+  padding: 10px;
+  background: rgba(255,255,255,.04);
+  display:flex;
+  align-items:baseline;
+  justify-content:space-between;
+  gap: 10px;
+}
+
+.stat span{ font-size: 12px; color: rgba(255,255,255,.65); }
+.stat b{ font-size: 16px; }
+
+/* FIX DEFINITIVO: nel campo le righe NON devono mai andare a capo */
+.pitchPlayers .line{
+  flex-wrap: nowrap !important;
+  justify-content: space-evenly !important;
+  width: 100%;
+}
+/* DEBUG: se vedi un bordo rosa enorme sul campo, questo CSS è quello caricato */
+.pitchField{
+  outline: 6px solid rgb(237, 249, 57) !important;
 }

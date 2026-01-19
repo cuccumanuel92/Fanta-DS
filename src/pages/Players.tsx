@@ -139,126 +139,130 @@ const source = mode === "ROSA" ? league : freeAgents;
   }, [source, q, role, owner, onlyActive, mode]);
 
   return (
-    <div style={{ padding: 16, maxWidth: 980, margin: "0 auto" }}>
-      <h1 style={{ marginBottom: 12 }}>
-  Calciatori ({source.length}/{mode === "ROSA" ? league.length : all.length})
-</h1>
+  <div className="container">
+    <div className="card" style={{ marginBottom: 12 }}>
+      <div className="cardHeader">
+        <div className="row" style={{ justifyContent: "space-between" }}>
+          <div>
+            <h1 className="h1">Calciatori</h1>
+            <div className="sub">
+              {mode === "ROSA" ? "In rosa" : "Svincolati"} • {source.length}/
+              {mode === "ROSA" ? league.length : all.length}
+            </div>
+          </div>
 
-<div style={{ display: "flex", gap: 8, marginBottom: 12 }}>
-  <button onClick={() => setMode("ROSA")}>In rosa</button>
-  <button onClick={() => setMode("SVINCOLATI")}>Svincolati</button>
-</div>
+          <span className="badge">{mode === "ROSA" ? "ROSA" : "SVINCOLATI"}</span>
+        </div>
+
+        <div className="pills" style={{ marginTop: 10 }}>
+          <button
+            className={`pill ${mode === "ROSA" ? "pillActive" : ""}`}
+            onClick={() => setMode("ROSA")}
+          >
+            In rosa
+          </button>
+          <button
+            className={`pill ${mode === "SVINCOLATI" ? "pillActive" : ""}`}
+            onClick={() => setMode("SVINCOLATI")}
+          >
+            Svincolati
+          </button>
+        </div>
+      </div>
+    </div>
 
 
       {/* Filtri */}
-      <div
-        style={{
-          display: "grid",
-          gap: 8,
-          gridTemplateColumns: "1fr 120px 220px",
-          alignItems: "end",
-          marginBottom: 12,
-        }}
-      >
-        <label style={{ display: "grid", gap: 6 }}>
-          <span style={{ fontSize: 12, opacity: 0.8 }}>Cerca</span>
-          <input
-            value={q}
-            onChange={(e) => setQ(e.target.value)}
-            placeholder="Es. Lautaro, Barella…"
-            style={{
-              padding: "10px 12px",
-              borderRadius: 10,
-              border: "1px solid rgba(255,255,255,0.12)",
-              background: "rgba(0,0,0,0.25)",
-              color: "inherit",
-            }}
-          />
-        </label>
-
-        <label style={{ display: "grid", gap: 6 }}>
-          <span style={{ fontSize: 12, opacity: 0.8 }}>Ruolo</span>
-          <select
-            value={role}
-            onChange={(e) => setRole(e.target.value as any)}
-            style={{
-              padding: "10px 12px",
-              borderRadius: 10,
-              border: "1px solid rgba(255,255,255,0.12)",
-              background: "rgba(0,0,0,0.25)",
-              color: "inherit",
-            }}
-          >
-            <option value="ALL">Tutti</option>
-            <option value="P">P</option>
-            <option value="D">D</option>
-            <option value="C">C</option>
-            <option value="A">A</option>
-          </select>
-        </label>
-
-        {mode === "ROSA" && (
-  <label style={{ display: "grid", gap: 6 }}>
-    <span style={{ fontSize: 12, opacity: 0.8 }}>Squadra fantacalcio</span>
-    <select
-      value={owner}
-      onChange={(e) => setOwner(e.target.value)}
-      style={{
-        padding: "10px 12px",
-        borderRadius: 10,
-        border: "1px solid rgba(255,255,255,0.12)",
-        background: "rgba(0,0,0,0.25)",
-        color: "inherit",
-      }}
-    >
-      <option value="ALL">Tutte</option>
-      {owners.map((o) => (
-        <option key={o} value={o}>
-          {o}
-        </option>
-      ))}
-    </select>
-  </label>
-)}
-      </div>
-
-      <label style={{ display: "flex", gap: 8, alignItems: "center", marginBottom: 14 }}>
+<div className="card" style={{ marginBottom: 12 }}>
+  <div className="cardBody">
+    <div className="gridFilters">
+      <label className="label">
+        <span>Cerca</span>
         <input
-          type="checkbox"
-          checked={onlyActive}
-          onChange={(e) => setOnlyActive(e.target.checked)}
+          className="input"
+          value={q}
+          onChange={(e) => setQ(e.target.value)}
+          placeholder="Es. Lautaro, Barella…"
         />
-        <span>Solo giocatori attivi</span>
       </label>
 
-      {/* Lista */}
-      <div style={{ display: "grid", gap: 8 }}>
-        {filtered.map((p) => (
-          <div
-            key={p.id}
-            style={{
-              border: "1px solid rgba(255,255,255,0.12)",
-              borderRadius: 12,
-              padding: 12,
-            }}
+      <label className="label">
+        <span>Ruolo</span>
+        <select
+          className="select"
+          value={role}
+          onChange={(e) => setRole(e.target.value as any)}
+        >
+          <option value="ALL">Tutti</option>
+          <option value="P">P</option>
+          <option value="D">D</option>
+          <option value="C">C</option>
+          <option value="A">A</option>
+        </select>
+      </label>
+
+      {mode === "ROSA" && (
+        <label className="label">
+          <span>Squadra fantacalcio</span>
+          <select
+            className="select"
+            value={owner}
+            onChange={(e) => setOwner(e.target.value)}
           >
-            <div style={{ fontWeight: 800 }}>
-              {p.role} — {p.name}
-            </div>
-            <div style={{ opacity: 0.85, fontSize: 14 }}>
-              {p.serieATeam}
-{mode === "ROSA" ? (
-  <>
-    {" "}
-    • {(p as LeaguePlayer).ownerTeam} • costo {(p as LeaguePlayer).cost}
-  </>
-) : (
-  <> • Svincolato</>
-)}
-              {!p.active ? " • (non più in campionato)" : ""}
-            </div>          </div>
-        ))}
+            <option value="ALL">Tutte</option>
+            {owners.map((o) => (
+              <option key={o} value={o}>
+                {o}
+              </option>
+            ))}
+          </select>
+        </label>
+      )}
+    </div>
+  </div>
+</div>
+
+      <div className="card" style={{ marginBottom: 12 }}>
+  <div className="cardBody">
+    <label className="row" style={{ gap: 10 }}>
+      <input
+        type="checkbox"
+        checked={onlyActive}
+        onChange={(e) => setOnlyActive(e.target.checked)}
+      />
+      <span style={{ color: "var(--muted)", fontWeight: 800 }}>
+        Solo giocatori attivi
+      </span>
+    </label>
+  </div>
+</div>
+
+      {/* Lista */}
+<div style={{ display: "grid", gap: 8 }}>
+  {filtered.map((p) => (
+    <div key={p.id} className="card">
+      <div className="cardBody">
+        <div style={{ fontWeight: 800 }}>
+          {p.role} — {p.name}
+        </div>
+
+        <div style={{ opacity: 0.85, fontSize: 14 }}>
+          {p.serieATeam}
+          {mode === "ROSA" ? (
+            <>
+              {" "}
+              • {(p as LeaguePlayer).ownerTeam} • costo {(p as LeaguePlayer).cost}
+            </>
+          ) : (
+            <> • Svincolato</>
+          )}
+          {!p.active ? " • (non più in campionato)" : ""}
+        </div>
       </div>
     </div>
+  ))}
+</div>
+
+</div>
   );
 }

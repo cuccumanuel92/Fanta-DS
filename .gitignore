@@ -4,3 +4,19 @@ dist
 .env.local
 .vscode
 .DS_Store
+# input locali (non versionare)
+data_in/
+
+# output generati (evitiamo di pushare file grossi)
+src/data/fc_stats.json
+src/data/fc_stats_flat.json
+
+# build / deps
+node_modules/
+dist/
+.vite/
+*.log
+
+# env
+.env
+.env.*
